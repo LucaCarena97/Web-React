@@ -4,22 +4,14 @@
 
 @font-face {
   font-family: "Quicksand";
-  src: url("./fonts/Quicksand-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-/* Agrega las variantes adicionales si las tienes */
-@font-face {
-  font-family: "Quicksand";
-  src: url("./fonts/Quicksand-Bold.ttf") format("truetype");
-  font-weight: bold;
+  src: url("./fonts/Quicksand-Medium.ttf") format("truetype");
+  font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Quicksand";
-  src: url("./fonts/Quicksand-Italic.ttf") format("truetype");
-  font-weight: normal;
-  font-style: italic;
+  src: url("./fonts/Quicksand-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
 }

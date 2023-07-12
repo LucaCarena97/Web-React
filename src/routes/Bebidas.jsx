@@ -32,7 +32,7 @@ export function Bebidas() {
       </section>
 
       <section>
-        <table className="table-fixed mx-auto mt-2 bg-green-300 text-lg">
+        <table className="table-fixed mx-auto mt-2 bg-green-300 text-lg font-quicksand font-bold">
           <tr>
             <td className="w-2/5 border-2 border-blue-400 text-center px-2">
               Descripción de productos
