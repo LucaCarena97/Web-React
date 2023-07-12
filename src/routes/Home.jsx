@@ -5,7 +5,7 @@ export function Home() {
     <main className="border-black border-2">
       <section className="flex flex-col gap-5 items-center border-yellow-300 border-2 m-5">
         <Link
-          className="bg-blue-400 text-center border-2 border-blue-400 w-32 p-1 hover:bg-blue-00 hover:text-white"
+          className="bg-blue-400 text-center border-2 border-blue-400 w-32 p-1 hover:bg-blue-500 hover:text-white"
           to={"/bebidas"}
         >
           Bebidas
