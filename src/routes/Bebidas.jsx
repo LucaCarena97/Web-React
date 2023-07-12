@@ -4,7 +4,7 @@ import bebida from "../json/bebidas/gaseosas.json";
 export function Bebidas() {
   return (
     <main>
-      <section className=" flex justify-evenly p-4 bg-indigo-300">
+      <section className=" flex justify-center gap-10 p-4 bg-indigo-300 border-blue-400 border-2">
         <Link
           className="bg-blue-300 text-center border-2 border-blue-400 w-32 p-1 hover:bg-blue-500 hover:text-white"
           to={"/bebidas"}
@@ -30,26 +30,31 @@ export function Bebidas() {
           Varios
         </Link>
       </section>
-      <section className=" flex items-center justify-center bg-pink-400 p-2 text-lg border-pink-500 border-2">
-        <span className="flex-1 flex justify-start pl-10">Producto</span>
-        <span className="flex-1 flex justify-end pr-10">Precio</span>
-      </section>
+
       <section>
-        <article className=" flex flex-col p-5 gap-1 text-sm">
+        <table className="table-fixed mx-auto mt-2 bg-green-300">
+          <tr>
+            <td className="w-4/5 px-5  border-2 border-blue-400 text-center">
+              Descripción de productos
+            </td>
+            <td className="w-1/5 px-5  border-2 border-blue-400 text-center">
+              Precios
+            </td>
+          </tr>
+        </table>
+      </section>
+
+      <section className=" border-2">
+        <table className="table-fixed mx-auto mt-2">
           {bebida.map(function (item) {
             return (
-              <div
-                className=" flex items-center justify-center gap-5"
-                key={item.id}
-              >
-                <span className="flex-1 flex justify-start">
-                  {item.producto}
-                </span>
-                <span className="flex-1 flex justify-end">${item.precio}</span>
-              </div>
+              <tr key={item.id}>
+                <td className="w-3/4 px-5">{item.producto}</td>
+                <td className="w-1/4 px-5 text-right">${item.precio}</td>
+              </tr>
             );
           })}
-        </article>
+        </table>
       </section>
     </main>
   );
