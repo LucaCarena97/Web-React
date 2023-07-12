@@ -1,13 +1,13 @@
-import gaseosas from "../json/bebidas/gaseosas.json";
 import { Menu } from "./Menu";
-import { Categorias } from "./Categorias";
+import quento from "../json/alimentos/quento.json";
+import { CategoriasA } from "./CategoriasA";
 
-export function Gaseosas() {
+export function Quento() {
   return (
     <>
       <section className="flex gap-5">
         <Menu />
-        <Categorias />
+        <CategoriasA />
       </section>
 
       <article>
@@ -26,7 +26,7 @@ export function Gaseosas() {
 
         <section>
           <table className="table-fixed mx-auto mt-2 text-lg font-quicksand">
-            {gaseosas.map(function (item) {
+            {quento.map(function (item) {
               return (
                 <tr key={item.id}>
                   <td className="w-3/4 px-5">{item.producto}</td>

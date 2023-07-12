@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
-export function DropdownButton() {
+export function Categorias() {
   const [mostrarDesplegable, setMostrarDesplegable] = useState(false);
 
   const toggleDesplegable = () => {
@@ -14,7 +14,7 @@ export function DropdownButton() {
         className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 ml-5 mt-5"
         onClick={toggleDesplegable}
       >
-        Menú
+        Categorias
       </button>
       {mostrarDesplegable && (
         <div className="absolute left-5 bg-white border border-gray-300 rounded p-2 w-30">

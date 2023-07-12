@@ -8,6 +8,7 @@ import { Higiene } from "./routes/Higiene";
 import { Varios } from "./routes/Varios";
 import { Footer } from "./components/Footer";
 import { Gaseosas } from "./components/Gaseosas";
+import { Quento } from "./components/Quento";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/bebidas" element={<Bebidas />} />
         <Route path="/bebidas/gaseosas" element={<Gaseosas />} />
         <Route path="/alimentos" element={<Alimentos />} />
+        <Route path="/alimentos/quento" element={<Quento />} />
         <Route path="/higiene" element={<Higiene />} />
         <Route path="/varios" element={<Varios />} />
       </Routes>

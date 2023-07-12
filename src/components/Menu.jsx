@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
-export function Botones() {
+export function Menu() {
   const [mostrarDesplegable, setMostrarDesplegable] = useState(false);
 
   useEffect(() => {
