@@ -32,19 +32,19 @@ export function Bebidas() {
       </section>
 
       <section>
-        <table className="table-fixed mx-auto mt-2 bg-green-300">
+        <table className="table-fixed mx-auto mt-2 bg-green-300 text-lg">
           <tr>
-            <td className="w-4/5 px-5  border-2 border-blue-400 text-center">
+            <td className="w-3/5 px-4  border-2 border-blue-400 text-center">
               Descripción de productos
             </td>
-            <td className="w-1/5 px-5  border-2 border-blue-400 text-center">
+            <td className="w-1/5 px-4  border-2 border-blue-400 text-center">
               Precios
             </td>
           </tr>
         </table>
       </section>
 
-      <section className=" border-2">
+      <section className=" border-2 text-lg">
         <table className="table-fixed mx-auto mt-2">
           {bebida.map(function (item) {
             return (
