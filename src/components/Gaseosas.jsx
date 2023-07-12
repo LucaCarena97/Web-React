@@ -1,10 +1,14 @@
 import gaseosas from "../json/bebidas/gaseosas.json";
 import { Botones } from "./Botones";
+import { DropdownButton } from "./DropdownButton";
 
 export function Gaseosas() {
   return (
     <>
-      <Botones />
+      <section className="flex gap-5">
+        <Botones />
+        <DropdownButton />
+      </section>
 
       <article>
         <section>

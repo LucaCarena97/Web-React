@@ -25,13 +25,13 @@ export function Botones() {
   return (
     <section className="relative">
       <button
-        className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600"
+        className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 ml-5 mt-5"
         onClick={toggleDesplegable}
       >
         Menú
       </button>
       {mostrarDesplegable && (
-        <div className="absolute left-0 bg-white border border-gray-300 rounded p-2 w-40 mt-2">
+        <div className="absolute left-5 bg-white border border-gray-300 rounded p-2 w-30">
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/bebidas"}
