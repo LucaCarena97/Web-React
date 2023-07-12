@@ -1,16 +1,11 @@
-import { Link } from "react-router-dom";
 import alimento from "../json/alimentos/quento.json";
+import { Botones } from "../components/Botones";
 
 export function Alimentos() {
   return (
     <>
       <main>
-        <section className="border-red-500 border-2 flex justify-evenly">
-          <Link to={"/bebidas"}>Bebidas</Link>
-          <Link to={"/alimentos"}>Alimentos</Link>
-          <Link to={"/higiene"}>Higiene</Link>
-          <Link to={"/varios"}>Varios</Link>
-        </section>
+        <Botones />
         <section className="border-green-500 border-2 flex justify-evenly">
           <p>Producto</p>
           <p>Precio</p>
