@@ -22,7 +22,7 @@ export function CategoriasA() {
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/quento"}
           >
-            quento
+            Quento
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"

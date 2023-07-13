@@ -25,12 +25,16 @@ export function Quento() {
         </section>
 
         <section>
-          <table className="table-fixed mx-auto mt-2 text-lg font-quicksand">
+          <table className="table-fixed mx-auto mt-2 text-lg font-quicksand border-2 border-blue-400">
             {quento.map(function (item) {
               return (
                 <tr key={item.id}>
-                  <td className="w-3/4 px-5">{item.producto}</td>
-                  <td className="w-1/4 px-5 text-right">${item.precio}</td>
+                  <td className="w-3/4 px-5 border-2 border-blue-400">
+                    {item.producto}
+                  </td>
+                  <td className="w-1/4 px-5 text-right border-2 border-blue-400">
+                    ${item.precio}
+                  </td>
                 </tr>
               );
             })}
