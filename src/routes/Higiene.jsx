@@ -1,33 +1,23 @@
+import { Menu } from "../components/botones/Menu";
 import { Link } from "react-router-dom";
-import higiene from "../json/higiene/higiene.json";
 
 export function Higiene() {
   return (
     <main>
-      <section className="border-red-500 border-2 flex justify-evenly">
-        <Link to={"/bebidas"}>Bebidas</Link>
-        <Link to={"/alimentos"}>Alimentos</Link>
-        <Link to={"/higiene"}>Higiene</Link>
-        <Link to={"/varios"}>Varios</Link>
-      </section>
-      <section className="border-green-500 border-2 flex justify-evenly">
-        <p>Producto</p>
-        <p>Precio</p>
-      </section>
-      <section>
-        <article className="border-blue-500 border-2 flex flex-col">
-          {higiene.map(function (item) {
-            return (
-              <div
-                className="border-pink-500 border-2 flex justify-evenly"
-                key={item.id}
-              >
-                <span>{item.producto}</span>
-                <span>{item.precio}</span>
-              </div>
-            );
-          })}
-        </article>
+      <Menu />
+      <section className="flex flex-col items-center m-5">
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/higiene/papel"}
+        >
+          Rollo Papel/Pañuelos
+        </Link>
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/higiene/cuidado-personal"}
+        >
+          Cuidado Personal
+        </Link>
       </section>
     </main>
   );

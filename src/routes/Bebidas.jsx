@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Menu } from "../components/Menu";
+import { Menu } from "../components/botones/Menu";
 
 export function Bebidas() {
   return (
@@ -14,67 +14,67 @@ export function Bebidas() {
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/jugo-agua"}
         >
           Jugo/Agua
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/aperitivos"}
         >
           Aperitivos
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/licores"}
         >
           Licores
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/whisky"}
         >
           Whisky
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/cervezas"}
         >
           Cervezas
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/energizantes"}
         >
           Energizantes
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/vodka"}
         >
           Vodka
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/ginebra"}
         >
           Ginebra
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/ron"}
         >
           Ron
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/vinos"}
         >
           Vinos
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
+          to={"/bebidas/espumantes"}
         >
           Espumantes
         </Link>

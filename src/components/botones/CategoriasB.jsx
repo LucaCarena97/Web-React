@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
-export function Categorias() {
+export function CategoriasB() {
   const [mostrarDesplegable, setMostrarDesplegable] = useState(false);
 
   const toggleDesplegable = () => {

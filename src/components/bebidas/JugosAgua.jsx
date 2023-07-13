@@ -1,13 +1,13 @@
-import gaseosas from "../json/bebidas/gaseosas.json";
-import { Menu } from "./Menu";
-import { Categorias } from "./Categorias";
+import { CategoriasB } from "../botones/CategoriasB";
+import { Menu } from "../botones/Menu";
+import jugos from "../../json/bebidas/jugos.json";
 
-export function Gaseosas() {
+export function JugosAgua() {
   return (
     <>
       <section className="flex gap-5">
         <Menu />
-        <Categorias />
+        <CategoriasB />
       </section>
 
       <section>
@@ -18,7 +18,7 @@ export function Gaseosas() {
             </td>
             <td className="w-1/5  text-center px-2">Precios</td>
           </tr>
-          {gaseosas.map(function (item) {
+          {jugos.map(function (item) {
             return (
               <tr key={item.id}>
                 <td className="w-3/4 px-5 text-base">{item.producto}</td>
