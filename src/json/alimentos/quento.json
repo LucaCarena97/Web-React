@@ -1,8 +1,13 @@
 [
-{"id":1,"producto": "Quento x 100gr","precio": 150},
-{"id":2,"producto": "Galleta","precio": 200},
-{"id":3,"producto": "COCA COLA Retornable x 1,25lts","precio": 500},
-{"id":4,"producto": "Quento","precio": 150},
-{"id":5,"producto": "Galleta","precio": 200},
-{"id":6,"producto": "Yerba","precio": 500}
+{"id":1,"producto": "QUENTO Asado x 100gr","precio": 150},
+{"id":2,"producto": "QUENTO Clasica x 100gr","precio": 200},
+{"id":3,"producto": "QUENTO Humita x 100gr","precio": 500},
+{"id":4,"producto": "QUENTO Jamón Serrano x 100gr","precio": 150},
+{"id":5,"producto": "QUENTO Ketchup x 100gr","precio": 200},
+{"id":6,"producto": "QUENTO Limón x 100gr","precio": 500},
+{"id":6,"producto": "QUENTO Mostaza x 100gr","precio": 500},
+{"id":6,"producto": "QUENTO Onduladas x 100gr","precio": 500},
+{"id":6,"producto": "QUENTO Papas Pay x 100gr","precio": 500},
+{"id":6,"producto": "QUENTO Queso Crema x 100gr","precio": 500},
+{"id":6,"producto": "QUENTO Salame x 100gr","precio": 500}
 ]

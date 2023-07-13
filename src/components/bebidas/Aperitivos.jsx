@@ -1,13 +1,15 @@
 import gaseosas from "../../json/bebidas/gaseosas.json";
 import { Menu } from "../botones/Menu";
 import { CategoriasB } from "../botones/CategoriasB";
+import { WhatsApp } from "../botones/WhatsApp";
 
 export function Aperitivos() {
   return (
     <>
-      <section className="flex gap-5">
+      <section className="flex gap-5 justify-evenly">
         <Menu />
         <CategoriasB />
+        <WhatsApp />
       </section>
 
       <section>
