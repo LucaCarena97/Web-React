@@ -1,13 +1,15 @@
 import { Menu } from "../botones/Menu";
-import quento from "../../json/alimentos/quento.json";
+import gallo from "../../json/alimentos/gallo.json";
 import { CategoriasA } from "../botones/CategoriasA";
+import { WhatsApp } from "../botones/WhatsApp";
 
 export function Gallo() {
   return (
     <>
-      <section className="flex gap-5">
+      <section className="flex gap-5 items-end justify-evenly">
         <Menu />
         <CategoriasA />
+        <WhatsApp />
       </section>
 
       <section>
@@ -21,7 +23,7 @@ export function Gallo() {
             </tr>
           </thead>
           <tbody>
-            {quento.map((item) => (
+            {gallo.map((item) => (
               <tr key={item.id}>
                 <td className="w-3/4 px-5 text-base">{item.producto}</td>
                 <td className="w-1/4 px-5 text-right text-base">

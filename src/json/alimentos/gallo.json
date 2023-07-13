@@ -1,18 +1,12 @@
 [
-    {"id":1,"producto": "Quento x 100gr","precio": 150},
-    {"id":2,"producto": "Galleta","precio": 200},
-    {"id":3,"producto": "COCA COLA Retornable x 1,25lts","precio": 500},
-    {"id":4,"producto": "Quento","precio": 150},
-    {"id":5,"producto": "Galleta","precio": 200},
-    {"id":6,"producto": "Yerba","precio": 500}
+    {"id":1,"producto": "ARROZ Oro X 500gr","precio": "-"},
+    {"id":2,"producto": "ARROZ Oro X 1kgr","precio": "-"},
+    {"id":3,"producto": "CHOCOARROZ Blanco x 30gr","precio": "102.00"},
+    {"id":4,"producto": "CHOCOARROZ Dulce de Leche x 30gr ","precio": "102.00"},
+    {"id":5,"producto": "CHOCOARROZ Frutilla x 30gr","precio": "102.00"},
+    {"id":6,"producto": "CHOCOARROZ Limón x 30gr ","precio": "-"},
+    {"id":7,"producto": "CHOCOARROZ Marroc x 30gr","precio": "102.00"},
+    {"id":8,"producto": "CHOCOBAR X 20gr","precio": "80.00"},
+    {"id":9,"producto": "YOGUBAR X 20gr","precio": "-"}
     ]
 
-    ARROZ Oro X 500gr - $-
-ARROZ Oro X 1kgr - $-
-CHOCOARROZ Blanco x 30gr - $102.00
-CHOCOARROZ Dulce de Leche x 30gr - $102.00
-CHOCOARROZ Frutilla x 30gr - $102.00
-CHOCOARROZ Limón x 30gr - $-
-CHOCOARROZ Marroc x 30gr - $102.00
-CHOCOBAR X 20gr - $80.00
-YOGUBAR X 20gr - $-
