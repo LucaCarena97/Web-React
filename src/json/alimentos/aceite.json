@@ -1,0 +1,8 @@
+[
+    {"id":1,"producto": "Quento x 100gr","precio": 150},
+    {"id":2,"producto": "Galleta","precio": 200},
+    {"id":3,"producto": "COCA COLA Retornable x 1,25lts","precio": 500},
+    {"id":4,"producto": "Quento","precio": 150},
+    {"id":5,"producto": "Galleta","precio": 200},
+    {"id":6,"producto": "Yerba","precio": 500}
+    ]

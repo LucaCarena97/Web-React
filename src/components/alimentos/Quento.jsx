@@ -1,8 +1,10 @@
 import { Menu } from "../botones/Menu";
 import quento from "../../json/alimentos/quento.json";
 import { CategoriasA } from "../botones/CategoriasA";
+import { Ordenar } from "../Ordenar";
 
 export function Quento() {
+  quento.sort(Ordenar);
   return (
     <>
       <section className="flex gap-5">

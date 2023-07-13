@@ -28,85 +28,85 @@ export function CategoriasA() {
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/firenze"}
           >
-            Jugo/Agua
+            Firenze
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/yerba"}
           >
-            Aperitivos
+            Yerba
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/gallo"}
           >
-            Licores
+            Gallo
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/golosinas"}
           >
-            Whisky
+            Golosinas
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/cafe"}
           >
-            Cervezas
+            Café
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/aceite"}
           >
-            Energizantes
+            Aceite
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/mate-cocido"}
           >
-            Vodka
+            Mate Cocido/Té
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/jugo-limon"}
           >
-            Ginebra
+            Jugo Limón
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/leche"}
           >
-            Ron
+            Leche
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/azucar"}
           >
-            Vinos
+            Azucar
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/harina"}
           >
-            Espumantes
+            Harina
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/durazno"}
           >
-            Espumantes
+            Durazno
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/triturado"}
           >
-            Espumantes
+            Tomate Triturado
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos/pulpa"}
           >
-            Espumantes
+            Pulpa
           </Link>
         </div>
       )}

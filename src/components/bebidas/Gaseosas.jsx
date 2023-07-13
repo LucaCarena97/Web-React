@@ -1,8 +1,10 @@
 import gaseosas from "../../json/bebidas/gaseosas.json";
 import { Menu } from "../botones/Menu";
 import { CategoriasB } from "../botones/CategoriasB";
+import { Ordenar } from "../Ordenar";
 
 export function Gaseosas() {
+  let gas = gaseosas.sort(Ordenar);
   return (
     <>
       <section className="flex gap-5">
@@ -21,7 +23,7 @@ export function Gaseosas() {
             </tr>
           </thead>
           <tbody>
-            {gaseosas.map((item) => (
+            {gas.map((item) => (
               <tr key={item.id}>
                 <td className="w-3/4 px-5 text-base">{item.producto}</td>
                 <td className="w-1/4 px-5 text-right text-base">
