@@ -1,11 +1,17 @@
 [
-    {"id":1,"producto": "Pilas","precio": 150},
-    {"id":2,"producto": "Leña","precio": 200},
-    {"id":3,"producto": "Cigarrilo","precio": 500}
-
-    ]
-
-
-    DURACELL 2032 Blister x 1un - $145.00
-DURACELL AA - $-
-DURACELL AAA - $250.00
+    {
+        "id": 1,
+        "producto": "DURACELL 2032 Blister x 1un",
+        "precio": "145.00"
+    },
+    {
+        "id": 2,
+        "producto": "DURACELL AA",
+        "precio": "-"
+    },
+    {
+        "id": 3,
+        "producto": "DURACELL AAA",
+        "precio": "250.00"
+    }
+]

@@ -1,10 +1,12 @@
 [
-    {"id":1,"producto": "Pilas","precio": 150},
-    {"id":2,"producto": "Leña","precio": 200},
-    {"id":3,"producto": "Cigarrilo","precio": 500}
-
-    ]
-
-    FOGATA x 3kg
-$465.00
-LEÑA x 3kg
+    {
+        "id": 1,
+        "producto": "CARBÓN FOGATA x 3kg",
+        "precio": "465.00"
+    },
+    {
+        "id": 2,
+        "producto": "LEÑA x 3kg",
+        "precio": "435.00"
+    }
+]

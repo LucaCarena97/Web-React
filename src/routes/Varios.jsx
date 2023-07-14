@@ -8,15 +8,9 @@ export function Varios() {
       <section className="flex flex-col items-center m-5">
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/varios/duracell"}
+          to={"/varios/bolsas"}
         >
-          Duracell
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/varios/cigarrillos"}
-        >
-          Cigarrillos
+          Bolsas Residuos
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
@@ -24,11 +18,19 @@ export function Varios() {
         >
           Carbón/Leña
         </Link>
+
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/varios/bolsas"}
+          to={"/varios/cigarrillos"}
         >
-          Bolsas Residuos
+          Cigarrillos
+        </Link>
+
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/varios/duracell"}
+        >
+          Duracell
         </Link>
       </section>
     </main>

@@ -8,21 +8,33 @@ export function Alimentos() {
       <section className="flex flex-col items-center m-5">
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/quento"}
+          to={"/alimentos/aceite"}
         >
-          Quento
+          Aceite
+        </Link>
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/alimentos/azucar"}
+        >
+          Azúcar
+        </Link>
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/alimentos/cafe"}
+        >
+          Café
+        </Link>
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/alimentos/durazno"}
+        >
+          Durazno
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
           to={"/alimentos/firenze"}
         >
           Firenze
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/yerba"}
-        >
-          Yerba
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
@@ -38,16 +50,24 @@ export function Alimentos() {
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/cafe"}
+          to={"/alimentos/harina"}
         >
-          Café
+          Harina
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/aceite"}
+          to={"/alimentos/jugo-limon"}
         >
-          Aceite
+          Jugo Limón
         </Link>
+
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/alimentos/leche"}
+        >
+          Leche
+        </Link>
+
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
           to={"/alimentos/mate-cocido"}
@@ -56,34 +76,18 @@ export function Alimentos() {
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/jugo-limon"}
+          to={"/alimentos/pulpa"}
         >
-          Jugo Limón
+          Pulpa Cocktelera
         </Link>
+
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/leche"}
+          to={"/alimentos/quento"}
         >
-          Leche
+          Quento
         </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/azucar"}
-        >
-          Azúcar
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/harina"}
-        >
-          Harina
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/durazno"}
-        >
-          Durazno
-        </Link>
+
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
           to={"/alimentos/triturado"}
@@ -92,9 +96,9 @@ export function Alimentos() {
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/alimentos/pulpa"}
+          to={"/alimentos/yerba"}
         >
-          Pulpa Cocktelera
+          Yerba
         </Link>
       </section>
     </main>

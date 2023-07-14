@@ -20,15 +20,15 @@ export function CategoriasH() {
         <div className="absolute left-5 bg-white border border-gray-300 rounded p-2 w-30">
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/higiene/papel"}
-          >
-            Rollo/Pañuelos
-          </Link>
-          <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/higiene/cuidado-personal"}
           >
             Cuidado Personal
+          </Link>
+          <Link
+            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            to={"/higiene/papel"}
+          >
+            Rollo/Pañuelos
           </Link>
         </div>
       )}

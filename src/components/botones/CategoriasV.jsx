@@ -20,15 +20,9 @@ export function CategoriasV() {
         <div className="absolute left-5 bg-white border border-gray-300 rounded p-2 w-30">
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/varios/duracell"}
+            to={"/varios/bolsas"}
           >
-            Duracell
-          </Link>
-          <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/varios/cigarrillos"}
-          >
-            Cigarrillos
+            Bolsas Residuos
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
@@ -38,9 +32,15 @@ export function CategoriasV() {
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/varios/bolsas"}
+            to={"/varios/cigarrillos"}
           >
-            Bolsas Residuos
+            Cigarrillos
+          </Link>
+          <Link
+            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            to={"/varios/duracell"}
+          >
+            Duracell
           </Link>
         </div>
       )}

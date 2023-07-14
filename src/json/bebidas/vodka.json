@@ -1,25 +1,92 @@
 [
-    {"id":1,"producto": "COCA COLA Retornable x 2lts","precio": "150.00"},
-    {"id":2,"producto": "COCA COLA Retornable x 1,25lts","precio": "2000"},
-    {"id":3,"producto": "COCA COLA Retornable x 350ml","precio": "500"},
-
-    ]
-
-    ABSOLUT Saborizados x 750ml
-NEW STYLE Apple x 1000ml
-NEW STYLE Raspberry x 1000ml
-NEW STYLE x 1000ml
-SERNOVA Saborizados x 700ml
-SKYY Saborizados x 750ml
-SMIRNOFF x 700ml
-SMIRNOFF Apple x 700ml
-SMIRNOFF BC Grapefruit & Lime x 700ml
-SMIRNOFF BC Ruby Orange & Lime x 700ml
-SMIRNOFF BC Tang & Lemon x 700ml
-SMIRNOFF Citrus x 700ml
-SMIRNOFF Raspberry x 700ml
-SMIRNOFF Tropical Fruits x 700ml
-SMIRNOFF Watermelon x 700ml
-SMIRNOFF ICE Green Apple Lata x 473ml
-SMIRNOFF ICE Original Lata x 473ml
-SMIRNOFF ICE Red Berrie Lata x 473ml
+    {
+        "id": 1,
+        "producto": "ABSOLUT Saborizados x 750ml",
+        "precio": "6,000.00"
+    },
+    {
+        "id": 2,
+        "producto": "NEW STYLE x 1000ml",
+        "precio": "850.00"
+    },
+    {
+        "id": 3,
+        "producto": "NEW STYLE Apple x 1000ml",
+        "precio": "-"
+    },
+    {
+        "id": 4,
+        "producto": "NEW STYLE Raspberry x 1000ml",
+        "precio": "-"
+    },
+    {
+        "id": 5,
+        "producto": "SERNOVA Saborizados x 700ml",
+        "precio": "1,460.00"
+    },
+    {
+        "id": 6,
+        "producto": "SKYY Saborizados x 750ml",
+        "precio": "1,810.00"
+    },
+    {
+        "id": 7,
+        "producto": "SMIRNOFF x 700ml",
+        "precio": "1,400.00"
+    },
+    {
+        "id": 8,
+        "producto": "SMIRNOFF Apple x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 9,
+        "producto": "SMIRNOFF BC Grapefruit & Lime x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 10,
+        "producto": "SMIRNOFF BC Ruby Orange & Lime x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 11,
+        "producto": "SMIRNOFF BC Tang & Lemon x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 12,
+        "producto": "SMIRNOFF Citrus x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 13,
+        "producto": "SMIRNOFF Raspberry x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 14,
+        "producto": "SMIRNOFF Tropical Fruits x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 15,
+        "producto": "SMIRNOFF Watermelon x 700ml",
+        "precio": "1,580.00"
+    },
+    {
+        "id": 16,
+        "producto": "SMIRNOFF ICE Original Lata x 473ml",
+        "precio": "381.00"
+    },
+    {
+        "id": 17,
+        "producto": "SMIRNOFF ICE Green Apple Lata x 473ml",
+        "precio": "381.00"
+    },
+    {
+        "id": 18,
+        "producto": "SMIRNOFF ICE Red Berrie Lata x 473ml",
+        "precio": "-"
+    }
+]

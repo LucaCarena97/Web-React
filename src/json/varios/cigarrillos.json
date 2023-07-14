@@ -1,10 +1,12 @@
 [
-    {"id":1,"producto": "Pilas","precio": 150},
-    {"id":2,"producto": "Leña","precio": 200},
-    {"id":3,"producto": "Cigarrilo","precio": 500}
-
-    ]
-
-
-RED POINT
-KIEL x 20un
+    {
+        "id": 1,
+        "producto": "RED POINT",
+        "precio": "-"
+    },
+    {
+        "id": 2,
+        "producto": "KIEL x 20un",
+        "precio": "-"
+    }
+]

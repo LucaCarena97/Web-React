@@ -1,13 +1,15 @@
 import { Menu } from "../botones/Menu";
-import quento from "../../json/alimentos/quento.json";
+import papel from "../../json/higiene/papel.json";
 import { CategoriasH } from "../botones/CategoriasH";
+import { WhatsApp } from "../botones/WhatsApp";
 
 export function Papel() {
   return (
     <>
-      <section className="flex gap-5">
+      <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasH />
+        <WhatsApp />
       </section>
 
       <section>
@@ -21,10 +23,10 @@ export function Papel() {
             </tr>
           </thead>
           <tbody>
-            {quento.map((item) => (
+            {papel.map((item) => (
               <tr key={item.id}>
-                <td className="w-3/4 px-5 text-base">{item.producto}</td>
-                <td className="w-1/4 px-5 text-right text-base">
+                <td className="w-3/4 px-5 text-lg">{item.producto}</td>
+                <td className="w-1/4 px-5 text-right text-lg">
                   ${item.precio}
                 </td>
               </tr>

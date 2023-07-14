@@ -8,33 +8,9 @@ export function Bebidas() {
       <section className="flex flex-col items-center m-5">
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/gaseosas"}
-        >
-          Gaseosas
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/jugo-agua"}
-        >
-          Jugo/Agua
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
           to={"/bebidas/aperitivos"}
         >
           Aperitivos
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/licores"}
-        >
-          Licores
-        </Link>
-        <Link
-          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/whisky"}
-        >
-          Whisky
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
@@ -48,11 +24,19 @@ export function Bebidas() {
         >
           Energizantes
         </Link>
+
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/vodka"}
+          to={"/bebidas/espumantes"}
         >
-          Vodka
+          Espumantes
+        </Link>
+
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/bebidas/gaseosas"}
+        >
+          Gaseosas
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
@@ -60,12 +44,28 @@ export function Bebidas() {
         >
           Ginebra
         </Link>
+
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/bebidas/jugo-agua"}
+        >
+          Jugo/Agua
+        </Link>
+
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/bebidas/licores"}
+        >
+          Licores
+        </Link>
+
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
           to={"/bebidas/ron"}
         >
           Ron
         </Link>
+
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
           to={"/bebidas/vinos"}
@@ -74,9 +74,16 @@ export function Bebidas() {
         </Link>
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
-          to={"/bebidas/espumantes"}
+          to={"/bebidas/vodka"}
         >
-          Espumantes
+          Vodka
+        </Link>
+
+        <Link
+          className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"
+          to={"/bebidas/whisky"}
+        >
+          Whisky
         </Link>
       </section>
     </main>

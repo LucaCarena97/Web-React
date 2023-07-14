@@ -1,13 +1,15 @@
 import { Menu } from "../botones/Menu";
-import quento from "../../json/alimentos/quento.json";
+import cigarrillos from "../../json/varios/cigarrillos.json";
 import { CategoriasV } from "../botones/CategoriasV";
+import { WhatsApp } from "../botones/WhatsApp";
 
 export function Cigarrillos() {
   return (
     <>
-      <section className="flex gap-5">
+      <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasV />
+        <WhatsApp />
       </section>
 
       <section>
@@ -21,7 +23,7 @@ export function Cigarrillos() {
             </tr>
           </thead>
           <tbody>
-            {quento.map((item) => (
+            {cigarrillos.map((item) => (
               <tr key={item.id}>
                 <td className="w-3/4 px-5 text-base">{item.producto}</td>
                 <td className="w-1/4 px-5 text-right text-base">
