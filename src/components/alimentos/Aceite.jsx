@@ -6,7 +6,7 @@ import { WhatsApp } from "../botones/WhatsApp";
 export function Aceite() {
   return (
     <>
-      <section className="flex items-end justify-evenly">
+      <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasA />
         <WhatsApp />
@@ -25,10 +25,8 @@ export function Aceite() {
           <tbody>
             {aceite.map((item) => (
               <tr key={item.id}>
-                <td className="w-3/4 px-5 text-base">{item.producto}</td>
-                <td className="w-1/4 px-5 text-right text-base">
-                  ${item.precio}
-                </td>
+                <td className="w-3/4 text-base">{item.producto}</td>
+                <td className="w-1/4 text-right text-base">${item.precio}</td>
               </tr>
             ))}
           </tbody>

@@ -6,7 +6,7 @@ import { WhatsApp } from "../botones/WhatsApp";
 export function Espumantes() {
   return (
     <>
-      <section className="flex justify-evenly items-center">
+      <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasB />
         <WhatsApp />
