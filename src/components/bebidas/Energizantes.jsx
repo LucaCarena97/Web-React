@@ -1,13 +1,15 @@
-import gaseosas from "../../json/bebidas/gaseosas.json";
+import energizantes from "../../json/bebidas/energizantes.json";
 import { Menu } from "../botones/Menu";
 import { CategoriasB } from "../botones/CategoriasB";
+import { WhatsApp } from "../botones/WhatsApp";
 
 export function Energizantes() {
   return (
     <>
-      <section className="flex gap-5">
+      <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasB />
+        <WhatsApp />
       </section>
 
       <section>
@@ -21,10 +23,10 @@ export function Energizantes() {
             </tr>
           </thead>
           <tbody>
-            {gaseosas.map((item) => (
+            {energizantes.map((item) => (
               <tr key={item.id}>
-                <td className="w-3/4 px-5 text-base">{item.producto}</td>
-                <td className="w-1/4 px-5 text-right text-base">
+                <td className="w-3/4 px-5 text-lg">{item.producto}</td>
+                <td className="w-1/4 px-5 text-right text-lg">
                   ${item.precio}
                 </td>
               </tr>

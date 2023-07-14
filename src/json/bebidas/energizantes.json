@@ -1,16 +1,11 @@
 [
-    {"id":1,"producto": "COCA COLA Retornable x 2lts","precio": "150.00"},
-    {"id":2,"producto": "COCA COLA Retornable x 1,25lts","precio": "2000"},
-    {"id":3,"producto": "COCA COLA Retornable x 350ml","precio": "500"},
+    {"id":1,"producto": "MONSTER Energy x 500ml","precio": "440.00"},
+    {"id":2,"producto": "MONSTER Mango Loco x 500ml ","precio": "440.00"},
+    {"id":3,"producto": "MONSTER Ultra Paradise x 500ml","precio": "440.00"},
+    {"id":4,"producto": "RED BULL x 250ml ","precio": "330.00"},
+    {"id":5,"producto": "ROCKSTAR BERRY x 500ml ","precio": "2000"},
+    {"id":6,"producto": "ROCKSTAR x 500ml ","precio": "2000"},
+    {"id":7,"producto": "SPEED x 250ml ","precio": "260.00"},
+    {"id":8,"producto": "SPEED XL x 473ml ","precio": "370.00"}
 
     ]
-
-
-    MONSTER Energy x 500ml
-MONSTER Mango Loco x 500ml
-MONSTER Ultra Paradise x 500ml
-RED BULL x 250ml
-ROCKSTAR BERRY x 500ml
-ROCKSTAR x 500ml
-SPEED x 250ml
-SPEED XL x 473ml

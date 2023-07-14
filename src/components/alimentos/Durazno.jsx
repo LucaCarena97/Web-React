@@ -6,7 +6,7 @@ import { WhatsApp } from "../botones/WhatsApp";
 export function Durazno() {
   return (
     <>
-      <section className="flex gap-5 items-end justify-evenly">
+      <section className="flex items-end justify-evenly">
         <Menu />
         <CategoriasA />
         <WhatsApp />

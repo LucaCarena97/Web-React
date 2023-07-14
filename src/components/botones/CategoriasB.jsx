@@ -20,75 +20,86 @@ export function CategoriasB() {
         <div className="absolute left-5 bg-white border border-gray-300 rounded p-2 w-30">
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/bebidas/gaseosas"}
-          >
-            Gaseosas
-          </Link>
-          <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/bebidas/jugo-agua"}
-          >
-            Jugo/Agua
-          </Link>
-          <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/bebidas/aperitivos"}
           >
             Aperitivos
           </Link>
-          <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/bebidas/licores"}
-          >
-            Licores
-          </Link>
-          <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/bebidas/whisky"}
-          >
-            Whisky
-          </Link>
+
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/bebidas/cervezas"}
           >
             Cervezas
           </Link>
+
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/bebidas/energizantes"}
           >
             Energizantes
           </Link>
+
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/bebidas/vodka"}
+            to={"/bebidas/espumantes"}
           >
-            Vodka
+            Espumantes
           </Link>
+
+          <Link
+            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            to={"/bebidas/gaseosas"}
+          >
+            Gaseosas
+          </Link>
+
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/bebidas/ginebra"}
           >
             Ginebra
           </Link>
+
+          <Link
+            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            to={"/bebidas/jugo-agua"}
+          >
+            Jugo/Agua
+          </Link>
+
+          <Link
+            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            to={"/bebidas/licores"}
+          >
+            Licores
+          </Link>
+
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/bebidas/ron"}
           >
             Ron
           </Link>
+
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/bebidas/vinos"}
           >
             Vinos
           </Link>
+
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/bebidas/espumantes"}
+            to={"/bebidas/vodka"}
           >
-            Espumantes
+            Vodka
+          </Link>
+
+          <Link
+            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            to={"/bebidas/whisky"}
+          >
+            Whisky
           </Link>
         </div>
       )}

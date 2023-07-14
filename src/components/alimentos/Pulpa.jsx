@@ -1,13 +1,15 @@
 import { Menu } from "../botones/Menu";
-import quento from "../../json/alimentos/quento.json";
+import pulpa from "../../json/alimentos/pulpa.json";
 import { CategoriasA } from "../botones/CategoriasA";
+import { WhatsApp } from "../botones/WhatsApp";
 
 export function Pulpa() {
   return (
     <>
-      <section className="flex gap-5">
+      <section className="flex items-end justify-evenly">
         <Menu />
         <CategoriasA />
+        <WhatsApp />
       </section>
 
       <section>
@@ -21,10 +23,10 @@ export function Pulpa() {
             </tr>
           </thead>
           <tbody>
-            {quento.map((item) => (
+            {pulpa.map((item) => (
               <tr key={item.id}>
-                <td className="w-3/4 px-5 text-base">{item.producto}</td>
-                <td className="w-1/4 px-5 text-right text-base">
+                <td className="w-3/4 px-5 text-lg">{item.producto}</td>
+                <td className="w-1/4 px-5 text-right text-lg">
                   ${item.precio}
                 </td>
               </tr>

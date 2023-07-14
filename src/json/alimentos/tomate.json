@@ -1,9 +1,5 @@
 [
-    {"id":1,"producto": "Quento x 100gr","precio": 150},
-    {"id":2,"producto": "Galleta","precio": 200},
-
+    {"id":1,"producto": "ESBLAN Triturado x 950gr","precio": "-"},
+    {"id":2,"producto": "MAROLIO Triturado x 980gr","precio": "-"},
+    {"id":3,"producto": "Tom. Triturado x 950gr","precio": "480.00"}
     ]
-
-    ESBLAN Triturado x 950gr - $-
-MAROLIO Triturado x 980gr - $-
-Tom. Triturado x 950gr - $480.00

@@ -1,27 +1,25 @@
 [
-    {"id":1,"producto": "COCA COLA Retornable x 2lts","precio": "150.00"},
-    {"id":2,"producto": "COCA COLA Retornable x 1,25lts","precio": "2000"},
-    {"id":3,"producto": "COCA COLA Retornable x 350ml","precio": "500"},
+    {"id":1,"producto": "APEROL x 750ml","precio": "1,900.00"},
+    {"id":2,"producto": "CAMPARI x 750ml","precio": "1,620.00"},
+    {"id":3,"producto": "CINZANO ROSSO x 950ml","precio": "1,160.00"},
+    {"id":4,"producto": "CYNAR x 750ml","precio": "1,590.00"},
+    {"id":5,"producto": "DR LEMON XL Limón x 1000ml","precio": "495.00"},
+    {"id":6,"producto": "DR LEMON XL Vodka x 1000ml","precio": "495.00"},
+    {"id":7,"producto": "FERNET BRANCA Petaca x 50ml","precio": "370.00"},
+    {"id":8,"producto": "FERNET BRANCA x 450ml","precio": "1,580.00"},
+    {"id":9,"producto": "FERNET BRANCA x 750ml","precio": "2,280.00"},
+    {"id":10,"producto": "BRANCA MENTA x 450ml","precio": "-"},
+    {"id":11,"producto": "BRANCA MENTA x 750ml","precio": "1,900.00"},
+    {"id":12,"producto": "BRANCA MENTA Receta Italiana x 750ml","precio": "700.00"},
+    {"id":13,"producto": "FERNET VITTONE x 750ml","precio": "600.00"},
+    {"id":14,"producto": "GANCIA x 950ml","precio": "1,080.00"},
+    {"id":15,"producto": "GANCIA Hibiscus x 750ml","precio": "870.00"},
+    {"id":16,"producto": "HESPERIDINA x 1000ml","precio": "1,810.00"},
+    {"id":17,"producto": "MARTINI BIANCO x 1000ml","precio": "1,240.00"},
+    {"id":18,"producto": "MINGO Hard Seltzer LIMÓN x 355ml","precio": "-"},
+    {"id":19,"producto": "MINGO Hard Seltzer LIMÓN x 750ml","precio": "-"},
+    {"id":20,"producto": "MINGO Hard Seltzer POMELO x 355ml","precio": "-"},
+    {"id":21,"producto": "MINGO Hard Seltzer POMELO x 750ml","precio": "-"}
 
     ]
 
-APEROL x 750ml
-CAMPARI x 750ml
-CINZANO ROSSO x 950ml
-CYNAR x 750ml
-DR LEMON XL Limón x 1000ml
-DR LEMON XL Vodka x 1000ml
-FERNET BRANCA Petaca x 50ml
-FERNET BRANCA x 450ml
-FERNET BRANCA x 750ml
-BRANCA MENTA Receta Italiana x 750ml
-BRANCA MENTA x 450ml
-FERNET VITTONE x 750ml
-GANCIA Hibiscus x 750ml
-GANCIA x 950ml
-HESPERIDINA x 1000ml
-MARTINI BIANCO x 1000ml
-MINGO Hard Seltzer LIMÓN x 355ml
-MINGO Hard Seltzer LIMÓN x 750ml
-MINGO Hard Seltzer POMELO x 355ml
-MINGO Hard Seltzer POMELO x 750ml
