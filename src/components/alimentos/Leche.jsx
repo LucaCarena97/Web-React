@@ -15,7 +15,7 @@ export function Leche() {
       <section>
         <table className="table-fixed mx-auto mt-5 font-quicksand">
           <thead>
-            <tr className="border-2 border-blue-400 text-xl">
+            <tr className="border-2 border-blue-400 text-lg">
               <th className="w-2/5 text-center px-2">
                 Descripción de productos
               </th>

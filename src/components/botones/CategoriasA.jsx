@@ -11,7 +11,7 @@ export function CategoriasA() {
   return (
     <div className="relative inline-block">
       <button
-        className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 ml-5 mt-5"
+        className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 mt-5"
         onClick={toggleDesplegable}
       >
         Categorias

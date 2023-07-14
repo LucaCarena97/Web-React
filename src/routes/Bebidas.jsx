@@ -4,7 +4,9 @@ import { Menu } from "../components/botones/Menu";
 export function Bebidas() {
   return (
     <main>
-      <Menu />
+      <section className="ml-5">
+        <Menu />
+      </section>
       <section className="flex flex-col items-center m-5">
         <Link
           className="bg-blue-500 text-white py-2 px-3 w-36 rounded hover:bg-blue-600 mb-2 text-center"

@@ -25,8 +25,8 @@ export function Papel() {
           <tbody>
             {papel.map((item) => (
               <tr key={item.id}>
-                <td className="w-3/4 px-5 text-lg">{item.producto}</td>
-                <td className="w-1/4 px-5 text-right text-lg">
+                <td className="w-3/4 px-5 text-base">{item.producto}</td>
+                <td className="w-1/4 px-5 text-right text-base">
                   ${item.precio}
                 </td>
               </tr>
