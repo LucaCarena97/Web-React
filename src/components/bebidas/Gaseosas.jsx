@@ -6,7 +6,7 @@ import { WhatsApp } from "../botones/WhatsApp";
 export function Gaseosas() {
   return (
     <>
-      <section className="flex gap-5 justify-evenly items-end">
+      <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasB />
         <WhatsApp />
@@ -25,8 +25,8 @@ export function Gaseosas() {
           <tbody>
             {gaseosas.map((item) => (
               <tr key={item.id}>
-                <td className="w-3/4 px-5 text-base">{item.producto}</td>
-                <td className="w-1/4 px-5 text-right text-base">
+                <td className="w-3/4 px-5 text-lg">{item.producto}</td>
+                <td className="w-1/4 px-5 text-right text-lg">
                   ${item.precio}
                 </td>
               </tr>

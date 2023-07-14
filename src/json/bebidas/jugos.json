@@ -1,35 +1,167 @@
 [
-    {"id":1,"producto": "AGUA MINERAL BONAQUA x 1500ml  x 2lts","precio": "150.00"},
-    {"id":2,"producto": "AGUA MINERAL BONAQUA x 500ml","precio": "2000"},
-    {"id":3,"producto": "AGUA MINERAL NIHUIL x 600ml ","precio": "500"},
-    {"id":3,"producto": "AGUA MINERAL NESTLE x 500ml ","precio": "500"},
-    {"id":3,"producto": "AGUA MINERAL RUMIPAL x 500ml ","precio": "500"},
-    {"id":3,"producto": "AGUA MINERAL RUMIPAL x 6lts ","precio": "500"},
-    {"id":3,"producto": "AGUA MINERAL IVESS x 500ml ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. BAGGIO VIDA LIMONE x 1,5lts ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. BAGGIO VIDA MANZANA x 1,5lts ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. BAGGIO VIDA NARANJA x 1,5lts ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. BAGGIO VIDA POMELO x 1,5lts ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. BAGGIO VIDA PERA x 1,5lts ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. IVESS MANZANA x 500ml ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. IVESS NARANJA-DURAZNO x 500ml ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. IVESS POMELO x 500ml ","precio": "500"},
-    {"id":3,"producto": "AGUA Sab. SIERRAS DE LOS PADRES x 500ml ","precio": "500"},
-    {"id":3,"producto": "BAGGIO PRONTO DURAZNO x 1000ml ","precio": "500"},
-    {"id":3,"producto": "BAGGIO PRONTO DURAZNO x 200ml ","precio": "500"},
-    {"id":3,"producto": "BAGGIO PRONTO MANZANA x 200ml ","precio": "500"},
-    {"id":3,"producto": "BAGGIO PRONTO MULTIFRUTA x 1000ml ","precio": "500"},
-    {"id":3,"producto": "BAGGIO PRONTO MULTIFRUTA x 200ml ","precio": "500"},
-    {"id":3,"producto": "BAGGIO PRONTO NARANJA x 1000ml ","precio": "500"},
-    {"id":3,"producto": "BAGGIO PRONTO NARANJA x 200ml ","precio": "500"},
-    {"id":3,"producto": "CEPITA DURAZNO x 1000ml ","precio": "500"},
-    {"id":3,"producto": "CEPITA NARANJA x 1000ml ","precio": "500"},
-    {"id":3,"producto": "GATORADE Cool Blue x 500ml ","precio": "500"},
-    {"id":3,"producto": "GATORADE Frutas Tropicales x 500ml ","precio": "500"},
-    {"id":3,"producto": "GATORADE Manzana x 500ml ","precio": "500"},
-    {"id":3,"producto": "GATORADE Uva x 500ml ","precio": "500"},
-    {"id":3,"producto": "SALDAN Jugo Concentrado x 1500ml ","precio": "500"},
-    {"id":3,"producto": "TERMA Limón x 1,35lts","precio": "500"},
-    {"id":3,"producto": "TERMA Pomelo Rosado x 1,35lts","precio": "500"},
-    {"id":3,"producto": "TERMA Serrano x 1,35lts","precio": "500"}
-    ]
+    {
+        "id": 1,
+        "producto": "AGUA MINERAL BONAQUA x 1500ml  x 2lts",
+        "precio": "-"
+    },
+    {
+        "id": 2,
+        "producto": "AGUA MINERAL BONAQUA x 500ml",
+        "precio": "150.00"
+    },
+    {
+        "id": 3,
+        "producto": "AGUA MINERAL NIHUIL x 600ml ",
+        "precio": "-"
+    },
+    {
+        "id": 4,
+        "producto": "AGUA MINERAL NESTLE x 500ml ",
+        "precio": "145.00"
+    },
+    {
+        "id": 5,
+        "producto": "AGUA MINERAL RUMIPAL x 500ml ",
+        "precio": "-"
+    },
+    {
+        "id": 6,
+        "producto": "AGUA MINERAL RUMIPAL x 6lts ",
+        "precio": "242.00"
+    },
+    {
+        "id": 7,
+        "producto": "AGUA MINERAL IVESS x 500ml ",
+        "precio": "125.00"
+    },
+    {
+        "id": 8,
+        "producto": "AGUA Sab. BAGGIO VIDA LIMONE x 1,5lts ",
+        "precio": "250.00"
+    },
+    {
+        "id": 9,
+        "producto": "AGUA Sab. BAGGIO VIDA MANZANA x 1,5lts ",
+        "precio": "250.00"
+    },
+    {
+        "id": 10,
+        "producto": "AGUA Sab. BAGGIO VIDA NARANJA x 1,5lts ",
+        "precio": "250.00"
+    },
+    {
+        "id": 11,
+        "producto": "AGUA Sab. BAGGIO VIDA POMELO x 1,5lts ",
+        "precio": "250.00"
+    },
+    {
+        "id": 12,
+        "producto": "AGUA Sab. BAGGIO VIDA PERA x 1,5lts ",
+        "precio": "-"
+    },
+    {
+        "id": 13,
+        "producto": "AGUA Sab. IVESS MANZANA x 500ml ",
+        "precio": "175.00"
+    },
+    {
+        "id": 14,
+        "producto": "AGUA Sab. IVESS NARANJA-DURAZNO x 500ml ",
+        "precio": "175.00"
+    },
+    {
+        "id": 15,
+        "producto": "AGUA Sab. IVESS POMELO x 500ml ",
+        "precio": "175.00"
+    },
+    {
+        "id": 16,
+        "producto": "AGUA Sab. SIERRAS DE LOS PADRES x 500ml ",
+        "precio": "150.00"
+    },
+    {
+        "id": 17,
+        "producto": "BAGGIO PRONTO DURAZNO x 200ml ",
+        "precio": "120.00"
+    },
+    {
+        "id": 18,
+        "producto": "BAGGIO PRONTO MANZANA x 200ml ",
+        "precio": "120.00"
+    },
+    {
+        "id": 19,
+        "producto": "BAGGIO PRONTO MULTIFRUTA x 200ml ",
+        "precio": "120.00"
+    },
+    {
+        "id": 20,
+        "producto": "BAGGIO PRONTO NARANJA x 200ml ",
+        "precio": "120.00"
+    },
+    {
+        "id": 21,
+        "producto": "BAGGIO PRONTO DURAZNO x 1000ml ",
+        "precio": "355.00"
+    },
+    {
+        "id": 22,
+        "producto": "BAGGIO PRONTO MULTIFRUTA x 1000ml ",
+        "precio": "355.00"
+    },
+    {
+        "id": 23,
+        "producto": "BAGGIO PRONTO NARANJA x 1000ml ",
+        "precio": "355.00"
+    },
+    {
+        "id": 24,
+        "producto": "CEPITA DURAZNO x 1000ml ",
+        "precio": "280.00"
+    },
+    {
+        "id": 25,
+        "producto": "CEPITA NARANJA x 1000ml ",
+        "precio": "280.00"
+    },
+    {
+        "id": 26,
+        "producto": "GATORADE Cool Blue x 500ml ",
+        "precio": "320.00"
+    },
+    {
+        "id": 27,
+        "producto": "GATORADE Frutas Tropicales x 500ml ",
+        "precio": "320.00"
+    },
+    {
+        "id": 28,
+        "producto": "GATORADE Manzana x 500ml ",
+        "precio": "320.00"
+    },
+    {
+        "id": 29,
+        "producto": "GATORADE Uva x 500ml ",
+        "precio": "320.00"
+    },
+    {
+        "id": 30,
+        "producto": "SALDAN Jugo Concentrado x 1500ml ",
+        "precio": "295.00"
+    },
+    {
+        "id": 31,
+        "producto": "TERMA Limón x 1,35lts",
+        "precio": "312.00"
+    },
+    {
+        "id": 32,
+        "producto": "TERMA Pomelo Rosado x 1,35lts",
+        "precio": "312.00"
+    },
+    {
+        "id": 33,
+        "producto": "TERMA Serrano x 1,35lts",
+        "precio": "312.00"
+    }
+]
