@@ -16,7 +16,7 @@ export function Duracell() {
   );
 
   return (
-    <main className="font-quicksand">
+    <main className="font-quicksand ">
       <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasV />

@@ -1,17 +1,14 @@
-body {
-  transition: background-color 9s ease;
-  height: 100vh;
-}
-
 /* Estilos para el modo oscuro */
 .boton-color {
   color: black;
 }
+
+.light {
+  background-color: #f9e5e5;
+  color: #1f2937;
+}
+
 .dark {
   background-color: #1f2937;
   color: #f3f4f6;
 }
-
-/* .root {
-  height: 50vh;
-} */
