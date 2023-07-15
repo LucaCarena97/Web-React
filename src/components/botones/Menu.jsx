@@ -37,15 +37,15 @@ export function Menu() {
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
-            to={"/bebidas"}
-          >
-            Bebidas
-          </Link>
-          <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/alimentos"}
           >
             Alimentos
+          </Link>
+          <Link
+            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            to={"/bebidas"}
+          >
+            Bebidas
           </Link>
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
