@@ -1,4 +1,6 @@
 [
-    {"id":1,"producto": "Pulpa Frutilla-Durazno Lata x 900gr","precio": "480.00"}
-
-    ]
+    {
+        "producto": "Pulpa Frutilla-Durazno Lata x 900gr",
+        "precio": "480.00"
+    }
+]

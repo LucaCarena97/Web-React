@@ -1,5 +1,10 @@
 [
-    {"id":1,"producto": "NOBLEZA GAUCHA Mate Cocido x 50un","precio": "-"},
-    {"id":2,"producto": "LA VIRGINIA Té x 25un","precio": "-"}
-
-    ]
+    {
+        "producto": "NOBLEZA GAUCHA Mate Cocido x 50un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té x 25un",
+        "precio": "-"
+    }
+]

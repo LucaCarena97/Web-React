@@ -1,6 +1,10 @@
 [
-    {"id":1,"producto": "BILLIKEN Mas Frutal x 600gr","precio": "890.00"},
-    {"id":2,"producto": "BILLIKEN Yogur x 600gr","precio": "890.00"}
-
-    ]
-
+    {
+        "producto": "BILLIKEN Mas Frutal x 600gr",
+        "precio": "890.00"
+    },
+    {
+        "producto": "BILLIKEN Yogur x 600gr",
+        "precio": "890.00"
+    }
+]

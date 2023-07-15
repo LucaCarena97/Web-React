@@ -1,4 +1,6 @@
 [
-    {"id":1,"producto": "ARLISTÁN Frasco x 100gr","precio": "505.00"}
-
-    ]
+    {
+        "producto": "ARLISTÁN Frasco x 100gr",
+        "precio": "505.00"
+    }
+]

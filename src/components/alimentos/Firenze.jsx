@@ -23,8 +23,8 @@ export function Firenze() {
             </tr>
           </thead>
           <tbody>
-            {firenze.map((item) => (
-              <tr key={item.id}>
+            {firenze.map((item, id) => (
+              <tr key={id++}>
                 <td className="w-3/4 text-base">{item.producto}</td>
                 <td className="w-1/4 text-right text-base">${item.precio}</td>
               </tr>

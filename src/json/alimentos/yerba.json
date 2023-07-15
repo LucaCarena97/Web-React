@@ -1,6 +1,18 @@
 [
-    {"id":1,"producto": "CHAMIGO x 500gr","precio": "405.00"},
-    {"id":2,"producto": "CHAMIGO x 1kgr","precio": "-"},
-    {"id":3,"producto": "LA HOJA x 500gr","precio": "389.00"},
-    {"id":4,"producto": "LA HOJA x 1kgr","precio": "-"}
-    ]
+    {
+        "producto": "CHAMIGO x 500gr",
+        "precio": "405.00"
+    },
+    {
+        "producto": "CHAMIGO x 1kgr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA HOJA x 500gr",
+        "precio": "389.00"
+    },
+    {
+        "producto": "LA HOJA x 1kgr",
+        "precio": "-"
+    }
+]

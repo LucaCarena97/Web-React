@@ -23,8 +23,8 @@ export function Espumantes() {
             </tr>
           </thead>
           <tbody>
-            {espumantes.map((item) => (
-              <tr key={item.id}>
+            {espumantes.map((item, id) => (
+              <tr key={id++}>
                 <td className="w-3/4  text-base">{item.producto}</td>
                 <td className="w-1/4  text-right text-base">${item.precio}</td>
               </tr>

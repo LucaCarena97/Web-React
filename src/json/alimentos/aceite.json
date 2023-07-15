@@ -1,7 +1,18 @@
 [
-    {"id":1,"producto": "COCINERO x 1500ml","precio": "-"},
-    {"id":2,"producto": "COCINERO x 900ml","precio": "-"},
-    {"id":3,"producto": "LAGRIAS DEL SOL x 900ml","precio": "-"},
-    {"id":4,"producto": "LIRA x 900ml","precio": "-"}
-
-    ]
+    {
+        "producto": "COCINERO x 1500ml",
+        "precio": "-"
+    },
+    {
+        "producto": "COCINERO x 900ml",
+        "precio": "-"
+    },
+    {
+        "producto": "LAGRIAS DEL SOL x 900ml",
+        "precio": "-"
+    },
+    {
+        "producto": "LIRA x 900ml",
+        "precio": "-"
+    }
+]

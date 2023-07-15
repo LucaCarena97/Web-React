@@ -1,16 +1,13 @@
 [
     {
-        "id": 1,
         "producto": "DURACELL 2032 Blister x 1un",
         "precio": "145.00"
     },
     {
-        "id": 2,
         "producto": "DURACELL AA",
         "precio": "-"
     },
     {
-        "id": 3,
         "producto": "DURACELL AAA",
         "precio": "250.00"
     }

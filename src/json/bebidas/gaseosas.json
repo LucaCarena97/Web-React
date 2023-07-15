@@ -1,256 +1,205 @@
 [
   {
-    "id": 1,
     "producto": "COCA COLA Lata x 310ml",
     "precio": "190.00"
   },
   {
-    "id": 2,
     "producto": "COCA COLA Retornable x 1,25lts",
     "precio": "355.00"
   },
   {
-    "id": 3,
     "producto": "COCA COLA Retornable x 2lts",
     "precio": "460.00"
   },
   {
-    "id": 4,
     "producto": "COCA COLA Retornable x 350ml",
     "precio": "-"
   },
   {
-    "id": 5,
     "producto": "COCA COLA x 500ml",
     "precio": "239.00"
   },
   {
-    "id": 6,
     "producto": "COCA COLA x 1000ml",
     "precio": "-"
   },
   {
-    "id": 7,
     "producto": "COCA COLA x 1,5lts",
     "precio": "470.00"
   },
   {
-    "id": 8,
     "producto": "COCA COLA x 2,25lts",
     "precio": "610.00"
   },
   {
-    "id": 9,
     "producto": "COCA COLA x 2,5lts",
     "precio": "670.00"
   },
   {
-    "id": 10,
     "producto": "FANTA Lata x 310ml",
     "precio": "190.00"
   },
   {
-    "id": 11,
     "producto": "FANTA Retornable x 1,25lts",
     "precio": "355.00"
   },
   {
-    "id": 12,
     "producto": "FANTA Retornable x 2lts",
     "precio": "460.00"
   },
   {
-    "id": 13,
     "producto": "FANTA Retornable x 350ml",
     "precio": "-"
   },
   {
-    "id": 14,
     "producto": "FANTA x 500ml",
     "precio": "239.00"
   },
   {
-    "id": 15,
     "producto": "FANTA x 1,5lts",
     "precio": "470.00"
   },
   {
-    "id": 16,
     "producto": "FANTA x 2,25lts",
     "precio": "610.00"
   },
   {
-    "id": 17,
     "producto": "SPRITE Lata x 310ml",
     "precio": "190.00"
   },
   {
-    "id": 18,
     "producto": "SPRITE Retornable x 1,25lts",
     "precio": "355.00"
   },
   {
-    "id": 19,
     "producto": "SPRITE Retornable x 2lts",
     "precio": "460.00"
   },
   {
-    "id": 20,
     "producto": "SPRITE Retornable x 350ml",
     "precio": "-"
   },
   {
-    "id": 21,
     "producto": "SPRITE x 500ml",
     "precio": "239.00"
   },
   {
-    "id": 22,
     "producto": "SPRITE x 1,5lts",
     "precio": "470.00"
   },
   {
-    "id": 23,
     "producto": "SPRITE x 2,25lts",
     "precio": "610.00"
   },
   {
-    "id": 24,
     "producto": "SCHWEPPES TóNICA x 1,5lts",
     "precio": "410.00"
   },
   {
-    "id": 25,
     "producto": "7UP x 500ml",
     "precio": "180.00"
   },
   {
-    "id": 26,
     "producto": "7UP x 1,5lts",
     "precio": "405.00"
   },
   {
-    "id": 27,
     "producto": "7UP x 2,25lts",
     "precio": "-"
   },
   {
-    "id": 28,
     "producto": "PEPSI COLA x 500ml",
     "precio": "180.00"
   },
   {
-    "id": 29,
     "producto": "PEPSI COLA x 1,5lts",
     "precio": "405.00"
   },
   {
-    "id": 30,
     "producto": "PEPSI COLA x 2,25lts",
     "precio": "-"
   },
   {
-    "id": 31,
     "producto": "MIRINDA x 500ml",
     "precio": "180.00"
   },
   {
-    "id": 32,
     "producto": "MIRINDA x 1,5lts",
     "precio": "390.00"
   },
   {
-    "id": 33,
     "producto": "PASO DE LOS TOROS POMELO Lata x 269ml",
     "precio": "125.00"
   },
   {
-    "id": 34,
     "producto": "PASO DE LOS TOROS TóNICA Lata x 269ml",
     "precio": "125.00"
   },
   {
-    "id": 35,
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
     "precio": "450.00"
   },
   {
-    "id": 36,
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
     "precio": "450.00"
   },
   {
-    "id": 37,
     "producto": "H2Oh! CITRUS x 1,5lts",
     "precio": "280.00"
   },
   {
-    "id": 38,
     "producto": "H2Oh! LIMONETO x 1,5lts",
     "precio": "280.00"
   },
   {
-    "id": 39,
     "producto": "H2Oh! NARANCHELO x 1,5lts",
     "precio": "280.00"
   },
   {
-    "id": 40,
     "producto": "MANAOS COLA x 3lts",
     "precio": "345.00"
   },
   {
-    "id": 41,
     "producto": "DOBLE COLA x 3lts",
     "precio": "380.00"
   },
   {
-    "id": 42,
     "producto": "PRITTY x 1lts",
     "precio": "218.00"
   },
   {
-    "id": 43,
     "producto": "PRITTY x 1,5lts",
     "precio": "225.00"
   },
   {
-    "id": 44,
     "producto": "PRITTY x 2,25lts",
     "precio": "335.00"
   },
   {
-    "id": 45,
     "producto": "PRITTY x 3lts",
     "precio": "440.00"
   },
   {
-    "id": 46,
     "producto": "RUMIPAL POMELO x 1,5lts",
     "precio": "265.00"
   },
   {
-    "id": 47,
     "producto": "RUMIPAL TóNICA x 1,5lts",
     "precio": "265.00"
   },
   {
-    "id": 48,
     "producto": "SODA IVESS x 500ml",
     "precio": "125.00"
   },
   {
-    "id": 49,
     "producto": "SODA RUMIPAL x 1,5lts",
     "precio": "155.00"
   },
   {
-    "id": 50,
     "producto": "SODA SIFON RUMIPAL x 2lts",
     "precio": "275.00"
   },
   {
-    "id": 51,
     "producto": "SODA SIFON SALDAN x 2lts",
     "precio": "-"
   }

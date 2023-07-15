@@ -1,11 +1,9 @@
 [
     {
-        "id": 1,
         "producto": "LIMPITO 45 x 60",
         "precio": "140.00"
     },
     {
-        "id": 2,
         "producto": "LIMPITO 60 x 90",
         "precio": "245.00"
     }

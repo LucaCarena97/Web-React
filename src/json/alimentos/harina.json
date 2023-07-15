@@ -1,8 +1,18 @@
 [
-    {"id":1,"producto": "BLANCAFLOR Leudante x 1kgr ","precio": "352.00"},
-    {"id":2,"producto": "FAVORITA 0000 x 1kgr","precio": "-"},
-    {"id":2,"producto": "FLORENCIA 000 x 1kgr","precio": "-"},
-    {"id":2,"producto": "FLORENCIA 0000 x 1kgr","precio": "-"}
-
-    ]
-
+    {
+        "producto": "BLANCAFLOR Leudante x 1kgr ",
+        "precio": "352.00"
+    },
+    {
+        "producto": "FAVORITA 0000 x 1kgr",
+        "precio": "-"
+    },
+    {
+        "producto": "FLORENCIA 000 x 1kgr",
+        "precio": "-"
+    },
+    {
+        "producto": "FLORENCIA 0000 x 1kgr",
+        "precio": "-"
+    }
+]

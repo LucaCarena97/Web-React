@@ -1,66 +1,53 @@
 [
   {
-    "id": 1,
     "producto": "CHANDON Delice x 750ml",
     "precio": "2,640.00"
   },
   {
-    "id": 2,
     "producto": "CHANDON Extra Brut x 750ml",
     "precio": "2,640.00"
   },
   {
-    "id": 4,
     "producto": "DADA N°7 Sweet x 750ml",
     "precio": "1,600.00"
   },
   {
-    "id": 3,
     "producto": "DADA N°7 Sweet Pink x 750ml",
     "precio": "1,600.00"
   },
   {
-    "id": 5,
     "producto": "EMILIA NIETO SENETINER Dulce x 750ml",
     "precio": "910.00"
   },
   {
-    "id": 6,
     "producto": "FRIZZE BLUE Lata x 500ml",
     "precio": "222.00"
   },
   {
-    "id": 7,
     "producto": "FRIZZE BLUE x 1000ml",
     "precio": "480.00"
   },
   {
-    "id": 8,
     "producto": "NAVARRO CORREAS Extra Brut Spark x 750ml",
     "precio": "-"
   },
   {
-    "id": 9,
     "producto": "NAVARRO CORREAS Extra Brut x 750ml",
     "precio": "-"
   },
   {
-    "id": 10,
     "producto": "RENAISSANCE Du x 750ml",
     "precio": "920.00"
   },
   {
-    "id": 11,
     "producto": "RENAISSANCE Extra Brut x 750ml",
     "precio": "920.00"
   },
   {
-    "id": 12,
     "producto": "SUTER Dulce x 750ml",
     "precio": "900.00"
   },
   {
-    "id": 13,
     "producto": "SUTER Extra Brut x 750ml",
     "precio": "900.00"
   }

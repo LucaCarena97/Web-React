@@ -1,6 +1,14 @@
 [
-    {"id":1,"producto": "MINERVA x 250ml","precio": "-"},
-    {"id":2,"producto": "MINERVA x 500ml","precio": "-"},
-    {"id":3,"producto": "MINERVA x 1000ml","precio": "-"}
-
-    ]
+    {
+        "producto": "MINERVA x 250ml",
+        "precio": "-"
+    },
+    {
+        "producto": "MINERVA x 500ml",
+        "precio": "-"
+    },
+    {
+        "producto": "MINERVA x 1000ml",
+        "precio": "-"
+    }
+]

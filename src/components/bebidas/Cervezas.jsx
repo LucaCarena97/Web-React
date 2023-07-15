@@ -23,8 +23,8 @@ export function Cervezas() {
             </tr>
           </thead>
           <tbody>
-            {cervezas.map((item) => (
-              <tr key={item.id}>
+            {cervezas.map((item, id) => (
+              <tr key={id++}>
                 <td className="w-3/4 text-base">{item.producto}</td>
                 <td className="w-1/4 text-right text-base">${item.precio}</td>
               </tr>

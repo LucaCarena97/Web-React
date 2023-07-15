@@ -1,6 +1,6 @@
-
 [
-    {"id":1,"producto": "DURAZNO x 820gr","precio": "640.00"}
-
-    ]
-
+    {
+        "producto": "DURAZNO x 820gr",
+        "precio": "640.00"
+    }
+]

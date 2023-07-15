@@ -23,8 +23,8 @@ export function Bolsas() {
             </tr>
           </thead>
           <tbody>
-            {bolsas.map((item) => (
-              <tr key={item.id}>
+            {bolsas.map((item, id) => (
+              <tr key={id++}>
                 <td className="w-3/4 px-5 text-base">{item.producto}</td>
                 <td className="w-1/4 px-5 text-right text-base">
                   ${item.precio}
