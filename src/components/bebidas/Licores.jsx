@@ -16,7 +16,7 @@ export function Licores() {
   );
 
   return (
-    <main>
+    <main className="font-quicksand">
       <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasB />
@@ -36,7 +36,7 @@ export function Licores() {
       </section>
 
       <section className="flex justify-center">
-        <table className="table-fixed mt-5 font-quicksand">
+        <table className="table-fixed mt-5">
           <thead>
             <tr className="border-2 border-blue-400 text-lg">
               <th className="w-screen text-center px-2">Productos</th>

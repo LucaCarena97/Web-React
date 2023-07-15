@@ -2,30 +2,30 @@ import { Link } from "react-router-dom";
 
 export function Home() {
   return (
-    <main className="border-black border-2">
+    <main className="border-black border-2 font-quicksand font-semibold text-center">
       <section className="flex flex-col gap-7 items-center border-yellow-300 border-2 p-7">
         <Link
-          className="bg-blue-500 hover:bg-blue-600 text-white text-center w-32 py-2 px-4 rounded"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-2 px-4 rounded hover:bg-blue-600"
           to={"/alimentos"}
         >
           Alimentos
         </Link>
 
         <Link
-          className="bg-blue-500 hover:bg-blue-600 text-white text-center w-32 py-2 px-4 rounded"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-2 px-4 rounded hover:bg-blue-600"
           to={"/bebidas"}
         >
           Bebidas
         </Link>
 
         <Link
-          className="bg-blue-500 hover:bg-blue-600 text-white text-center w-32 py-2 px-4 rounded"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-2 px-4 rounded hover:bg-blue-600"
           to={"/higiene"}
         >
           Higiene
         </Link>
         <Link
-          className="bg-blue-500 hover:bg-blue-600 text-white text-center w-32 py-2 px-4 rounded"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-2 px-4 rounded hover:bg-blue-600"
           to={"/varios"}
         >
           Varios

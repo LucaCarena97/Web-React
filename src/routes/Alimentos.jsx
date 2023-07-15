@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 export function Alimentos() {
   return (
-    <main className="font-quicksand font-semibold">
+    <main className="font-quicksand">
       <section className="ml-5">
         <Menu />
       </section>
-      <section className="flex flex-col items-center m-6 gap-2">
+      <section className="flex flex-col items-center m-6 gap-2 font-semibold">
         <Link
           className="bg-yellow-300 border-yellow-400 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-200 mb-2 text-center"
           to={"/alimentos/aceite"}

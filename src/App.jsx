@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Navbar } from "./components/Navbar";
+import { NotFound } from "./components/NotFound";
 import { Home } from "./routes/Home";
 import { Footer } from "./components/Footer";
 // IMPORTACIONES BEBIDAS
@@ -92,6 +93,7 @@ function App() {
         <Route path="/varios/cigarrillos" element={<Cigarrillos />} />
         <Route path="/varios/carbon-leña" element={<Carbon />} />
         <Route path="/varios/bolsas" element={<Bolsas />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </>

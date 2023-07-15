@@ -3,19 +3,19 @@ import { Link } from "react-router-dom";
 
 export function Higiene() {
   return (
-    <main>
+    <main className="font-quicksand">
       <section className="ml-5">
         <Menu />
       </section>
-      <section className="flex flex-col items-center m-7 gap-7">
+      <section className="flex flex-col items-center m-6 gap-2 font-semibold">
         <Link
-          className="bg-blue-500 text-white py-2 px-3 w-40 rounded hover:bg-blue-600 mb-2 text-center"
+          className="bg-yellow-300 border-yellow-400 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-200 mb-2 text-center"
           to={"/higiene/cuidado-personal"}
         >
           Cuidado Personal
         </Link>
         <Link
-          className="bg-blue-500 text-white py-2 px-3 w-40 rounded hover:bg-blue-600 mb-2 text-center"
+          className="bg-yellow-300 border-yellow-400 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-200 mb-2 text-center"
           to={"/higiene/papel"}
         >
           Rollo Papel/Pañuelos

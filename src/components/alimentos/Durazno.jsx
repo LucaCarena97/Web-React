@@ -16,7 +16,7 @@ export function Durazno() {
   );
 
   return (
-    <main>
+    <main className="font-quicksand">
       <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasA />
