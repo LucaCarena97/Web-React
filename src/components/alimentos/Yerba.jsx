@@ -24,7 +24,7 @@ export function Yerba() {
       </section>
 
       <section>
-        <div className="flex justify-center mt-5">
+        <div className="flex justify-center mt-7 mb-5">
           <input
             type="text"
             className="border border-gray-400 rounded py-2 px-6 w-8/12 boton-color "
@@ -38,7 +38,7 @@ export function Yerba() {
       <section className="flex justify-center">
         <table className="table-fixed mt-5 font-quicksand">
           <thead>
-            <tr className="border-2 border-blue-400 text-lg">
+            <tr className="border-2 border-blue-400 text-lg bg-green-200 boton-color">
               <th className="w-screen text-center px-2">Productos</th>
               <th className="w-24 text-center px-2">Precios</th>
             </tr>
@@ -53,10 +53,10 @@ export function Yerba() {
             ) : (
               filtro.map((item, id) => (
                 <tr key={id++}>
-                  <td className="w-screen text-base border-b border-gray-200 p-1">
+                  <td className="w-screen text-base border-b border-gray-300 p-1">
                     {item.producto}
                   </td>
-                  <td className="w-24 text-right text-base border-b border-gray-200 p-1">
+                  <td className="w-24 text-right text-base border-b border-gray-300 p-1">
                     ${item.precio}
                   </td>
                 </tr>
