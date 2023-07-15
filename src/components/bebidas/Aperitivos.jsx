@@ -1,11 +1,22 @@
+import { useState } from "react";
 import aperitivos from "../../json/bebidas/aperitivos.json";
 import { Menu } from "../botones/Menu";
 import { CategoriasB } from "../botones/CategoriasB";
 import { WhatsApp } from "../botones/WhatsApp";
 
 export function Aperitivos() {
+  const [searchTerm, setSearchTerm] = useState("");
+
+  const handleSearch = (event) => {
+    setSearchTerm(event.target.value);
+  };
+
+  const filteredAperitivos = aperitivos.filter((item) =>
+    item.producto.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
   return (
-    <>
+    <main>
       <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasB />
@@ -13,25 +24,49 @@ export function Aperitivos() {
       </section>
 
       <section>
-        <table className="table-fixed mx-auto mt-5 font-quicksand">
+        <div className="flex justify-center mt-5">
+          <input
+            type="text"
+            className="border border-gray-400 rounded py-2 px-8 w-6/12"
+            placeholder="Buscar producto"
+            value={searchTerm}
+            onChange={handleSearch}
+          />
+        </div>
+      </section>
+
+      <section className="flex justify-center">
+        <table className="table-fixed mt-5 font-quicksand">
           <thead>
             <tr className="border-2 border-blue-400 text-lg">
-              <th className="w-2/5 text-center px-2">
+              <th className="w-screen text-center px-2">
                 Descripción de productos
               </th>
-              <th className="w-1/5 text-center px-2">Precios</th>
+              <th className="w-24 text-center px-2">Precios</th>
             </tr>
           </thead>
           <tbody>
-            {aperitivos.map((item, id) => (
-              <tr key={id++}>
-                <td className="w-3/4 text-base">{item.producto}</td>
-                <td className="w-1/4 text-right text-base">${item.precio}</td>
+            {filteredAperitivos.length === 0 ? (
+              <tr>
+                <td colSpan="2" className="text-center text-gray-500">
+                  No se encontraron elementos.
+                </td>
               </tr>
-            ))}
+            ) : (
+              filteredAperitivos.map((item, id) => (
+                <tr key={id}>
+                  <td className="w-screen text-base border-b border-gray-200 p-1.5">
+                    {item.producto}
+                  </td>
+                  <td className="w-24 text-right text-base border-b border-gray-200 p-1.5">
+                    ${item.precio}
+                  </td>
+                </tr>
+              ))
+            )}
           </tbody>
         </table>
       </section>
-    </>
+    </main>
   );
 }
