@@ -1,0 +1,11 @@
+/* Estilos generales */
+
+body {
+  transition: background-color 9s ease;
+}
+
+/* Estilos para el modo oscuro */
+.dark {
+  background-color: #1f2937;
+  color: #f3f4f6;
+}
