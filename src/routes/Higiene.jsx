@@ -7,18 +7,18 @@ export function Higiene() {
       <section className="ml-5">
         <Menu />
       </section>
-      <section className="flex flex-col items-center m-6 gap-2 font-semibold">
+      <section className="flex flex-col items-center m-6 gap-2 font-semibold boton-color ">
         <Link
-          className="bg-yellow-300 border-yellow-400 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-200 mb-2 text-center"
+          className="bg-green-200 border-green-300 border-4 text-lg py-2 w-48 rounded hover:bg-green-100 mb-2 text-center"
           to={"/higiene/cuidado-personal"}
         >
           Cuidado Personal
         </Link>
         <Link
-          className="bg-yellow-300 border-yellow-400 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-200 mb-2 text-center"
+          className="bg-gray-200 border-gray-400 border-4 text-lg py-2 w-48 rounded hover:bg-gray-100 mb-2 text-center"
           to={"/higiene/papel"}
         >
-          Rollo Papel/Pañuelos
+          Papel/Pañuelos
         </Link>
       </section>
     </main>

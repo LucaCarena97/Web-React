@@ -27,7 +27,7 @@ export function Bolsas() {
         <div className="flex justify-center mt-5">
           <input
             type="text"
-            className="border border-gray-400 rounded py-2 px-6 w-8/12"
+            className="border border-gray-400 rounded py-2 px-6 w-8/12 boton-color "
             placeholder="Buscar producto"
             value={busqueda}
             onChange={handleSearch}

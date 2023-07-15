@@ -33,7 +33,7 @@ export function Menu() {
         ≡
       </button>
       {mostrarDesplegable && (
-        <div className="absolute  bg-blue-200 border border-gray-300 rounded p-2  w-30">
+        <div className="absolute  bg-blue-200 border border-gray-300 rounded p-2  w-30 boton-color ">
           <Link className="block py-1 px-2 hover:bg-blue-300 rounded" to={"/"}>
             Inicio
           </Link>
@@ -59,7 +59,7 @@ export function Menu() {
             className="block py-2 px-2 hover:bg-blue-300 rounded"
             to={"/varios"}
           >
-            Varios
+            Otros
           </Link>
         </div>
       )}

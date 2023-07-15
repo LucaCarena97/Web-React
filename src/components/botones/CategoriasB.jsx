@@ -17,7 +17,7 @@ export function CategoriasB() {
         Categorias
       </button>
       {mostrarDesplegable && (
-        <div className="absolute bg-blue-200  border border-gray-300 rounded p-2 w-30">
+        <div className="absolute bg-blue-200  border border-gray-300 rounded p-2 w-30 boton-color ">
           <Link
             className="block py-2 px-2 hover:bg-blue-300 rounded"
             to={"/bebidas/aperitivos"}

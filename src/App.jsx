@@ -45,15 +45,8 @@ import { Duracell } from "./components/varios/Duracell";
 import { Cigarrillos } from "./components/varios/Cigarrillos";
 import { Carbon } from "./components/varios/Carbon";
 import { Bolsas } from "./components/varios/Bolsas";
-import { useState } from "react";
 
 function App() {
-  const [darkMode, setDarkMode] = useState(false);
-
-  const toggleDarkMode = () => {
-    setDarkMode(!darkMode);
-    document.documentElement.classList.toggle("dark");
-  };
   return (
     <>
       <Navbar />
@@ -102,7 +95,7 @@ function App() {
         <Route path="/varios/bolsas" element={<Bolsas />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
-      <button onClick={toggleDarkMode}>Cambiar Modo</button>
+
       <Footer />
     </>
   );

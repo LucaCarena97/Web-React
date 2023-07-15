@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 
 export function Home() {
   return (
-    <main className="border-black border-2 font-quicksand font-semibold text-center text-lg">
-      <section className="flex flex-col gap-7 items-center border-yellow-300 border-2 p-7">
+    <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
+      <section className="flex flex-col gap-7 items-center p-7">
         <Link
           className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600"
           to={"/alimentos"}
@@ -28,7 +28,7 @@ export function Home() {
           className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600"
           to={"/varios"}
         >
-          Varios
+          Otros
         </Link>
       </section>
     </main>

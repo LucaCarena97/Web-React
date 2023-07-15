@@ -19,7 +19,7 @@ export function CategoriasV() {
         Categorías
       </button>
       {mostrarDesplegable && (
-        <div className="absolute bg-white border border-gray-300 rounded p-2 w-30">
+        <div className="absolute bg-white border border-gray-300 rounded p-2 w-30 boton-color ">
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/varios/bolsas"}
