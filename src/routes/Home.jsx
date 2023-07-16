@@ -9,28 +9,28 @@ export function Home() {
     <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
       <section className="flex flex-col gap-7 items-center p-7">
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
           to={"/alimentos"}
         >
           <BiSolidCookie className="mr-2" /> Alimentos
         </Link>
 
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
           to={"/bebidas"}
         >
           <BiSolidDrink className="mr-2" /> Bebidas
         </Link>
 
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
           to={"/higiene"}
         >
           <MdOutlineCleanHands className="mr-2" /> Higiene
         </Link>
 
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
           to={"/varios"}
         >
           <BiSolidCategoryAlt className="mr-2" /> Otros

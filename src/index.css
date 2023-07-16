@@ -22,3 +22,14 @@
   font-weight: 600;
   font-style: normal;
 }
+
+.link-transition {
+  animation: slideIn 0.7s ease-in-out forwards;
+  transform: translateX(-1000%);
+}
+
+@keyframes slideIn {
+  to {
+    transform: translateX(0%);
+  }
+}

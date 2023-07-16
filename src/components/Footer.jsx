@@ -1,11 +1,11 @@
 import Slider from "react-slick";
 import destacados from "../json/destacados/destacados.json";
 import { FaMapLocationDot } from "react-icons/fa6";
-import { HiTag } from "react-icons/hi2";
+import { AiTwotoneTags } from "react-icons/ai";
 
 export function Footer() {
   const settings = {
-    dots: true,
+    // dots: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
@@ -16,9 +16,9 @@ export function Footer() {
 
   return (
     <footer className="text-center p-4">
-      <section className="mt-2 mb-14 p-3">
-        <p className="font-quicksand font-semibold flex items-center justify-center text-lg">
-          <HiTag className="mr-2" />
+      <section className="mt-2 mb-11 p-3">
+        <p className="font-quicksand font-semibold flex items-center justify-center text-lg ">
+          <AiTwotoneTags className="mr-2" />
           Productos destacados
         </p>
 

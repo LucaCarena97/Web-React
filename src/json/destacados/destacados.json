@@ -1,18 +1,42 @@
 [
     {
-        "producto": "CARBÓN FOGATA x 3kg",
-        "precio": "465.00"
+        "producto": "Fernet Branca x 750ml",
+        "precio": "2280"
     },
     {
-        "producto": "LEÑA x 3kg",
-        "precio": "435.00"
+        "producto": "Gancia x 950ml",
+        "precio": "1080"
     },
     {
-        "producto": "CARBÓN FOGATA x 3kg",
-        "precio": "465.00"
+        "producto": "Coca Cola x 1500ml",
+        "precio": "470"
     },
     {
-        "producto": "LEÑA x 3kg",
-        "precio": "435.00"
+        "producto": "Coca Cola x 2250ml",
+        "precio": "610"
+    },
+    {
+        "producto": "Brahma x 1000ml",
+        "precio": "600"
+    },
+    {
+        "producto": "Brahma x 500ml",
+        "precio": "325"
+    },
+    {
+        "producto": "Toro Tinto x 1000ml",
+        "precio": "470"
+    },
+    {
+        "producto": "Nativo Tinto x 1000ml",
+        "precio": "410"
+    },
+    {
+        "producto": "Speed x 200ml",
+        "precio": "260"
+    },
+    {
+        "producto": "Yerba Chamigo x 500gr",
+        "precio": "405"
     }
 ]

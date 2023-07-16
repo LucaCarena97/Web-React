@@ -7,7 +7,7 @@ export function Alimentos() {
       <section className="ml-5">
         <Menu />
       </section>
-      <section className="flex flex-col items-center m-6 gap-2 font-semibold text-lg boton-color">
+      <section className="flex flex-col items-center m-6 gap-2 font-semibold text-lg boton-color link-transition">
         <Link
           className="bg-yellow-300 border-yellow-400 border-4 py-2 w-48 rounded hover:bg-yellow-200 mb-2 text-center"
           to={"/alimentos/aceite"}
