@@ -53,10 +53,10 @@ export function Gallo() {
             ) : (
               filtro.map((item, id) => (
                 <tr key={id++}>
-                  <td className="w-screen text-base border-b border-gray-300 p-1">
+                  <td className="w-screen text-base border-b border-gray-200 p-1">
                     {item.producto}
                   </td>
-                  <td className="w-24 text-right text-base border-b border-gray-300 p-1">
+                  <td className="w-24 text-right text-base border-b border-gray-200 p-1">
                     ${item.precio}
                   </td>
                 </tr>

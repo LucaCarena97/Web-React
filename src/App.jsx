@@ -45,6 +45,8 @@ import { Duracell } from "./components/varios/Duracell";
 import { Cigarrillos } from "./components/varios/Cigarrillos";
 import { Carbon } from "./components/varios/Carbon";
 import { Bolsas } from "./components/varios/Bolsas";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 function App() {
   return (

@@ -24,7 +24,7 @@ export function JugosAgua() {
       </section>
 
       <section>
-        <div className="flex justify-center mt-5">
+        <div className="flex justify-center mt-7 mb-5">
           <input
             type="text"
             className="border border-gray-400 rounded py-2 px-6 w-8/12 boton-color "
@@ -38,7 +38,7 @@ export function JugosAgua() {
       <section className="flex justify-center">
         <table className="table-fixed mt-5">
           <thead>
-            <tr className="border-2 border-blue-400 text-lg">
+            <tr className="border-2 border-blue-400 text-lg bg-green-300 boton-color">
               <th className="w-screen text-center px-2">Productos</th>
               <th className="w-24 text-center px-2">Precios</th>
             </tr>
