@@ -7,30 +7,30 @@ import { BiSolidCategoryAlt } from "react-icons/bi";
 export function Home() {
   return (
     <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
-      <section className="flex flex-col gap-7 items-center p-7">
+      <section className="flex flex-col gap-7 items-center p-7 link-transition">
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
           to={"/alimentos"}
         >
           <BiSolidCookie className="mr-2" /> Alimentos
         </Link>
 
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
           to={"/bebidas"}
         >
           <BiSolidDrink className="mr-2" /> Bebidas
         </Link>
 
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
           to={"/higiene"}
         >
           <MdOutlineCleanHands className="mr-2" /> Higiene
         </Link>
 
         <Link
-          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center link-transition"
+          className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
           to={"/varios"}
         >
           <BiSolidCategoryAlt className="mr-2" /> Otros

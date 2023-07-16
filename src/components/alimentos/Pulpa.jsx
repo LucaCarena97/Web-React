@@ -35,7 +35,7 @@ export function Pulpa() {
         </div>
       </section>
 
-      <section className="flex justify-center">
+      <section className="flex justify-center select-none">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-pink-200 boton-color">

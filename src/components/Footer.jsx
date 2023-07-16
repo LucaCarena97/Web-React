@@ -17,7 +17,7 @@ export function Footer() {
   return (
     <footer className="text-center p-4">
       <section className="mt-2 mb-11 p-3">
-        <p className="font-quicksand font-semibold flex items-center justify-center text-lg ">
+        <p className="animate-bounce select-none font-quicksand font-semibold flex items-center justify-center text-lg ">
           <AiTwotoneTags className="mr-2" />
           Productos destacados
         </p>
@@ -31,7 +31,7 @@ export function Footer() {
           ))}
         </Slider>
       </section>
-      <section className="bg-blue-300 border-blue-600 border-2 p-3 boton-color">
+      <section className="bg-blue-300 border-blue-600 border-2 p-3 select-none boton-color">
         <p className="font-quicksand font-semibold flex items-center justify-center">
           <FaMapLocationDot className="mr-2" />
           Ubicación

@@ -12,3 +12,19 @@
   background-color: #1f2937;
   color: #f3f4f6;
 }
+
+@keyframes scaleAnimation {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.custom-scale-animation {
+  animation: scaleAnimation 3s infinite;
+}
