@@ -36,7 +36,7 @@ export function Durazno() {
       </section>
 
       <section className="flex justify-center">
-        <table className="table-fixed mt-5 font-quicksand">
+        <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-yellow-100 boton-color">
               <th className="w-screen text-center px-2">Productos</th>
