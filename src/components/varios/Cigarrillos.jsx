@@ -36,7 +36,7 @@ export function Cigarrillos() {
       </section>
 
       <section className="flex justify-center">
-        <table className="table-fixed mt-5 ">
+        <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg boton-color bg-yellow-500">
               <th className="w-screen text-center px-2">Productos</th>

@@ -1,6 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* src/index.css (o tu archivo de estilos) */
+
+/* Estilos personalizados para las flechas del slider */
+.slick-prev:before,
+.slick-next:before {
+  @apply text-blue-500; /* Cambia el color a cualquier color de Tailwind CSS que desees */
+}
 
 @font-face {
   font-family: "Quicksand";

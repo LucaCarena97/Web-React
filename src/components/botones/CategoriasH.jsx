@@ -17,7 +17,7 @@ export function CategoriasH() {
         Categorias
       </button>
       {mostrarDesplegable && (
-        <div className="absolute bg-white border border-gray-300 rounded p-2 w-30 boton-color ">
+        <div className="absolute bg-white border border-gray-300 rounded p-2 w-30 boton-color  z-20">
           <Link
             className="block py-1 px-2 hover:bg-gray-200 rounded"
             to={"/higiene/cuidado-personal"}
