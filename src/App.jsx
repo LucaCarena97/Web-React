@@ -18,7 +18,7 @@ import { Ginebra } from "./components/bebidas/Ginebra";
 import { Ron } from "./components/bebidas/Ron";
 import { Vinos } from "./components/bebidas/Vinos";
 import { Espumantes } from "./components/bebidas/Espumantes";
-// IMPORTACION ALIMENTOS
+// IMPORTACIONES  ALIMENTOS
 import { Alimentos } from "./routes/Alimentos";
 import { Quento } from "./components/alimentos/Quento";
 import { Firenze } from "./components/alimentos/Firenze";
@@ -35,11 +35,11 @@ import { Harina } from "./components/alimentos/Harina";
 import { Durazno } from "./components/alimentos/Durazno";
 import { Triturado } from "./components/alimentos/Triturado";
 import { Pulpa } from "./components/alimentos/Pulpa";
-// IMPORTACION HIGIENE
+// IMPORTACIONES  HIGIENE
 import { Higiene } from "./routes/Higiene";
 import { Papel } from "./components/higiene/Papel";
 import { CuidadoPersonal } from "./components/higiene/CuidadoPersonal";
-// IMPORTACION VARIOS
+// IMPORTACIONES  VARIOS
 import { Varios } from "./routes/Varios";
 import { Duracell } from "./components/varios/Duracell";
 import { Cigarrillos } from "./components/varios/Cigarrillos";
@@ -47,6 +47,7 @@ import { Carbon } from "./components/varios/Carbon";
 import { Bolsas } from "./components/varios/Bolsas";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+// import "animate.css";
 
 function App() {
   return (

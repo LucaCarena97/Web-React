@@ -1,6 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* styles.css */
+/* @import "animate.css/animate.min.css"; */
+
 /* src/index.css (o tu archivo de estilos) */
 
 /* Estilos personalizados para las flechas del slider */
