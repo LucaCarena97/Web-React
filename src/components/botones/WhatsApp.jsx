@@ -8,7 +8,7 @@ export function WhatsApp() {
   return (
     <>
       <button
-        className="bg-green-500 border-green-600 border-2 text-white px-4 py-2 rounded text-2xl hover:bg-green-600 "
+        className="bg-green-500 border-green-600 border-2 text-white px-3 py-2 rounded text-2xl hover:bg-green-600 "
         onClick={handleWhatsappClick}
       >
         <a

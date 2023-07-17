@@ -22,7 +22,7 @@ export function Footer() {
           Productos destacados
         </p>
 
-        <Slider {...settings}>
+        <Slider {...settings} className="bg-blue-300 rounded-xl shadow-inner ">
           {destacados.map((item, id) => (
             <div key={id++} className="p-5">
               <p>{item.producto}</p>
