@@ -1,5 +1,7 @@
 import { Menu } from "../components/botones/Menu";
 import { Link } from "react-router-dom";
+import { GiFire, GiCigarette, GiBatteries } from "react-icons/gi";
+import { BsBagFill } from "react-icons/bs";
 
 export function Varios() {
   return (
@@ -9,30 +11,30 @@ export function Varios() {
       </section>
       <section className="flex flex-col items-center m-6 gap-2 font-semibold boton-color link-transition">
         <Link
-          className="bg-gray-200 border-gray-400 border-4 text-lg py-2 w-48 rounded hover:bg-gray-100 mb-2 text-center"
+          className="bg-gray-200 border-gray-400 border-4 text-lg py-2 w-48 rounded hover:bg-gray-100 mb-2 text-center flex items-center justify-center"
           to={"/varios/bolsas"}
         >
-          Bolsas Residuos
+          <BsBagFill className="mr-2" /> Bolsas Residuos
         </Link>
         <Link
-          className="bg-gray-400 border-gray-500 border-4 text-lg py-2 w-48 rounded hover:bg-gray-300 mb-2 text-center"
+          className="bg-gray-400 border-gray-500 border-4 text-lg py-2 w-48 rounded hover:bg-gray-300 mb-2 text-center flex items-center justify-center"
           to={"/varios/carbon-leña"}
         >
-          Carbón/Leña
+          <GiFire className="mr-2" /> Carbón/Leña
         </Link>
 
         <Link
-          className="bg-yellow-500 border-yellow-600 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-400 mb-2 text-center"
+          className="bg-yellow-500 border-yellow-600 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-400 mb-2 text-center flex items-center justify-center"
           to={"/varios/cigarrillos"}
         >
-          Cigarrillos
+          <GiCigarette className="mr-2" /> Cigarrillos
         </Link>
 
         <Link
-          className="bg-gray-600 border-yellow-500 border-4 text-lg py-2 w-48 rounded hover:bg-gray-700 mb-2 text-center"
+          className="bg-gray-500 border-yellow-500 border-4 text-lg py-2 w-48 rounded hover:bg-gray-400 mb-2 text-center flex items-center justify-center"
           to={"/varios/duracell"}
         >
-          Duracell
+          <GiBatteries className="mr-2" /> Duracell
         </Link>
       </section>
     </main>

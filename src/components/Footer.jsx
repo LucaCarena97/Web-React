@@ -17,14 +17,14 @@ export function Footer() {
   return (
     <footer className="text-center p-4">
       <section className="mt-2 mb-11 p-3">
-        <p className="animate-bounce select-none font-quicksand font-semibold flex items-center justify-center text-lg ">
+        <p className="animate-bounce select-none font-quicksand font-semibold flex items-center justify-center text-xl ">
           <AiTwotoneTags className="mr-2" />
           Productos destacados
         </p>
 
-        <Slider {...settings} className="bg-blue-300 rounded-xl shadow-inner ">
+        <Slider {...settings} className="rounded-xl destacados">
           {destacados.map((item, id) => (
-            <div key={id++} className="p-5">
+            <div key={id++} className="p-5 boton-color">
               <p>{item.producto}</p>
               <p className="font-semibold">$ {item.precio}</p>
             </div>
