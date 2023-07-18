@@ -29,25 +29,31 @@
   animation: scaleAnimation 3s infinite;
 }
 
+@keyframes animation {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.scale-animation {
+  animation: animation 3s infinite;
+}
+
 .destacados {
-  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.282);
-  background-color: #74aef4d0;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.282);
+  background-color: #74aef46c;
+  border-radius: 0;
+  border-top: 3px solid #4e98f3;
+  border-bottom: 3px solid #4e98f3;
 }
 
-.fade-enter {
-  opacity: 0;
-}
-
-.fade-enter-active {
-  opacity: 1;
-  transition: opacity 300ms;
-}
-
-.fade-exit {
-  opacity: 1;
-}
-
-.fade-exit-active {
-  opacity: 0;
-  transition: opacity 300ms;
+.ubicacion {
+  border: 2px solid #4e98f3;
+  background-color: #78aff1b0;
 }

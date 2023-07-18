@@ -22,17 +22,17 @@ export function Footer() {
           Productos destacados
         </p>
 
-        <Slider {...settings} className="rounded-xl destacados">
+        <Slider {...settings} className="destacados">
           {destacados.map((item, id) => (
-            <div key={id++} className="p-5 boton-color">
+            <div key={id++} className="p-5">
               <p>{item.producto}</p>
               <p className="font-semibold">$ {item.precio}</p>
             </div>
           ))}
         </Slider>
       </section>
-      <section className="bg-blue-300 border-blue-600 border-2 p-3 select-none boton-color">
-        <p className="font-quicksand font-semibold flex items-center justify-center">
+      <section className="ubicacion p-3 select-none">
+        <p className="font-quicksand font-semibold flex items-center justify-center scale-animation">
           <FaMapLocationDot className="mr-2" />
           Ubicación
         </p>
