@@ -97,6 +97,7 @@ function App() {
         <Route path="/varios/carbon-leña" element={<Carbon />} />
         <Route path="/varios/bolsas" element={<Bolsas />} />
         <Route path="*" element={<NotFound />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </>

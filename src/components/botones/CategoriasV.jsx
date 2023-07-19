@@ -19,27 +19,27 @@ export function CategoriasV() {
         Categorías
       </button>
       {mostrarDesplegable && (
-        <div className="absolute bg-white border border-gray-300 rounded p-2 w-30 boton-color  z-20">
+        <div className="absolute bg-blue-200 border border-gray-300 rounded p-2 w-30 boton-color  z-20">
           <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            className="block py-1 px-2 hover:bg-blue-300 rounded"
             to={"/varios/bolsas"}
           >
             Bolsas Residuos
           </Link>
           <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            className="block py-1 px-2 hover:bg-blue-300 rounded"
             to={"/varios/carbon-leña"}
           >
             Carbón/Leña
           </Link>
           <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            className="block py-1 px-2 hover:bg-blue-300 rounded"
             to={"/varios/cigarrillos"}
           >
             Cigarrillos
           </Link>
           <Link
-            className="block py-1 px-2 hover:bg-gray-200 rounded"
+            className="block py-1 px-2 hover:bg-blue-300 rounded"
             to={"/varios/duracell"}
           >
             Duracell

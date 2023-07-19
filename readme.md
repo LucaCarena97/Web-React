@@ -1,1 +1,7 @@
-"La página web creada en React y diseñada con Tailwind CSS ofrece a los usuarios una experiencia atractiva y sencilla para explorar una variedad de productos junto con sus respectivos precios. Gracias a la combinación de React como biblioteca de JavaScript y el poderoso framework de estilos Tailwind CSS, se logra una interfaz moderna y receptiva. Los productos se presentan en una lista limpia y organizada, con cada artículo acompañado de su imagen, nombre y precio. La interfaz intuitiva permite a los usuarios filtrar los productos por categoría, precio y otros atributos relevantes, lo que facilita la búsqueda de los artículos deseados. Asimismo, al hacer clic en un producto específico, los usuarios pueden acceder a una vista detallada con información adicional, lo que brinda una experiencia completa y satisfactoria en su búsqueda y selección de productos."
+## Detalles:
+
+- Esta página web fue creada en React y diseñada con Tailwind CSS y Animate.css para ofrece a los usuarios una experiencia atractiva y sencilla para explorar una variedad de productos junto con sus respectivos precios. Gracias a la combinación de React como biblioteca de JavaScript y el poderoso framework de estilos Tailwind CSS, se logro una interfaz moderna y receptiva.
+
+- Los productos se presentan en una tabla en forma de lista limpia y organizada, con cada artículo acompañado de su nombre y precio. La interfaz intuitiva permite a los usuarios filtrar los productos por su nombre o precio, lo que facilita la búsqueda de los artículos deseados.
+
+_Hecho por Luca Carena_

@@ -3,6 +3,7 @@ import duracell from "../../json/varios/duracell.json";
 import { CategoriasV } from "../botones/CategoriasV";
 import { WhatsApp } from "../botones/WhatsApp";
 import { useState } from "react";
+import "animate.css";
 
 export function Duracell() {
   const [busqueda, setBusqueda] = useState("");
@@ -35,7 +36,7 @@ export function Duracell() {
         </div>
       </section>
 
-      <section className="flex justify-center select-none">
+      <section className="flex justify-center select-none animate__animated animate__flipInX">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-gray-400 boton-color ">
