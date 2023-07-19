@@ -35,7 +35,7 @@ export function Aceite() {
         </div>
       </section>
 
-      <section className="flex justify-center select-none animate__animated animate__zoomIn">
+      <section className="flex justify-center select-none animate__animated animate__flipInX">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-yellow-100 boton-color">

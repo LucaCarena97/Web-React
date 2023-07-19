@@ -35,7 +35,7 @@ export function Triturado() {
         </div>
       </section>
 
-      <section className="flex justify-center select-none">
+      <section className="flex justify-center select-none animate__animated animate__flipInX">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-red-400 boton-color">
