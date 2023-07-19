@@ -1,9 +1,9 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Navbar } from "./components/Navbar";
-import { NotFound } from "./components/NotFound";
 import { Home } from "./routes/Home";
 import { Footer } from "./components/Footer";
+import { NotFound } from "./routes/NotFound";
 // IMPORTACIONES BEBIDAS
 import { Bebidas } from "./routes/Bebidas";
 import { Gaseosas } from "./components/bebidas/Gaseosas";
