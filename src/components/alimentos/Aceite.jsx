@@ -16,7 +16,7 @@ export function Aceite() {
   );
 
   return (
-    <main className="font-quicksand animate__animated animate__zoomIn">
+    <main className="font-quicksand">
       <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasA />
@@ -35,7 +35,7 @@ export function Aceite() {
         </div>
       </section>
 
-      <section className="flex justify-center select-none">
+      <section className="flex justify-center select-none animate__animated animate__zoomIn">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-yellow-100 boton-color">
