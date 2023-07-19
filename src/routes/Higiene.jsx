@@ -9,7 +9,7 @@ export function Higiene() {
       <section className="ml-5">
         <Menu />
       </section>
-      <section className="flex flex-col items-center m-6 gap-2 font-semibold boton-color link-transition">
+      <section className="flex flex-col items-center m-6 gap-2 font-semibold boton-color animate__animated animate__backInLeft">
         <Link
           className="bg-green-200 border-green-300 border-4 text-lg py-2 w-48 rounded hover:bg-green-100 mb-2 text-center flex items-center justify-center"
           to={"/higiene/cuidado-personal"}

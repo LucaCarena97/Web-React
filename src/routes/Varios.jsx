@@ -9,7 +9,7 @@ export function Varios() {
       <section className="ml-5">
         <Menu />
       </section>
-      <section className="flex flex-col items-center m-6 gap-2 font-semibold boton-color link-transition">
+      <section className="flex flex-col items-center m-6 gap-2 font-semibold boton-color animate__animated animate__backInRight">
         <Link
           className="bg-gray-200 border-gray-400 border-4 text-lg py-2 w-48 rounded hover:bg-gray-100 mb-2 text-center flex items-center justify-center"
           to={"/varios/bolsas"}

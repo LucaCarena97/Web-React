@@ -7,7 +7,7 @@ import { BiSolidCategoryAlt } from "react-icons/bi";
 export function Home() {
   return (
     <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
-      <section className="flex flex-col gap-7 items-center p-7 link-transition">
+      <section className="flex flex-col gap-7 items-center p-7 animate__animated animate__zoomInDown">
         <Link
           className="bg-blue-500 w-40 border-blue-600 border-2 text-white py-3 px-4 rounded hover:bg-blue-600 flex items-center justify-center"
           to={"/alimentos"}

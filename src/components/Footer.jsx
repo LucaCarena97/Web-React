@@ -16,7 +16,7 @@ export function Footer() {
 
   return (
     <footer className="text-center p-4">
-      <section className="mt-2 mb-10 p-3">
+      <section className="mt-2 mb-10 p-3 animate__animated animate__bounceInRight">
         <p className="animate-bounce select-none font-quicksand font-semibold flex items-center justify-center text-xl ">
           <AiTwotoneTags className="mr-2" />
           Productos destacados
@@ -31,13 +31,13 @@ export function Footer() {
           ))}
         </Slider>
       </section>
-      <section className="ubicacion p-3 select-none">
+      <section className="ubicacion p-3 select-none animate__animated animate__backInUp">
         <p className="font-quicksand font-semibold flex items-center justify-center scale-animation">
           <FaMapLocationDot className="mr-2" />
           Ubicación
         </p>
-        <p>123 Calle Principal, Alcira</p>
-        <p>Código Postal 5813</p>
+        <p>123 Nombre Calle, Ciudad</p>
+        <p>Código Postal 0000</p>
       </section>
     </footer>
   );
