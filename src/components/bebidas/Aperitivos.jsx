@@ -35,7 +35,7 @@ export function Aperitivos() {
         </div>
       </section>
 
-      <section className="flex justify-center select-none animate__animated animate__flipInX">
+      <section className="flex justify-center select-none animate__animated animate__zoomIn">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-blue-300 boton-color">
