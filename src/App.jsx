@@ -98,7 +98,6 @@ function App() {
         <Route path="/varios/bolsas" element={<Bolsas />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
-      <Route path="*" element={<NotFound />} />
       <Footer />
     </>
   );
