@@ -16,7 +16,7 @@ export function Aceite() {
   );
 
   return (
-    <main className="font-quicksand">
+    <main className="font-quicksand animate__animated animate__zoomIn">
       <section className="flex justify-evenly items-end">
         <Menu />
         <CategoriasA />
