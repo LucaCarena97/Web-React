@@ -36,7 +36,7 @@ export function CategoriasA() {
       </button>
 
       {desplegable && (
-        <div className="absolute bg-blue-200 mt-1 border border-gray-300 rounded p-2 w-30 boton-color z-20">
+        <div className="absolute bg-blue-200 mt-1 border border-gray-300 rounded p-2 w-full boton-color z-20">
           <div>
             <Link
               className="block py-2 px-2 hover:bg-blue-300 rounded"

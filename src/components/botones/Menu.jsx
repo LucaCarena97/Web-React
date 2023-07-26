@@ -19,7 +19,7 @@ export function Menu() {
         ≡
       </button>
       {desplegable && (
-        <div className="absolute  bg-blue-200 border border-gray-300 rounded p-2  w-30 boton-color z-20">
+        <div className="absolute  bg-blue-200 border mt-1 border-gray-300 rounded p-2  w-30 boton-color z-20">
           <div className="border-b-2 pb-1">
             <Link
               className="block py-1 px-2 hover:bg-blue-300 rounded"
