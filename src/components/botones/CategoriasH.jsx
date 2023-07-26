@@ -37,13 +37,13 @@ export function CategoriasH() {
       {desplegable && (
         <div className="absolute bg-blue-200 border mt-1 border-gray-300 rounded p-2 w-full boton-color  z-20">
           <Link
-            className="block py-1 hover:bg-blue-300 rounded"
+            className="block py-2 hover:bg-blue-300 rounded"
             to={"/higiene/cuidado-personal"}
           >
             Cuidado Personal
           </Link>
           <Link
-            className="block py-1  hover:bg-blue-300 rounded"
+            className="block py-2  hover:bg-blue-300 rounded"
             to={"/higiene/papel"}
           >
             Rollo/Pañuelos
