@@ -1,6 +1,9 @@
 export function Logo() {
   return (
-    <section className="font-quicksand font-semibold text-base border-blue-600 border-2 bg-blue-300 p-2 text-black animate__animated animate__backInDown">
+    <section
+      className="select-none font-quicksand font-semibold text-base
+      border-blue-600 border-2 p-2  animate__animated animate__backInDown logo"
+    >
       <p>Le</p>
       <p>Nostre</p>
       <p>Bevande</p>

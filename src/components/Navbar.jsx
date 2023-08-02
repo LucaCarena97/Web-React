@@ -11,7 +11,7 @@ export function Navbar() {
   };
 
   return (
-    <header className="flex justify-between items-center p-10 ">
+    <header className="flex justify-between items-center p-8 ">
       <Logo />
 
       <button
