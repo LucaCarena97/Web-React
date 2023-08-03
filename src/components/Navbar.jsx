@@ -11,11 +11,11 @@ export function Navbar() {
   };
 
   return (
-    <header className="flex justify-between items-center p-8 ">
+    <header className="flex justify-between items-center p-10 ">
       <Logo />
 
       <button
-        className="flex items-center text-white bg-blue-500 border-blue-600 border-2 px-4 py-2 rounded hover:bg-blue-600"
+        className="flex items-center text-white bg-blue-500 border-blue-600 border-2 px-4 py-3 rounded hover:bg-blue-600"
         onClick={toggleDarkMode}
       >
         {darkMode ? (
