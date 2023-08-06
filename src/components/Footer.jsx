@@ -39,6 +39,8 @@ export function Footer() {
         <p>123 Nombre Calle, Ciudad</p>
         <p>Código Postal 0000</p>
       </section>
+
+      <p className="font-quicksand mt-6 create">Creado por: Luca Carena</p>
     </footer>
   );
 }
