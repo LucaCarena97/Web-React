@@ -57,11 +57,6 @@ html {
   border-bottom: 3px solid #4e98f3;
 }
 
-.logo {
-  box-shadow: 0px 0px 15px #1c64f2;
-  background-color: #74aef46c;
-}
-
 .ubicacion {
   border: 2px solid #4e98f3;
   background-color: #78aff1b0;
@@ -80,5 +75,23 @@ html {
     width: 55rem;
     margin: 0 auto;
     margin-bottom: 2rem;
+  }
+}
+
+.logo {
+  background-color: #74aef46c;
+  border-radius: 8px;
+  animation: shadowMove 2s infinite;
+}
+
+@keyframes shadowMove {
+  0% {
+    box-shadow: 0px 0px 20px #1c64f2;
+  }
+  50% {
+    box-shadow: 0px 0px 30px #02318f;
+  }
+  100% {
+    box-shadow: 0px 0px 20px #2868e9;
   }
 }
