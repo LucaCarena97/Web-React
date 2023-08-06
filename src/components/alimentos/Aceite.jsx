@@ -23,7 +23,7 @@ export function Aceite() {
         <WhatsApp />
       </section>
 
-      <section>
+      <section className="products">
         <div className="flex justify-center mt-7 mb-5">
           <input
             type="text"
@@ -35,7 +35,7 @@ export function Aceite() {
         </div>
       </section>
 
-      <section className="flex justify-center select-none animate__animated animate__flipInX">
+      <section className="flex justify-center select-none animate__animated animate__flipInX products">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
             <tr className="border-2 border-blue-400 text-lg bg-yellow-100 boton-color">

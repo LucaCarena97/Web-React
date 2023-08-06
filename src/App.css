@@ -66,3 +66,19 @@ html {
   border: 2px solid #4e98f3;
   background-color: #78aff1b0;
 }
+
+@media screen and (min-width: 1000px) {
+  footer {
+    display: flex;
+    flex-direction: column;
+    width: 45rem;
+    margin: 0 auto;
+  }
+  .products {
+    display: flex;
+    flex-direction: column;
+    width: 55rem;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+}
