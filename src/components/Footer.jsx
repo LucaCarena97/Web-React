@@ -36,12 +36,12 @@ export function Footer() {
           <FaMapLocationDot className="mr-2" />
           Ubicación
         </p>
-        <p>123 Nombre Calle, Ciudad</p>
-        <p>Código Postal 0000</p>
+        <p>Sáenz Peña 728, Alcira</p>
+        <p>Código Postal 5813</p>
       </section>
 
       <p className="font-quicksand mt-6 create animate__animated animate__backInUp">
-        Creado por: Luca Carena
+        Creado por Luca Carena
       </p>
     </footer>
   );
