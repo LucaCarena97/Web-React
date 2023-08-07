@@ -31,7 +31,7 @@ export function Varios() {
         </Link>
 
         <Link
-          className="bg-gray-500 border-yellow-500 border-4 text-lg py-2 w-48 rounded hover:bg-gray-400 mb-2 text-center flex items-center justify-center"
+          className="bg-gray-500 border-yellow-400 border-4 text-lg py-2 w-48 rounded hover:bg-gray-400 mb-2 text-center flex items-center justify-center"
           to={"/varios/duracell"}
         >
           <GiBatteries className="mr-2" /> Duracell

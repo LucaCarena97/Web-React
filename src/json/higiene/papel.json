@@ -1,7 +1,7 @@
 [
     {
         "producto": "ELEGANTE Cocina 50mts x 3un ",
-        "precio": "360,00"
+        "precio": "-"
     },
     {
         "producto": "ELITE SOFT Pañuelo Touch x 6un ",
@@ -9,11 +9,15 @@
     },
     {
         "producto": "HIGIENOL Export Higienico 30mts x 4un",
-        "precio": "-"
+        "precio": "295.00"
     },
     {
         "producto": "HIGIENOL Premium Higienico 30mts x 4un",
-        "precio": "430.00"
+        "precio": "-"
+    },
+    {
+        "producto": "SUSSEX x3 Clásico",
+        "precio": "395.00"
     },
     {
         "producto": "SUSSEX Premium Cocina Maxi x 100p",

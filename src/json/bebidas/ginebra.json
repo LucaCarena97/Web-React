@@ -1,23 +1,23 @@
 [
     {
         "producto": "BOTANICOS Limón",
-        "precio": "-"
+        "precio": "650.00"
     },
     {
         "producto": "BOTANICOS Mix Frutal",
-        "precio": "-"
+        "precio": "650.00"
     },
     {
         "producto": "GINEBRA LLAVE x 750ml",
-        "precio": "1,280.00"
+        "precio": "1,340.00"
     },
     {
         "producto": "GINEBRA LLAVE BLACK x 750ml",
-        "precio": "1,350.00"
+        "precio": "3,200.00"
     },
     {
         "producto": "GIN BEAFETEAR x 750ml",
-        "precio": "5,450.00"
+        "precio": "6,700.00"
     },
     {
         "producto": "GIN BEAFETEAR x 1000ml",
@@ -29,11 +29,11 @@
     },
     {
         "producto": "GIN BEAFETEAR PINK x 750ml",
-        "precio": "9,100.00"
+        "precio": "9,500.00"
     },
     {
         "producto": "GIN BOMBAY x 750ml",
-        "precio": "10,700.00"
+        "precio": "11,300.00"
     },
     {
         "producto": "GIN BOMBAY RASPBERRY x 750ml",
@@ -49,7 +49,7 @@
     },
     {
         "producto": "GIN BRIGHTON x 700ml",
-        "precio": "2,020.00"
+        "precio": "2,000.00"
     },
     {
         "producto": "GIN GORDON'S x 700ml",
