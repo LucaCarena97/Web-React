@@ -40,7 +40,9 @@ export function Footer() {
         <p>Código Postal 0000</p>
       </section>
 
-      <p className="font-quicksand mt-6 create">Creado por: Luca Carena</p>
+      <p className="font-quicksand mt-6 create animate__animated animate__backInUp">
+        Creado por: Luca Carena
+      </p>
     </footer>
   );
 }
