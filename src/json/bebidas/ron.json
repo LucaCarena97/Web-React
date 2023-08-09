@@ -1,15 +1,15 @@
 [
     {
         "producto": "BACARDI Blanco x 750ml",
-        "precio": "4,500.00"
+        "precio": "4,700.00"
     },
     {
         "producto": "BACARDI Oro x 750ml",
-        "precio": "4,500.00"
+        "precio": "4,700.00"
     },
     {
         "producto": "CANDY x 750ml",
-        "precio": "690.00"
+        "precio": "720.00"
     },
     {
         "producto": "CAPTAIN MORGAN SPICE GOLD x 750ml",
@@ -21,7 +21,7 @@
     },
     {
         "producto": "CAYMAN Uva x 750ml",
-        "precio": "690.00"
+        "precio": "720.00"
     },
     {
         "producto": "COCO BONGO x 750ml",
@@ -29,6 +29,6 @@
     },
     {
         "producto": "MALIBÚ x 750ml",
-        "precio": "4,500.00"
+        "precio": "4,900.00"
     }
 ]

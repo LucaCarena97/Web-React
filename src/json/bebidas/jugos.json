@@ -1,18 +1,18 @@
 [
     {
-        "producto": "AGUA MINERAL BONAQUA x 1500ml  x 2lts",
+        "producto": "AGUA MINERAL BONAQUA x 500ml",
         "precio": "-"
     },
     {
-        "producto": "AGUA MINERAL BONAQUA x 500ml",
-        "precio": "150.00"
-    },
-    {
-        "producto": "AGUA MINERAL NIHUIL x 600ml ",
+        "producto": "AGUA MINERAL BONAQUA x 1500ml",
         "precio": "-"
     },
     {
         "producto": "AGUA MINERAL NESTLE x 500ml ",
+        "precio": "-"
+    },
+    {
+        "producto": "AGUA MINERAL NESTLE x 1500ml ",
         "precio": "220.00"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
         "producto": "AGUA MINERAL IVESS x 500ml ",
-        "precio": "125.00"
+        "precio": "135.00"
     },
     {
         "producto": "AGUA Sab. BAGGIO VIDA LIMONE x 1,5lts ",
@@ -37,7 +37,7 @@
     },
     {
         "producto": "AGUA Sab. BAGGIO VIDA NARANJA x 1,5lts ",
-        "precio": "280.00"
+        "precio": "-"
     },
     {
         "producto": "AGUA Sab. BAGGIO VIDA POMELO x 1,5lts ",
@@ -93,11 +93,11 @@
     },
     {
         "producto": "CEPITA DURAZNO x 1000ml ",
-        "precio": "280.00"
+        "precio": "295.00"
     },
     {
         "producto": "CEPITA NARANJA x 1000ml ",
-        "precio": "280.00"
+        "precio": "295.00"
     },
     {
         "producto": "GATORADE Cool Blue x 500ml ",
@@ -121,14 +121,14 @@
     },
     {
         "producto": "TERMA Limón x 1,35lts",
-        "precio": "312.00"
+        "precio": "330.00"
     },
     {
         "producto": "TERMA Pomelo Rosado x 1,35lts",
-        "precio": "312.00"
+        "precio": "330.00"
     },
     {
         "producto": "TERMA Serrano x 1,35lts",
-        "precio": "312.00"
+        "precio": "330.00"
     }
 ]
