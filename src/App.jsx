@@ -51,6 +51,14 @@ import "animate.css";
 import "tailwindcss/tailwind.css";
 
 function App() {
+  function alerta() {
+    window.alert(
+      "Le recordamos que los precios pueden ajustarse según las condiciones del mercado al realizar su pedido. Gracias!"
+    );
+  }
+
+  alerta();
+
   return (
     <>
       <Navbar />
