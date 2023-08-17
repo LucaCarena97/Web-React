@@ -56,10 +56,10 @@ import { useEffect } from "react";
 function App() {
   useEffect(() => {
     toast.info(
-      "Le recordamos que los precios pueden ajustarse según las condiciones del mercado al realizar su pedido. Gracias!",
+      "Los precios pueden variar a la hora de realizar el pedido. Gracias!",
       {
         position: "top-center",
-        autoClose: 6000,
+        autoClose: 5000,
         hideProgressBar: false,
         closeOnClick: true,
         pauseOnHover: true,
