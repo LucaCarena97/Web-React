@@ -41,19 +41,19 @@
     },
     {
         "producto": "BRAHMA Lata x 500ml",
-        "precio": "335.00"
+        "precio": "435.00"
     },
     {
         "producto": "BRAHMA Dorada Descartable x 710ml",
-        "precio": "560.00"
+        "precio": "670.00"
     },
     {
         "producto": "BRAHMA Retornable x 340ml",
-        "precio": "190.00"
+        "precio": "245.00"
     },
     {
         "producto": "BRAHMA Retornable x 1000ml",
-        "precio": "610.00"
+        "precio": "740.00"
     },
     {
         "producto": "BUDWEISER Retornable x 340ml",
@@ -61,7 +61,7 @@
     },
     {
         "producto": "CÓRDOBA Lata x 500ml",
-        "precio": "304.00"
+        "precio": "398.00"
     },
     {
         "producto": "CORONA Lata x 270ml",
@@ -69,11 +69,11 @@
     },
     {
         "producto": "CORONA x 330ml",
-        "precio": "380.00"
+        "precio": "515.00"
     },
     {
         "producto": "CORONA x 710ml",
-        "precio": "685.00"
+        "precio": "870.00"
     },
     {
         "producto": "HEINEKEN Lata x 500ml",
@@ -81,15 +81,15 @@
     },
     {
         "producto": "PEÑON DEL ÁGUILA Lata x 500ml",
-        "precio": "298.00"
+        "precio": "-"
     },
     {
         "producto": "QUILMES Lata x 500ml",
-        "precio": "315.00"
+        "precio": "440.00"
     },
     {
         "producto": "QUILMES Sin Alcohol Lata x 500ml",
-        "precio": "260.00"
+        "precio": "350.00"
     },
     {
         "producto": "QUILMES Retornable x 340ml",
@@ -97,7 +97,7 @@
     },
     {
         "producto": "QUILMES Retornable x 1000ml",
-        "precio": "595.00"
+        "precio": "730.00"
     },
     {
         "producto": "STELLA ARTOIS RUBIA Lata x 270ml",
@@ -113,10 +113,10 @@
     },
     {
         "producto": "STELLA ARTOIS Retornable RUBIA x 1000ml",
-        "precio": "840.00"
+        "precio": "950.00"
     },
     {
         "producto": "STELLA ARTOIS Retornable NEGRA x 1000ml",
-        "precio": "840.00"
+        "precio": "950.00"
     }
 ]
