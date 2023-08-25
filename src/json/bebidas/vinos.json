@@ -48,6 +48,10 @@
         "precio": "1,680.00"
     },
     {
+        "producto": "BALBO MAGNUM Tinto x 1125ml",
+        "precio": "-"
+    },
+    {
         "producto": "CHACABUCO CHENIN DULCE x 750ml",
         "precio": "-"
     },
@@ -133,15 +137,15 @@
     },
     {
         "producto": "EL GORDO MOTONETA x 750ml",
-        "precio": "-"
+        "precio": "990.00"
     },
     {
         "producto": "OTRO LOCO MÁS Malbec x 750ml",
-        "precio": "1,095.00"
+        "precio": "1,140.00"
     },
     {
         "producto": "EL GRAN LOCO Blend x 750ml",
-        "precio": "1,667.00"
+        "precio": "1,880.00"
     },
     {
         "producto": "EL NAUFRAGO x 750ml",
@@ -168,6 +172,10 @@
         "precio": "-"
     },
     {
+        "producto": "ETNIA Malbec x 750ml",
+        "precio": "831.00"
+    },
+    {
         "producto": "ESTANCIA MENDOZA Cab/Mal x 750ml",
         "precio": "790.00"
     },
@@ -178,6 +186,10 @@
     {
         "producto": "ESTANCIA MENDOZA Mer/Mal x 750ml",
         "precio": "790.00"
+    },
+    {
+        "producto": "ES POR ACÁ, ES POR AHÍ Malbec x 750ml",
+        "precio": "1,880.00.00"
     },
     {
         "producto": "FLICHMAN Estate Malbec x 750 ml",
@@ -221,7 +233,7 @@
     },
     {
         "producto": "LA IRIDE Malbec x 750ml",
-        "precio": "830.00"
+        "precio": "900.00"
     },
     {
         "producto": "LAS PERDICES Malbec Partridge 750ml",
@@ -249,7 +261,7 @@
     },
     {
         "producto": "MOTOCICLISTA Malbec x 750ml",
-        "precio": "1,667.00"
+        "precio": "1,880.00"
     },
     {
         "producto": "N.C. COLECCIÓN PRIVADA Malbec x 750ml",
@@ -257,19 +269,19 @@
     },
     {
         "producto": "NAMPE Malbec x 750ml",
-        "precio": "870.00"
+        "precio": "970.00"
     },
     {
         "producto": "NATIVO BLANCO Tetra x 1000ml",
-        "precio": "530.00"
+        "precio": "630.00"
     },
     {
         "producto": "NATIVO TINTO Tetra x 1000ml",
-        "precio": "530.00"
+        "precio": "630.00"
     },
     {
         "producto": "OVEJA BLACK Malbec x 750ml",
-        "precio": "870.00"
+        "precio": "970.00"
     },
     {
         "producto": "PAZ Malbec x 750ml",
@@ -293,11 +305,11 @@
     },
     {
         "producto": "PROFUGO Especias Cabernet Sauvignon x 750ml",
-        "precio": "870.00"
+        "precio": "970.00"
     },
     {
         "producto": "PROFUGO Frutos Rojos Malbec x 750ml",
-        "precio": "870.00"
+        "precio": "970.00"
     },
     {
         "producto": "QUARA Malbec x 750ml",
@@ -353,11 +365,11 @@
     },
     {
         "producto": "TORO TINTO Tetra x 1000ml",
-        "precio": "605.00"
+        "precio": "670.00"
     },
     {
         "producto": "TORO BLANCO Tetra x 1000ml",
-        "precio": "605.00"
+        "precio": "670.00"
     },
     {
         "producto": "TORO Clasico Tinto x 750ml",
