@@ -4,7 +4,7 @@
         "precio": "-"
     },
     {
-        "producto": "AGUA MINERAL BONAQUA x 1500ml",
+        "producto": "AGUA MINERAL BONAQUA x 1,5lts",
         "precio": "-"
     },
     {
@@ -12,7 +12,7 @@
         "precio": "-"
     },
     {
-        "producto": "AGUA MINERAL NESTLE x 1500ml ",
+        "producto": "AGUA MINERAL NESTLE x 1,5lts ",
         "precio": "210.00"
     },
     {
@@ -49,15 +49,31 @@
     },
     {
         "producto": "AGUA Sab. IVESS MANZANA x 500ml ",
-        "precio": "220.00"
+        "precio": "218.00"
     },
     {
         "producto": "AGUA Sab. IVESS NARANJA-DURAZNO x 500ml ",
-        "precio": "220.00"
+        "precio": "218.00"
     },
     {
         "producto": "AGUA Sab. IVESS POMELO x 500ml ",
-        "precio": "220.00"
+        "precio": "218.00"
+    },
+    {
+        "producto": "AGUA Sab. LIVRA Naranja x 1,5lts",
+        "precio": "370.00"
+    },
+    {
+        "producto": "AGUA Sab. LIVRA Pomelo x 1,5lts",
+        "precio": "370.00"
+    },
+    {
+        "producto": "AGUA Sab. LIVRA Pera x 1,5lts",
+        "precio": "370.00"
+    },
+    {
+        "producto": "AGUA Sab. LIVRA Manzana x 1,5lts",
+        "precio": "370.00"
     },
     {
         "producto": "AGUA Sab. SIERRAS DE LOS PADRES x 500ml ",

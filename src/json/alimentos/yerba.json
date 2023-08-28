@@ -12,7 +12,11 @@
         "precio": "-"
     },
     {
-        "producto": "LA HOJA x 1kgr",
+        "producto": "LA HOJA x 1gr",
         "precio": "-"
+    },
+    {
+        "producto": "PLAYADITO x 500gr",
+        "precio": "1505.00"
     }
 ]
