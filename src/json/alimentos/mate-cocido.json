@@ -1,14 +1,46 @@
 [
     {
-        "producto": "Mate Cocido x 25un",
-        "precio": "218.00"
-    },
-    {
         "producto": "NOBLEZA GAUCHA Mate Cocido x 50un",
         "precio": "-"
     },
     {
-        "producto": "LA VIRGINIA Té x 25un",
+        "producto": "LA VIRGINIA Té Clásico x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Limón x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Boldo x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Tilo x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Tilo, Manzanilla y Cedrón x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Manzanilla x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Manzanilla con Anis x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Mezcla de Hierbas x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Té Verde x 25un",
+        "precio": "-"
+    },
+    {
+        "producto": "LITORAL Mate Cocido x 25un",
         "precio": "-"
     }
 ]

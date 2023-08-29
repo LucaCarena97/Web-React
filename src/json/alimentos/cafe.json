@@ -1,6 +1,42 @@
 [
     {
-        "producto": "ARLISTÁN Frasco x 100gr",
+        "producto": "ARLISTÁN x 100gr",
         "precio": "605.00"
+    },
+    {
+        "producto": "MORENITA Café Inst. Intenso x 100gr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Café Inst. Clásico x 100gr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Café Inst. Clásico x 50gr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Café Inst. Suave x 100gr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Café Inst. Suave x 50gr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Café Molido Torrado x 250gr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Café Molido Torrado x 125gr",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Café Saquitos Torrado x 20un",
+        "precio": "-"
+    },
+    {
+        "producto": "LA VIRGINIA Cappuccino Trad. DOYPACK x 125gr",
+        "precio": "-"
     }
 ]
