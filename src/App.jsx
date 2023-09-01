@@ -45,30 +45,14 @@ import { Duracell } from "./components/varios/Duracell";
 import { Cigarrillos } from "./components/varios/Cigarrillos";
 import { Carbon } from "./components/varios/Carbon";
 import { Bolsas } from "./components/varios/Bolsas";
-import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "animate.css";
 import "tailwindcss/tailwind.css";
-import { useEffect } from "react";
 
 function App() {
-  useEffect(() => {
-    toast.info(
-      "Los precios pueden variar a la hora de realizar el pedido. Gracias!",
-      {
-        position: "top-center",
-        autoClose: 5000,
-        hideProgressBar: false,
-        closeOnClick: true,
-        pauseOnHover: true,
-        draggable: true,
-        progress: undefined,
-      }
-    );
-  }, []);
-
   return (
     <>
       <Navbar />
