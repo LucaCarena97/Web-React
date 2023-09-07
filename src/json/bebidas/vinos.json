@@ -109,15 +109,15 @@
     },
     {
         "producto": "DILEMA Blanco Dulce x 750ml",
-        "precio": "1,490.00"
+        "precio": "1,400.00"
     },
     {
         "producto": "DILEMA Tinto Dulce x 750ml",
-        "precio": "1,580.00"
+        "precio": "1,400.00"
     },
     {
         "producto": "DILEMA Rosado Dulce x 750ml",
-        "precio": "1,580.00"
+        "precio": "-"
     },
     {
         "producto": "DON DAVID Malbec x 750ml",
@@ -173,7 +173,7 @@
     },
     {
         "producto": "ETCHART PRIVADO Torrontes x 750ml",
-        "precio": "725.00"
+        "precio": "-"
     },
     {
         "producto": "ETNIA Malbec x 750ml",
@@ -325,7 +325,7 @@
     },
     {
         "producto": "RUTINI Malbec x 750ml",
-        "precio": "4,350.00"
+        "precio": "5,400.00"
     },
     {
         "producto": "RUCA Malbec x 750ml",
@@ -373,11 +373,11 @@
     },
     {
         "producto": "TORO TINTO Tetra x 1000ml",
-        "precio": "670.00"
+        "precio": ""
     },
     {
         "producto": "TORO BLANCO Tetra x 1000ml",
-        "precio": "670.00"
+        "precio": "680.00"
     },
     {
         "producto": "TORO Clasico Tinto x 750ml",
@@ -393,7 +393,7 @@
     },
     {
         "producto": "TRUMPETER Malbec x 750ml",
-        "precio": "2,603.00"
+        "precio": "3,100.00"
     },
     {
         "producto": "TRUMPETER RESERVA Malbec x 750ml",
