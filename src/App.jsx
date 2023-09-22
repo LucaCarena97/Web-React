@@ -35,6 +35,7 @@ import { Harina } from "./components/alimentos/Harina";
 import { Durazno } from "./components/alimentos/Durazno";
 import { Triturado } from "./components/alimentos/Triturado";
 import { Pulpa } from "./components/alimentos/Pulpa";
+import { Oblita } from "./components/alimentos/Oblita";
 // IMPORTACIONES  HIGIENE
 import { Higiene } from "./routes/Higiene";
 import { Papel } from "./components/higiene/Papel";
@@ -89,6 +90,7 @@ function App() {
         <Route path="/alimentos/durazno" element={<Durazno />} />
         <Route path="/alimentos/triturado" element={<Triturado />} />
         <Route path="/alimentos/pulpa" element={<Pulpa />} />
+        <Route path="/alimentos/oblita" element={<Oblita />} />
         {/* HIGIENE */}
         <Route path="/higiene" element={<Higiene />} />
         <Route path="/higiene/papel" element={<Papel />} />

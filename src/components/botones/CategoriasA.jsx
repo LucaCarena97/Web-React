@@ -117,6 +117,13 @@ export function CategoriasA() {
 
             <Link
               className="block py-2 px-2 hover:bg-blue-300 rounded"
+              to={"/alimentos/oblita"}
+            >
+              Oblita
+            </Link>
+
+            <Link
+              className="block py-2 px-2 hover:bg-blue-300 rounded"
               to={"/alimentos/pulpa"}
             >
               Pulpa

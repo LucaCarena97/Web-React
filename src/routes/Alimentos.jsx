@@ -12,6 +12,7 @@ import {
   GiFrenchFries,
   GiTomato,
   GiPaperBagFolded,
+  GiBookPile,
 } from "react-icons/gi";
 import { BiSolidBowlRice } from "react-icons/bi";
 import { LuCandy } from "react-icons/lu";
@@ -98,6 +99,14 @@ export function Alimentos() {
         >
           <SiGitea className="mr-2" /> Mate Cocido/Té
         </Link>
+
+        <Link
+          className="bg-red-400 border-red-500 border-4 py-2 w-48 rounded hover:bg-red-300 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/oblita"}
+        >
+          <GiBookPile className="mr-2" /> Oblita
+        </Link>
+
         <Link
           className="bg-pink-300 border-pink-400 border-4 py-2 w-48 rounded hover:bg-pink-200 mb-2 text-center flex items-center justify-center"
           to={"/alimentos/pulpa"}
