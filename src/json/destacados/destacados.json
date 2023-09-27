@@ -1,19 +1,19 @@
 [
     {
         "producto": "Fernet Branca x 750ml",
-        "precio": "3,070"
+        "precio": "3,080"
     },
     {
         "producto": "Gancia x 950ml",
-        "precio": "1,350"
+        "precio": "1,410"
     },
     {
         "producto": "Coca Cola x 1500ml",
-        "precio": "590"
+        "precio": "620"
     },
     {
         "producto": "Coca Cola x 2250ml",
-        "precio": "765"
+        "precio": "820"
     },
     {
         "producto": "Brahma x 1000ml",
@@ -33,7 +33,7 @@
     },
     {
         "producto": "Speed x 200ml",
-        "precio": "298"
+        "precio": "330"
     },
     {
         "producto": "Yerba Chamigo x 500gr",

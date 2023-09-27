@@ -25,15 +25,15 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "590.00"
+    "precio": "620.00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
-    "precio": "765.00"
+    "precio": "820.00"
   },
   {
     "producto": "COCA COLA x 2,5lts",
-    "precio": "820.00"
+    "precio": "-"
   },
   {
     "producto": "FANTA Lata x 310ml",
@@ -57,11 +57,11 @@
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "590.00"
+    "precio": "620.00"
   },
   {
     "producto": "FANTA x 2,25lts",
-    "precio": "765.00"
+    "precio": "820.00"
   },
   {
     "producto": "SPRITE Lata x 310ml",
@@ -85,11 +85,11 @@
   },
   {
     "producto": "SPRITE x 1,5lts",
-    "precio": "590.00"
+    "precio": "620.00"
   },
   {
     "producto": "SPRITE x 2,25lts",
-    "precio": "765.00"
+    "precio": "820.00"
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
@@ -185,7 +185,7 @@
   },
   {
     "producto": "RUMIPAL TóNICA x 1,5lts",
-    "precio": "-"
+    "precio": "405.00"
   },
   {
     "producto": "SODA IVESS x 500ml",
@@ -197,7 +197,7 @@
   },
   {
     "producto": "SODA SIFON RUMIPAL x 2lts",
-    "precio": "370.00"
+    "precio": "396.00"
   },
   {
     "producto": "SODA SIFON SALDAN x 2lts",

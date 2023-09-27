@@ -4,39 +4,47 @@
         "precio": "605.00"
     },
     {
+        "producto": "CABRALES Tostado en grano x 1kgr",
+        "precio": "11,000.00"
+    },
+    {
         "producto": "MORENITA Café Inst. Intenso x 100gr",
-        "precio": "615.00"
+        "precio": "677.00"
     },
     {
         "producto": "LA VIRGINIA Café Inst. Clásico x 100gr",
-        "precio": "1,077.00"
+        "precio": "1,185.00"
     },
     {
-        "producto": "LA VIRGINIA Café Inst. Clásico x 50gr",
-        "precio": "585.00"
+        "producto": "LA VIRGINIA Café Espresso Clásico x 1kgr",
+        "precio": "11,930.00"
+    },
+    {
+        "producto": "LA VIRGINIA Café Inst. Clásico x 100gr",
+        "precio": "1,185.00"
     },
     {
         "producto": "LA VIRGINIA Café Inst. Suave x 100gr",
-        "precio": "1,077.00"
+        "precio": "1,185.00"
     },
     {
         "producto": "LA VIRGINIA Café Inst. Suave x 50gr",
-        "precio": "585.00"
+        "precio": "644.00"
     },
     {
         "producto": "LA VIRGINIA Café Molido Torrado x 250gr",
-        "precio": "1,093.00"
+        "precio": "1,202.00"
     },
     {
         "producto": "LA VIRGINIA Café Molido Torrado x 125gr",
-        "precio": "611.00"
+        "precio": "672.00"
     },
     {
         "producto": "LA VIRGINIA Café Saquitos Torrado x 20un",
-        "precio": "988.00"
+        "precio": "1,087.00"
     },
     {
         "producto": "LA VIRGINIA Cappuccino Trad. DOYPACK x 125gr",
-        "precio": "804.00"
+        "precio": "884.00"
     }
 ]
