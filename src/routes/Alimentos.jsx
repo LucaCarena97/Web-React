@@ -18,6 +18,7 @@ import { BiSolidBowlRice } from "react-icons/bi";
 import { LuCandy } from "react-icons/lu";
 import { SiGitea } from "react-icons/si";
 import { FaCocktail } from "react-icons/fa";
+import { MdOutlineSoupKitchen } from "react-icons/md";
 
 export function Alimentos() {
   return (
@@ -37,6 +38,12 @@ export function Alimentos() {
           to={"/alimentos/azucar"}
         >
           <GiPowderBag className="mr-2" /> Azúcar
+        </Link>
+        <Link
+          className="bg-green-600 border-green-300 border-4 py-2 w-48 rounded hover:bg-green-500 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/alicante"}
+        >
+          <MdOutlineSoupKitchen className="mr-2" /> Alicante
         </Link>
         <Link
           className="bg-yellow-700 border-yellow-500 border-4 py-2 w-48 rounded hover:bg-yellow-600 mb-2 text-center flex items-center justify-center"

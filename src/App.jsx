@@ -52,6 +52,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "animate.css";
 import "tailwindcss/tailwind.css";
+import { Alicante } from "./components/alimentos/Alicante";
 
 function App() {
   return (
@@ -91,6 +92,7 @@ function App() {
         <Route path="/alimentos/triturado" element={<Triturado />} />
         <Route path="/alimentos/pulpa" element={<Pulpa />} />
         <Route path="/alimentos/oblita" element={<Oblita />} />
+        <Route path="/alimentos/alicante" element={<Alicante />} />
         {/* HIGIENE */}
         <Route path="/higiene" element={<Higiene />} />
         <Route path="/higiene/papel" element={<Papel />} />
