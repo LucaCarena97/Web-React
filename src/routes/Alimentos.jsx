@@ -19,6 +19,7 @@ import { LuCandy } from "react-icons/lu";
 import { SiGitea } from "react-icons/si";
 import { FaCocktail } from "react-icons/fa";
 import { MdOutlineSoupKitchen } from "react-icons/md";
+import { PiCookieFill } from "react-icons/pi";
 
 export function Alimentos() {
   return (
@@ -90,6 +91,12 @@ export function Alimentos() {
           to={"/alimentos/jugo-limon"}
         >
           <GiLemon className="mr-2" /> Jugo Limón
+        </Link>
+        <Link
+          className="bg-red-300 border-blue-400 border-4 py-2 w-48 rounded hover:bg-red-400 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/kukinas"}
+        >
+          <PiCookieFill className="mr-2" /> Kukinas
         </Link>
 
         <Link
