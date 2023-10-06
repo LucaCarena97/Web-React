@@ -1,82 +1,82 @@
 [
-    {
-        "producto": "BOTANICOS Limón",
-        "precio": "780.00"
-    },
-    {
-        "producto": "BOTANICOS Mix Frutal",
-        "precio": "780.00"
-    },
-    {
-        "producto": "GINEBRA LLAVE x 750ml",
-        "precio": "1,710.00"
-    },
-    {
-        "producto": "GINEBRA LLAVE BLACK x 750ml",
-        "precio": "3,680.00"
-    },
-    {
-        "producto": "GIN BEAFETEAR x 750ml",
-        "precio": "-"
-    },
-    {
-        "producto": "GIN BEAFETEAR x 1000ml",
-        "precio": "-"
-    },
-    {
-        "producto": "GIN BEAFETEAR ORANGE x 750ml",
-        "precio": "-"
-    },
-    {
-        "producto": "GIN BEAFETEAR PINK x 750ml",
-        "precio": "12,300.00"
-    },
-    {
-        "producto": "GIN BOMBAY x 750ml",
-        "precio": "12,500.00"
-    },
-    {
-        "producto": "GIN BOMBAY RASPBERRY x 750ml",
-        "precio": "12,500.00"
-    },
-    {
-        "producto": "GIN BOSQUE CRAFT x 500ml",
-        "precio": "5,700.00"
-    },
-    {
-        "producto": "GIN BULLDOG x 700ml",
-        "precio": "9,800.00"
-    },
-    {
-        "producto": "GIN BRIGHTON x 700ml",
-        "precio": "-"
-    },
-    {
-        "producto": "GIN GORDON'S x 700ml",
-        "precio": "3,010.00"
-    },
-    {
-        "producto": "GORDON'S Gintonic con limón Lata x 473ml",
-        "precio": "610.00"
-    },
-    {
-        "producto": "GIN MALEFICIO x 450ml",
-        "precio": "1,980.00"
-    },
-    {
-        "producto": "GIN MALEFICIO PINK x 450ml",
-        "precio": "2,195.00"
-    },
-    {
-        "producto": "GIN TANQUERAY x 750ml",
-        "precio": "8,000.00"
-    },
-    {
-        "producto": "GIN TANQUERAY Royale x 750ml",
-        "precio": "9,600.00"
-    },
-    {
-        "producto": "GIN TANQUERAY Sevilla x 750ml",
-        "precio": "9,700.00"
-    }
+  {
+    "producto": "BOTANICOS Limón",
+    "precio": "780.00"
+  },
+  {
+    "producto": "BOTANICOS Mix Frutal",
+    "precio": "780.00"
+  },
+  {
+    "producto": "GINEBRA LLAVE x 750ml",
+    "precio": "1,710.00"
+  },
+  {
+    "producto": "GINEBRA LLAVE BLACK x 750ml",
+    "precio": "3,680.00"
+  },
+  {
+    "producto": "GIN BEAFETEAR x 750ml",
+    "precio": "-"
+  },
+  {
+    "producto": "GIN BEAFETEAR x 1000ml",
+    "precio": "-"
+  },
+  {
+    "producto": "GIN BEAFETEAR ORANGE x 750ml",
+    "precio": "-"
+  },
+  {
+    "producto": "GIN BEAFETEAR PINK x 750ml",
+    "precio": "12,300.00"
+  },
+  {
+    "producto": "GIN BOMBAY x 750ml",
+    "precio": "12,500.00"
+  },
+  {
+    "producto": "GIN BOMBAY RASPBERRY x 750ml",
+    "precio": "12,500.00"
+  },
+  {
+    "producto": "GIN BOSQUE CRAFT x 500ml",
+    "precio": "5,700.00"
+  },
+  {
+    "producto": "GIN BULLDOG x 700ml",
+    "precio": "9,800.00"
+  },
+  {
+    "producto": "GIN BRIGHTON x 700ml",
+    "precio": "-"
+  },
+  {
+    "producto": "GIN GORDON'S x 700ml",
+    "precio": "3,500.00"
+  },
+  {
+    "producto": "GORDON'S Gintonic con limón Lata x 473ml",
+    "precio": "610.00"
+  },
+  {
+    "producto": "GIN MALEFICIO x 450ml",
+    "precio": "1,980.00"
+  },
+  {
+    "producto": "GIN MALEFICIO PINK x 450ml",
+    "precio": "2,195.00"
+  },
+  {
+    "producto": "GIN TANQUERAY x 750ml",
+    "precio": "8,000.00"
+  },
+  {
+    "producto": "GIN TANQUERAY Royale x 750ml",
+    "precio": "9,600.00"
+  },
+  {
+    "producto": "GIN TANQUERAY Sevilla x 750ml",
+    "precio": "9,700.00"
+  }
 ]
