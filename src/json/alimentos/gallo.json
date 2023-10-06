@@ -1,38 +1,38 @@
 [
-    {
-        "producto": "ARROZ Oro X 500gr",
-        "precio": "-"
-    },
-    {
-        "producto": "ARROZ Oro X 1kgr",
-        "precio": "-"
-    },
-    {
-        "producto": "CHOCOARROZ Blanco x 30gr",
-        "precio": "125.00"
-    },
-    {
-        "producto": "CHOCOARROZ Dulce de Leche x 30gr ",
-        "precio": "125.00"
-    },
-    {
-        "producto": "CHOCOARROZ Frutilla x 30gr",
-        "precio": "125.00"
-    },
-    {
-        "producto": "CHOCOARROZ Limón x 30gr ",
-        "precio": "-"
-    },
-    {
-        "producto": "CHOCOARROZ Marroc x 30gr",
-        "precio": "125.00"
-    },
-    {
-        "producto": "CHOCOBAR X 20gr",
-        "precio": "96.00"
-    },
-    {
-        "producto": "YOGUBAR X 20gr",
-        "precio": "-"
-    }
+  {
+    "producto": "ARROZ Oro X 500gr",
+    "precio": "-"
+  },
+  {
+    "producto": "ARROZ Oro X 1kgr",
+    "precio": "-"
+  },
+  {
+    "producto": "CHOCOARROZ Blanco x 30gr",
+    "precio": "125.00"
+  },
+  {
+    "producto": "CHOCOARROZ Dulce de Leche x 30gr ",
+    "precio": "125.00"
+  },
+  {
+    "producto": "CHOCOARROZ Frutilla x 30gr",
+    "precio": "125.00"
+  },
+  {
+    "producto": "CHOCOARROZ Limón x 30gr ",
+    "precio": "-"
+  },
+  {
+    "producto": "CHOCOARROZ Marroc x 30gr",
+    "precio": "125.00"
+  },
+  {
+    "producto": "CHOCOBAR X 20gr",
+    "precio": "96.00"
+  },
+  {
+    "producto": "YOGUBAR X 20gr",
+    "precio": "-"
+  }
 ]

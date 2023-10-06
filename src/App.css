@@ -19,13 +19,13 @@ html {
 
 @keyframes scaleAnimation {
   0% {
-    transform: scale(1);
+    transform: scale(0.8);
   }
   50% {
-    transform: scale(1.15);
+    transform: scale(1);
   }
   100% {
-    transform: scale(1);
+    transform: scale(0.8);
   }
 }
 
@@ -89,7 +89,7 @@ html {
     box-shadow: 0px 0px 20px #1c64f2;
   }
   50% {
-    box-shadow: 0px 0px 30px #02318f;
+    box-shadow: 0px 0px 30px #01369e;
   }
   100% {
     box-shadow: 0px 0px 20px #2868e9;

@@ -23,7 +23,7 @@ export function Cervezas() {
         <WhatsApp />
       </section>
 
-      <section className="">
+      <section className="products">
         <div className="flex justify-center mt-7 mb-5">
           <input
             type="text"

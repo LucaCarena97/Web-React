@@ -1,90 +1,90 @@
 [
-    {
-        "producto": "APEROL x 750ml",
-        "precio": "2,300.00"
-    },
-    {
-        "producto": "CAMPARI x 750ml",
-        "precio": "2,450.00"
-    },
-    {
-        "producto": "CINZANO ROSSO x 950ml",
-        "precio": "1,410.00"
-    },
-    {
-        "producto": "CARPANO ROSSO x 950ml",
-        "precio": "1,020.00"
-    },
-    {
-        "producto": "CYNAR x 750ml",
-        "precio": "2,150.00"
-    },
-    {
-        "producto": "DR LEMON XL Limón x 1000ml",
-        "precio": "590.00"
-    },
-    {
-        "producto": "DR LEMON XL Vodka x 1000ml",
-        "precio": "590.00"
-    },
-    {
-        "producto": "FERNET BRANCA Petaca x 50ml",
-        "precio": "-"
-    },
-    {
-        "producto": "FERNET BRANCA x 450ml",
-        "precio": "2,250.00"
-    },
-    {
-        "producto": "FERNET BRANCA x 750ml",
-        "precio": "3,080.00"
-    },
-    {
-        "producto": "BRANCA MENTA x 450ml",
-        "precio": "1,900.00"
-    },
-    {
-        "producto": "BRANCA MENTA x 750ml",
-        "precio": "2,800.00"
-    },
-    {
-        "producto": "BRANCA MENTA Receta Italiana x 750ml",
-        "precio": "1,990.00"
-    },
-    {
-        "producto": "FERNET VITTONE x 750ml",
-        "precio": "1,050.00"
-    },
-    {
-        "producto": "GANCIA x 950ml",
-        "precio": "1,410.00"
-    },
-    {
-        "producto": "GANCIA Hibiscus x 750ml",
-        "precio": "-"
-    },
-    {
-        "producto": "HESPERIDINA x 1000ml",
-        "precio": "2,500.00"
-    },
-    {
-        "producto": "MARTINI BIANCO x 1000ml",
-        "precio": "1,680.00"
-    },
-    {
-        "producto": "MINGO Hard Seltzer LIMÓN x 355ml",
-        "precio": "-"
-    },
-    {
-        "producto": "MINGO Hard Seltzer LIMÓN x 750ml",
-        "precio": "-"
-    },
-    {
-        "producto": "MINGO Hard Seltzer POMELO x 355ml",
-        "precio": "-"
-    },
-    {
-        "producto": "MINGO Hard Seltzer POMELO x 750ml",
-        "precio": "-"
-    }
+  {
+    "producto": "APEROL x 750ml",
+    "precio": "2,300.00"
+  },
+  {
+    "producto": "CAMPARI x 750ml",
+    "precio": "2,450.00"
+  },
+  {
+    "producto": "CINZANO ROSSO x 950ml",
+    "precio": "1,410.00"
+  },
+  {
+    "producto": "CARPANO ROSSO x 950ml",
+    "precio": "1,020.00"
+  },
+  {
+    "producto": "CYNAR x 750ml",
+    "precio": "2,150.00"
+  },
+  {
+    "producto": "DR LEMON XL Limón x 1000ml",
+    "precio": "590.00"
+  },
+  {
+    "producto": "DR LEMON XL Vodka x 1000ml",
+    "precio": "590.00"
+  },
+  {
+    "producto": "FERNET BRANCA Petaca x 50ml",
+    "precio": "-"
+  },
+  {
+    "producto": "FERNET BRANCA x 450ml",
+    "precio": "2,250.00"
+  },
+  {
+    "producto": "FERNET BRANCA x 750ml",
+    "precio": "3,080.00"
+  },
+  {
+    "producto": "BRANCA MENTA x 450ml",
+    "precio": "1,900.00"
+  },
+  {
+    "producto": "BRANCA MENTA x 750ml",
+    "precio": "2,800.00"
+  },
+  {
+    "producto": "BRANCA MENTA Receta Italiana x 750ml",
+    "precio": "1,990.00"
+  },
+  {
+    "producto": "FERNET VITTONE x 750ml",
+    "precio": "1,050.00"
+  },
+  {
+    "producto": "GANCIA x 950ml",
+    "precio": "1,410.00"
+  },
+  {
+    "producto": "GANCIA Hibiscus x 750ml",
+    "precio": "-"
+  },
+  {
+    "producto": "HESPERIDINA x 1000ml",
+    "precio": "2,500.00"
+  },
+  {
+    "producto": "MARTINI BIANCO x 1000ml",
+    "precio": "1,680.00"
+  },
+  {
+    "producto": "MINGO Hard Seltzer LIMÓN x 355ml",
+    "precio": "-"
+  },
+  {
+    "producto": "MINGO Hard Seltzer LIMÓN x 750ml",
+    "precio": "-"
+  },
+  {
+    "producto": "MINGO Hard Seltzer POMELO x 355ml",
+    "precio": "-"
+  },
+  {
+    "producto": "MINGO Hard Seltzer POMELO x 750ml",
+    "precio": "-"
+  }
 ]

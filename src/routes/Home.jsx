@@ -7,7 +7,7 @@ import { BiSolidCategoryAlt } from "react-icons/bi";
 export function Home() {
   return (
     <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
-      <p className="font-quicksand text-2xl select-none custom-scale-animation">
+      <p className="font-quicksand text-3xl select-none custom-scale-animation">
         Bienvenidos!
       </p>
 

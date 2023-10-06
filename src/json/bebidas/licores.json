@@ -1,74 +1,74 @@
 [
-    {
-        "producto": "BAILEYS Irish Cream x 750ml",
-        "precio": "7,600.00"
-    },
-    {
-        "producto": "JAGERMEISTER x 700ml",
-        "precio": "-"
-    },
-    {
-        "producto": "LEGUI x 700ml",
-        "precio": "1,050.00"
-    },
-    {
-        "producto": "PIÑA COLADA AMERICAN CLUB x 750ml",
-        "precio": "1,350.00"
-    },
-    {
-        "producto": "SHERIDAN´S X 750ml",
-        "precio": "9,550.00"
-    },
-    {
-        "producto": "TIA MARIA COFFEE x 700ml",
-        "precio": "2,200.00"
-    },
-    {
-        "producto": "TIA MARIA CREAM x 700ml",
-        "precio": "2,950.00"
-    },
-    {
-        "producto": "TRES PLUMAS CAFÉ AL COÑAC x 200ml",
-        "precio": "510.00"
-    },
-    {
-        "producto": "TRES PLUMAS CHOCOLATE x 200ml",
-        "precio": "510.00"
-    },
-    {
-        "producto": "TRES PLUMAS COÑAC x 200ml",
-        "precio": "510.00"
-    },
-    {
-        "producto": "TRES PLUMAS DULCE DE LECHE x 200ml",
-        "precio": "510.00"
-    },
-    {
-        "producto": "TRES PLUMAS CAFÉ AL CHOCOLATE x 700ml",
-        "precio": "1,250.00"
-    },
-    {
-        "producto": "TRES PLUMAS CAFÉ AL COÑAC x 700ml",
-        "precio": "1,250.00"
-    },
-    {
-        "producto": "TRES PLUMAS CAFÉ AL DULCE DE LECHE x 700ml",
-        "precio": "1,250.00"
-    },
-    {
-        "producto": "TRES PLUMAS CAFÉ AL RON x 700ml",
-        "precio": "1,250.00"
-    },
-    {
-        "producto": "TRES PLUMAS CHOCOLATE x 700ml",
-        "precio": "1,250.00"
-    },
-    {
-        "producto": "TRES PLUMAS DULCE DE LECHE x 700ml",
-        "precio": "1,250.00"
-    },
-    {
-        "producto": "TRES PLUMAS HUEVO x 700ml",
-        "precio": "1,250.00"
-    }
+  {
+    "producto": "BAILEYS Irish Cream x 750ml",
+    "precio": "7,600.00"
+  },
+  {
+    "producto": "JAGERMEISTER x 700ml",
+    "precio": "-"
+  },
+  {
+    "producto": "LEGUI x 700ml",
+    "precio": "1,050.00"
+  },
+  {
+    "producto": "PIÑA COLADA AMERICAN CLUB x 750ml",
+    "precio": "1,350.00"
+  },
+  {
+    "producto": "SHERIDAN´S X 750ml",
+    "precio": "9,550.00"
+  },
+  {
+    "producto": "TIA MARIA COFFEE x 700ml",
+    "precio": "2,200.00"
+  },
+  {
+    "producto": "TIA MARIA CREAM x 700ml",
+    "precio": "2,950.00"
+  },
+  {
+    "producto": "TRES PLUMAS CAFÉ AL COÑAC x 200ml",
+    "precio": "510.00"
+  },
+  {
+    "producto": "TRES PLUMAS CHOCOLATE x 200ml",
+    "precio": "510.00"
+  },
+  {
+    "producto": "TRES PLUMAS COÑAC x 200ml",
+    "precio": "510.00"
+  },
+  {
+    "producto": "TRES PLUMAS DULCE DE LECHE x 200ml",
+    "precio": "510.00"
+  },
+  {
+    "producto": "TRES PLUMAS CAFÉ AL CHOCOLATE x 700ml",
+    "precio": "1,250.00"
+  },
+  {
+    "producto": "TRES PLUMAS CAFÉ AL COÑAC x 700ml",
+    "precio": "1,250.00"
+  },
+  {
+    "producto": "TRES PLUMAS CAFÉ AL DULCE DE LECHE x 700ml",
+    "precio": "1,250.00"
+  },
+  {
+    "producto": "TRES PLUMAS CAFÉ AL RON x 700ml",
+    "precio": "1,250.00"
+  },
+  {
+    "producto": "TRES PLUMAS CHOCOLATE x 700ml",
+    "precio": "1,250.00"
+  },
+  {
+    "producto": "TRES PLUMAS DULCE DE LECHE x 700ml",
+    "precio": "1,250.00"
+  },
+  {
+    "producto": "TRES PLUMAS HUEVO x 700ml",
+    "precio": "1,250.00"
+  }
 ]

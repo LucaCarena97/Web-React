@@ -1,50 +1,50 @@
 [
-    {
-        "producto": "NOBLEZA GAUCHA Mate Cocido x 50un",
-        "precio": "-"
-    },
-    {
-        "producto": "LA VIRGINIA Té Clásico x 25un",
-        "precio": "239.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Limón x 25un",
-        "precio": "475.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Boldo x 25un",
-        "precio": "548.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Tilo x 25un",
-        "precio": "932.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Tilo, Manzanilla y Cedrón x 25un",
-        "precio": "655.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Manzanilla x 25un",
-        "precio": "417.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Manzanilla con Anis x 25un",
-        "precio": "539.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Cedrón x 25un",
-        "precio": "535.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Mezcla de Hierbas x 25un",
-        "precio": "498.00"
-    },
-    {
-        "producto": "LA VIRGINIA Té Verde x 25un",
-        "precio": "461.00"
-    },
-    {
-        "producto": "LITORAL Mate Cocido x 25un",
-        "precio": "416.00"
-    }
+  {
+    "producto": "NOBLEZA GAUCHA Mate Cocido x 50un",
+    "precio": "-"
+  },
+  {
+    "producto": "LA VIRGINIA Té Clásico x 25un",
+    "precio": "239.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Limón x 25un",
+    "precio": "475.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Boldo x 25un",
+    "precio": "548.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Tilo x 25un",
+    "precio": "932.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Tilo, Manzanilla y Cedrón x 25un",
+    "precio": "655.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Manzanilla x 25un",
+    "precio": "417.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Manzanilla con Anis x 25un",
+    "precio": "539.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Cedrón x 25un",
+    "precio": "535.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Mezcla de Hierbas x 25un",
+    "precio": "498.00"
+  },
+  {
+    "producto": "LA VIRGINIA Té Verde x 25un",
+    "precio": "461.00"
+  },
+  {
+    "producto": "LITORAL Mate Cocido x 25un",
+    "precio": "416.00"
+  }
 ]

@@ -1,34 +1,34 @@
 [
-    {
-        "producto": "BACARDI Blanco x 750ml",
-        "precio": "5,400.00"
-    },
-    {
-        "producto": "BACARDI Oro x 750ml",
-        "precio": "5,400.00"
-    },
-    {
-        "producto": "CANDY x 750ml",
-        "precio": "950.00"
-    },
-    {
-        "producto": "CAPTAIN MORGAN SPICE GOLD x 750ml",
-        "precio": "-"
-    },
-    {
-        "producto": "CAPTAIN MORGAN WHITE x 750ml",
-        "precio": "-"
-    },
-    {
-        "producto": "CAYMAN Uva x 750ml",
-        "precio": "950.00"
-    },
-    {
-        "producto": "COCO BONGO x 750ml",
-        "precio": "2,200.00"
-    },
-    {
-        "producto": "MALIBÚ x 750ml",
-        "precio": "5,850.00"
-    }
+  {
+    "producto": "BACARDI Blanco x 750ml",
+    "precio": "5,400.00"
+  },
+  {
+    "producto": "BACARDI Oro x 750ml",
+    "precio": "5,400.00"
+  },
+  {
+    "producto": "CANDY x 750ml",
+    "precio": "950.00"
+  },
+  {
+    "producto": "CAPTAIN MORGAN SPICE GOLD x 750ml",
+    "precio": "-"
+  },
+  {
+    "producto": "CAPTAIN MORGAN WHITE x 750ml",
+    "precio": "-"
+  },
+  {
+    "producto": "CAYMAN Uva x 750ml",
+    "precio": "950.00"
+  },
+  {
+    "producto": "COCO BONGO x 750ml",
+    "precio": "2,200.00"
+  },
+  {
+    "producto": "MALIBÚ x 750ml",
+    "precio": "5,850.00"
+  }
 ]

@@ -1,38 +1,38 @@
 [
-    {
-        "producto": "MONSTER Energy x 500ml",
-        "precio": "530.00"
-    },
-    {
-        "producto": "MONSTER Energy Ananá x 500ml",
-        "precio": "530.00"
-    },
-    {
-        "producto": "MONSTER Mango Loco x 500ml ",
-        "precio": "530.00"
-    },
-    {
-        "producto": "MONSTER Ultra Paradise x 500ml",
-        "precio": "530.00"
-    },
-    {
-        "producto": "RED BULL x 250ml ",
-        "precio": "410.00"
-    },
-    {
-        "producto": "ROCKSTAR BERRY x 500ml ",
-        "precio": "-"
-    },
-    {
-        "producto": "ROCKSTAR x 500ml ",
-        "precio": "-"
-    },
-    {
-        "producto": "SPEED x 250ml ",
-        "precio": "330.00"
-    },
-    {
-        "producto": "SPEED XL x 473ml ",
-        "precio": "510.00"
-    }
+  {
+    "producto": "MONSTER Energy x 500ml",
+    "precio": "530.00"
+  },
+  {
+    "producto": "MONSTER Energy Ananá x 500ml",
+    "precio": "530.00"
+  },
+  {
+    "producto": "MONSTER Mango Loco x 500ml ",
+    "precio": "530.00"
+  },
+  {
+    "producto": "MONSTER Ultra Paradise x 500ml",
+    "precio": "530.00"
+  },
+  {
+    "producto": "RED BULL x 250ml ",
+    "precio": "410.00"
+  },
+  {
+    "producto": "ROCKSTAR BERRY x 500ml ",
+    "precio": "-"
+  },
+  {
+    "producto": "ROCKSTAR x 500ml ",
+    "precio": "-"
+  },
+  {
+    "producto": "SPEED x 250ml ",
+    "precio": "330.00"
+  },
+  {
+    "producto": "SPEED XL x 473ml ",
+    "precio": "510.00"
+  }
 ]

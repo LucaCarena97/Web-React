@@ -1,66 +1,66 @@
 [
-    {
-        "producto": "GALLETAS Choco Pamela x 230gr",
-        "precio": "430.00"
-    },
-    {
-        "producto": "GALLETAS Mini Pamela CHIPS x 180gr",
-        "precio": "323.00"
-    },
-    {
-        "producto": "GALLETAS Mini Pamela COCO x 180gr",
-        "precio": "323.00"
-    },
-    {
-        "producto": "GALLETAS Mini Pamela LIMÓN x 180gr",
-        "precio": "323.00"
-    },
-    {
-        "producto": "GALLETAS Mini Pamela MANTECA x 180gr",
-        "precio": "323.00"
-    },
-    {
-        "producto": "GALLETAS Mini Pamela SCONES x 180gr",
-        "precio": "323.00"
-    },
-    {
-        "producto": "GRISINES Finos BLANCOS x 200gr",
-        "precio": "450.00"
-    },
-    {
-        "producto": "GRISINES Finos SALVADO x 200gr",
-        "precio": "-"
-    },
-    {
-        "producto": "MADALENAS Dulce de Leche x 250gr",
-        "precio": "-"
-    },
-    {
-        "producto": "MADALENAS Marmolada x 250gr",
-        "precio": "590.00"
-    },
-    {
-        "producto": "MADALENAS Vainilla x 250gr",
-        "precio": "590.00"
-    },
-    {
-        "producto": "PAN DULCE Matero CHIPS CHOCOLATE x 350gr",
-        "precio": "-"
-    },
-    {
-        "producto": "PAN DULCE Matero FRUTAS x 350gr",
-        "precio": "-"
-    },
-    {
-        "producto": "PAN DULCE Principito x 400gr",
-        "precio": "-"
-    },
-    {
-        "producto": "TOSTADAS Dulces x 920gr",
-        "precio": "1,940.00"
-    },
-    {
-        "producto": "TOSTADAS con Gluten x 920gr",
-        "precio": "1,940.00"
-    }
+  {
+    "producto": "GALLETAS Choco Pamela x 230gr",
+    "precio": "430.00"
+  },
+  {
+    "producto": "GALLETAS Mini Pamela CHIPS x 180gr",
+    "precio": "323.00"
+  },
+  {
+    "producto": "GALLETAS Mini Pamela COCO x 180gr",
+    "precio": "323.00"
+  },
+  {
+    "producto": "GALLETAS Mini Pamela LIMÓN x 180gr",
+    "precio": "323.00"
+  },
+  {
+    "producto": "GALLETAS Mini Pamela MANTECA x 180gr",
+    "precio": "323.00"
+  },
+  {
+    "producto": "GALLETAS Mini Pamela SCONES x 180gr",
+    "precio": "323.00"
+  },
+  {
+    "producto": "GRISINES Finos BLANCOS x 200gr",
+    "precio": "450.00"
+  },
+  {
+    "producto": "GRISINES Finos SALVADO x 200gr",
+    "precio": "-"
+  },
+  {
+    "producto": "MADALENAS Dulce de Leche x 250gr",
+    "precio": "-"
+  },
+  {
+    "producto": "MADALENAS Marmolada x 250gr",
+    "precio": "590.00"
+  },
+  {
+    "producto": "MADALENAS Vainilla x 250gr",
+    "precio": "590.00"
+  },
+  {
+    "producto": "PAN DULCE Matero CHIPS CHOCOLATE x 350gr",
+    "precio": "-"
+  },
+  {
+    "producto": "PAN DULCE Matero FRUTAS x 350gr",
+    "precio": "-"
+  },
+  {
+    "producto": "PAN DULCE Principito x 400gr",
+    "precio": "-"
+  },
+  {
+    "producto": "TOSTADAS Dulces x 920gr",
+    "precio": "1,940.00"
+  },
+  {
+    "producto": "TOSTADAS con Gluten x 920gr",
+    "precio": "1,940.00"
+  }
 ]
