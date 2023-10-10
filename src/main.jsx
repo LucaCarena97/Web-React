@@ -5,11 +5,11 @@ import "./index.css";
 import { BrowserRouter } from "react-router-dom";
 import { toast } from "react-toastify";
 
-toast.info(
+toast.error(
   "¡Al momento de realizar el pedido, los precios pueden estar sujetos a cambios!",
   {
     position: "top-center",
-    autoClose: 5000,
+    autoClose: 5500,
     hideProgressBar: false,
     closeOnClick: true,
     pauseOnHover: true,
