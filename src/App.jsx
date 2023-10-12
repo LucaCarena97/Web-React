@@ -36,6 +36,8 @@ import { Durazno } from "./components/alimentos/Durazno";
 import { Triturado } from "./components/alimentos/Triturado";
 import { Pulpa } from "./components/alimentos/Pulpa";
 import { Oblita } from "./components/alimentos/Oblita";
+import { Alicante } from "./components/alimentos/Alicante";
+import { Kukinas } from "./components/alimentos/Kukinas";
 // IMPORTACIONES  HIGIENE
 import { Higiene } from "./routes/Higiene";
 import { Papel } from "./components/higiene/Papel";
@@ -52,8 +54,6 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "animate.css";
 import "tailwindcss/tailwind.css";
-import { Alicante } from "./components/alimentos/Alicante";
-import { Kukinas } from "./components/alimentos/Kukinas";
 
 function App() {
   return (
