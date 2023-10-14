@@ -110,3 +110,20 @@ html {
 .create {
   box-shadow: 0px 0px 20px #1c64f2;
 }
+
+.url {
+  border: 2px solid #4e98f3;
+  background-color: #4e98f348;
+  padding: 0.4rem;
+}
+
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  height: 5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}

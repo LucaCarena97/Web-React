@@ -15,7 +15,7 @@ export function Footer() {
   };
 
   return (
-    <footer className="text-center p-4">
+    <footer className="text-center p-6">
       <section className="mt-2 mb-10 p-3 animate__animated animate__bounceInRight">
         <p className="animate-bounce select-none font-quicksand font-semibold flex items-center justify-center text-xl ">
           <AiTwotoneTags className="mr-2" />
@@ -40,9 +40,15 @@ export function Footer() {
         <p>Código Postal 5813</p>
       </section>
 
-      <p className="font-quicksand mt-6 create animate__animated animate__backInUp">
-        Creado por Luca Carena
-      </p>
+      <section className="font-quicksand mt-6 create animate__animated animate__backInUp link">
+        <p className="select-none">Hecho por</p>
+        <a
+          href="https://luca-carena.netlify.app/"
+          className="url  scale-animation"
+        >
+          - Luca Carena -
+        </a>
+      </section>
     </footer>
   );
 }
