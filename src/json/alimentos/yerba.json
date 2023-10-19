@@ -1,7 +1,7 @@
 [
   {
     "producto": "CHAMIGO x 500gr",
-    "precio": "520.00"
+    "precio": "540.00"
   },
   {
     "producto": "CHAMIGO x 1kgr",
@@ -9,14 +9,14 @@
   },
   {
     "producto": "LA HOJA x 500gr",
-    "precio": ""
+    "precio": "-"
   },
   {
-    "producto": "LA HOJA x 1gr",
-    "precio": ""
+    "producto": "LA HOJA x 1kgr",
+    "precio": "-"
   },
   {
-    "producto": "PLAYADITO x 500gr",
-    "precio": "1,860.00"
+    "producto": "PLAYADITO x 1kgr",
+    "precio": "-"
   }
 ]
