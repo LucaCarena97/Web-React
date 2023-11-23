@@ -41,7 +41,7 @@
   },
   {
     "producto": "BRAHMA Lata x 500ml",
-    "precio": "550.00"
+    "precio": "560.00"
   },
   {
     "producto": "BRAHMA Dorada Descartable x 710ml",
@@ -62,6 +62,10 @@
   {
     "producto": "CÓRDOBA Lata x 500ml",
     "precio": "535.00"
+  },
+  {
+    "producto": "CÓRDOBA Retornable x 1000ml",
+    "precio": "925.00"
   },
   {
     "producto": "CORONA Lata x 270ml",
@@ -113,10 +117,10 @@
   },
   {
     "producto": "STELLA ARTOIS Retornable RUBIA x 1000ml",
-    "precio": "1,200.00"
+    "precio": "1,250.00"
   },
   {
     "producto": "STELLA ARTOIS Retornable NEGRA x 1000ml",
-    "precio": "1,200.00"
+    "precio": "-"
   }
 ]
