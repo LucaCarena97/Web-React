@@ -29,7 +29,7 @@
   },
   {
     "producto": "COCA COLA x 2,25lts",
-    "precio": "950.00"
+    "precio": "-"
   },
   {
     "producto": "COCA COLA x 2,5lts",
@@ -61,7 +61,7 @@
   },
   {
     "producto": "FANTA x 2,25lts",
-    "precio": "950.00"
+    "precio": "-"
   },
   {
     "producto": "SPRITE Lata x 310ml",
@@ -89,7 +89,7 @@
   },
   {
     "producto": "SPRITE x 2,25lts",
-    "precio": "950.00"
+    "precio": "-"
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
@@ -137,11 +137,11 @@
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
-    "precio": "720.00"
+    "precio": "770.00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
-    "precio": "720.00"
+    "precio": "770.00"
   },
   {
     "producto": "H2Oh! CITRUS x 1,5lts",
@@ -177,7 +177,7 @@
   },
   {
     "producto": "PRITTY x 3lts",
-    "precio": "705.00"
+    "precio": "750.00"
   },
   {
     "producto": "RUMIPAL POMELO x 1,5lts",
@@ -189,7 +189,7 @@
   },
   {
     "producto": "SODA IVESS x 500ml",
-    "precio": "195.00"
+    "precio": "205.00"
   },
   {
     "producto": "SODA RUMIPAL x 1,5lts",
@@ -197,7 +197,7 @@
   },
   {
     "producto": "SODA SIFON RUMIPAL x 2lts",
-    "precio": "435.00"
+    "precio": "430.00"
   },
   {
     "producto": "SODA SIFON SALDAN x 2lts",

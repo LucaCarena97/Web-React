@@ -17,19 +17,15 @@
   },
   {
     "producto": "Brahma x 1000ml",
-    "precio": "1,010"
+    "precio": "1,100"
   },
   {
     "producto": "Brahma x 500ml",
-    "precio": "560"
-  },
-  {
-    "producto": "Toro Tinto x 1000ml",
-    "precio": "940"
+    "precio": "610"
   },
   {
     "producto": "Nativo Tinto x 1000ml",
-    "precio": "790"
+    "precio": "820"
   },
   {
     "producto": "Speed x 270ml",
@@ -42,5 +38,9 @@
   {
     "producto": "Pila Duracell AA",
     "precio": "410"
+  },
+  {
+    "producto": "Toro Tinto x 1000ml",
+    "precio": "-"
   }
 ]
