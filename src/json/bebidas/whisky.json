@@ -1,19 +1,19 @@
 [
   {
     "producto": "BLENDERS x 200ml",
-    "precio": "680.00"
+    "precio": "-"
   },
   {
     "producto": "BLENDERS x 1000ml",
-    "precio": "2,900.00"
+    "precio": "3,200.00"
   },
   {
     "producto": "J&B x 750ml",
-    "precio": "5,280.00"
+    "precio": "5,400.00"
   },
   {
     "producto": "JAMESON x 750ml",
-    "precio": "7,700.00"
+    "precio": "8,100.00"
   },
   {
     "producto": "JW RED LABEL x 375ml",
@@ -21,30 +21,30 @@
   },
   {
     "producto": "JW RED LABEL x 750ml",
-    "precio": "-"
+    "precio": "11,000.00"
   },
   {
     "producto": "JW RED LABEL x 1000ml",
-    "precio": "10,900.00"
+    "precio": "13,000.00"
   },
   {
     "producto": "JW BLACK LABEL x 750ml",
-    "precio": "13,900.00"
+    "precio": "14,800.00"
   },
   {
     "producto": "JW DOUBLE BLACK LABEL x 750ml",
-    "precio": "16,000.00"
+    "precio": "17,500.00"
   },
   {
     "producto": "JW SWING ESCOCES x 750ml",
-    "precio": "31,000.00"
+    "precio": "34,900.00"
   },
   {
     "producto": "VAT69 x 700ml",
-    "precio": "3,100.00"
+    "precio": "3,300.00"
   },
   {
     "producto": "WHITE HORSE x 750ml",
-    "precio": "3,900.00"
+    "precio": "4,100.00"
   }
 ]

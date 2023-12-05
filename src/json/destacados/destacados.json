@@ -5,15 +5,15 @@
   },
   {
     "producto": "Gancia x 950ml",
-    "precio": "1,990"
+    "precio": "2,250"
   },
   {
     "producto": "Coca Cola x 1500ml",
-    "precio": "860"
+    "precio": "950"
   },
   {
     "producto": "Coca Cola x 2250ml",
-    "precio": "950"
+    "precio": "-"
   },
   {
     "producto": "Brahma x 1000ml",
@@ -25,7 +25,7 @@
   },
   {
     "producto": "Nativo Tinto x 1000ml",
-    "precio": "820"
+    "precio": "860"
   },
   {
     "producto": "Speed x 270ml",
@@ -41,6 +41,6 @@
   },
   {
     "producto": "Toro Tinto x 1000ml",
-    "precio": "-"
+    "precio": "970"
   }
 ]
