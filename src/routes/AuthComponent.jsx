@@ -22,7 +22,7 @@ export function AuthComponent({ children }) {
   return isAuthenticated ? (
     children
   ) : (
-    <div className="bg-blue-300 min-h-screen p-10 flex items-center justify-center flex-col font-quicksand">
+    <div className="bg-blue-300 mt-14 p-10 flex items-center justify-center flex-col font-quicksand">
       <Logo />
       <div className="bg-blue-200 p-4 rounded shadow-md text-center mt-10">
         <p className="text-xl mb-4 select-none">¡Bienvenidos!</p>
