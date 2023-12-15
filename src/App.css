@@ -49,21 +49,21 @@ html {
   animation: animation 3s infinite;
 }
 
-/* .destacados {
+.destacados {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.282);
-  background-color: #74aef46c;
+  background-color: #78aff1b0;
   border-radius: 0;
-  border-top: 3px solid #4e98f3;
-  border-bottom: 3px solid #4e98f3;
+  border-top: 3px solid #1c64f2;
+  border-bottom: 3px solid #1c64f2;
 }
 
 .ubicacion {
-  border: 2px solid #4e98f3;
+  border: 2px solid #1c64f2;
   background-color: #78aff1b0;
-} */
+}
 
 /* NUEVO ESTILO */
-.destacados {
+/* .destacados {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.282);
   background-color: #046c4fd0;
   border-radius: 0;
@@ -74,7 +74,7 @@ html {
 .ubicacion {
   border: 2px solid #d45660;
   background-color: #047c5ad0;
-}
+} */
 
 /* --------------------------------------------- */
 
@@ -141,7 +141,7 @@ html {
 }
 
 .url {
-  border: 2px solid #4e98f3;
+  border: 2px solid #1c64f2;
   background-color: #4e98f348;
   padding: 0.4rem;
 }
