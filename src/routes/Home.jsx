@@ -26,6 +26,7 @@ export function Home() {
       {/* -------------------------------------------------- */}
 
       <section className="flex flex-col gap-7 items-center p-7 animate__animated animate__zoomInDown mt-2">
+        {/* FIESTAS */}
         {/* ------------------------------------- */}
 
         {/* <Link
@@ -55,7 +56,6 @@ export function Home() {
         >
           <BiSolidCategoryAlt className="mr-2" /> Otros
         </Link> */}
-
         {/* ------------------------------------- */}
 
         <Link

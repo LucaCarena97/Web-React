@@ -49,7 +49,7 @@ import { Cigarrillos } from "./components/varios/Cigarrillos";
 import { Carbon } from "./components/varios/Carbon";
 import { Bolsas } from "./components/varios/Bolsas";
 import { ToastContainer } from "react-toastify";
-import { AuthComponent } from "./routes/AuthComponent";
+// import { AuthComponent } from "./routes/AuthComponent";
 import "react-toastify/dist/ReactToastify.css";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -59,62 +59,59 @@ import "tailwindcss/tailwind.css";
 function App() {
   return (
     <>
-      <AuthComponent>
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          {/* BEBIDAS */}
-          <Route path="/bebidas" element={<Bebidas />} />
-          <Route path="/bebidas/gaseosas" element={<Gaseosas />} />
-          <Route path="/bebidas/jugo-agua" element={<JugosAgua />} />
-          <Route path="/bebidas/aperitivos" element={<Aperitivos />} />
-          <Route path="/bebidas/licores" element={<Licores />} />
-          <Route path="/bebidas/whisky" element={<Whisky />} />
-          <Route path="/bebidas/cervezas" element={<Cervezas />} />
-          <Route path="/bebidas/energizantes" element={<Energizantes />} />
-          <Route path="/bebidas/vodka" element={<Vodka />} />
-          <Route path="/bebidas/ginebra" element={<Ginebra />} />
-          <Route path="/bebidas/ron" element={<Ron />} />
-          <Route path="/bebidas/vinos" element={<Vinos />} />
-          <Route path="/bebidas/espumantes" element={<Espumantes />} />
-          {/* ALIMENTOS */}
-          <Route path="/alimentos" element={<Alimentos />} />
-          <Route path="/alimentos/quento" element={<Quento />} />
-          <Route path="/alimentos/firenze" element={<Firenze />} />
-          <Route path="/alimentos/yerba" element={<Yerba />} />
-          <Route path="/alimentos/gallo" element={<Gallo />} />
-          <Route path="/alimentos/golosinas" element={<Golosinas />} />
-          <Route path="/alimentos/cafe" element={<Cafe />} />
-          <Route path="/alimentos/aceite" element={<Aceite />} />
-          <Route path="/alimentos/mate-cocido" element={<MateCocido />} />
-          <Route path="/alimentos/jugo-limon" element={<JugoLimon />} />
-          <Route path="/alimentos/leche" element={<Leche />} />
-          <Route path="/alimentos/azucar" element={<Azucar />} />
-          <Route path="/alimentos/harina" element={<Harina />} />
-          <Route path="/alimentos/durazno" element={<Durazno />} />
-          <Route path="/alimentos/triturado" element={<Triturado />} />
-          <Route path="/alimentos/pulpa" element={<Pulpa />} />
-          <Route path="/alimentos/oblita" element={<Oblita />} />
-          <Route path="/alimentos/alicante" element={<Alicante />} />
-          <Route path="/alimentos/kukinas" element={<Kukinas />} />
-          {/* HIGIENE */}
-          <Route path="/higiene" element={<Higiene />} />
-          <Route path="/higiene/papel" element={<Papel />} />
-          <Route
-            path="/higiene/cuidado-personal"
-            element={<CuidadoPersonal />}
-          />
-          {/* VARIOS */}
-          <Route path="/varios" element={<Varios />} />
-          <Route path="/varios/duracell" element={<Duracell />} />
-          <Route path="/varios/cigarrillos" element={<Cigarrillos />} />
-          <Route path="/varios/carbon-leña" element={<Carbon />} />
-          <Route path="/varios/bolsas" element={<Bolsas />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
-        <ToastContainer />
-        <Footer />
-      </AuthComponent>
+      {/* <AuthComponent> */}
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        {/* BEBIDAS */}
+        <Route path="/bebidas" element={<Bebidas />} />
+        <Route path="/bebidas/gaseosas" element={<Gaseosas />} />
+        <Route path="/bebidas/jugo-agua" element={<JugosAgua />} />
+        <Route path="/bebidas/aperitivos" element={<Aperitivos />} />
+        <Route path="/bebidas/licores" element={<Licores />} />
+        <Route path="/bebidas/whisky" element={<Whisky />} />
+        <Route path="/bebidas/cervezas" element={<Cervezas />} />
+        <Route path="/bebidas/energizantes" element={<Energizantes />} />
+        <Route path="/bebidas/vodka" element={<Vodka />} />
+        <Route path="/bebidas/ginebra" element={<Ginebra />} />
+        <Route path="/bebidas/ron" element={<Ron />} />
+        <Route path="/bebidas/vinos" element={<Vinos />} />
+        <Route path="/bebidas/espumantes" element={<Espumantes />} />
+        {/* ALIMENTOS */}
+        <Route path="/alimentos" element={<Alimentos />} />
+        <Route path="/alimentos/quento" element={<Quento />} />
+        <Route path="/alimentos/firenze" element={<Firenze />} />
+        <Route path="/alimentos/yerba" element={<Yerba />} />
+        <Route path="/alimentos/gallo" element={<Gallo />} />
+        <Route path="/alimentos/golosinas" element={<Golosinas />} />
+        <Route path="/alimentos/cafe" element={<Cafe />} />
+        <Route path="/alimentos/aceite" element={<Aceite />} />
+        <Route path="/alimentos/mate-cocido" element={<MateCocido />} />
+        <Route path="/alimentos/jugo-limon" element={<JugoLimon />} />
+        <Route path="/alimentos/leche" element={<Leche />} />
+        <Route path="/alimentos/azucar" element={<Azucar />} />
+        <Route path="/alimentos/harina" element={<Harina />} />
+        <Route path="/alimentos/durazno" element={<Durazno />} />
+        <Route path="/alimentos/triturado" element={<Triturado />} />
+        <Route path="/alimentos/pulpa" element={<Pulpa />} />
+        <Route path="/alimentos/oblita" element={<Oblita />} />
+        <Route path="/alimentos/alicante" element={<Alicante />} />
+        <Route path="/alimentos/kukinas" element={<Kukinas />} />
+        {/* HIGIENE */}
+        <Route path="/higiene" element={<Higiene />} />
+        <Route path="/higiene/papel" element={<Papel />} />
+        <Route path="/higiene/cuidado-personal" element={<CuidadoPersonal />} />
+        {/* VARIOS */}
+        <Route path="/varios" element={<Varios />} />
+        <Route path="/varios/duracell" element={<Duracell />} />
+        <Route path="/varios/cigarrillos" element={<Cigarrillos />} />
+        <Route path="/varios/carbon-leña" element={<Carbon />} />
+        <Route path="/varios/bolsas" element={<Bolsas />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+      <ToastContainer />
+      <Footer />
+      {/* </AuthComponent> */}
     </>
   );
 }

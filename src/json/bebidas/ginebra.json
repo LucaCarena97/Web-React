@@ -9,11 +9,11 @@
   },
   {
     "producto": "GINEBRA LLAVE x 750ml",
-    "precio": "1,950.00"
+    "precio": "2,700.00"
   },
   {
     "producto": "GINEBRA LLAVE BLACK x 750ml",
-    "precio": "4,150.00"
+    "precio": "5,500.00"
   },
   {
     "producto": "GIN BEAFETEAR x 750ml",
@@ -61,11 +61,15 @@
   },
   {
     "producto": "GIN MALEFICIO x 450ml",
-    "precio": "2,400.00"
+    "precio": "2,840.00"
   },
   {
     "producto": "GIN MALEFICIO PINK x 450ml",
-    "precio": "2,690.00"
+    "precio": "2,990.00"
+  },
+  {
+    "producto": "GIN SPIRITO BLU x 700ml",
+    "precio": "8,800.00"
   },
   {
     "producto": "GIN TANQUERAY x 750ml",

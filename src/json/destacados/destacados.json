@@ -1,11 +1,11 @@
 [
   {
     "producto": "Fernet Branca x 750ml",
-    "precio": "4,500"
+    "precio": "6,500"
   },
   {
     "producto": "Gancia x 950ml",
-    "precio": "2,250"
+    "precio": "2,950"
   },
   {
     "producto": "Coca Cola x 1500ml",
@@ -17,19 +17,19 @@
   },
   {
     "producto": "Brahma x 1000ml",
-    "precio": "1,100"
+    "precio": "1,230"
   },
   {
     "producto": "Brahma x 500ml",
-    "precio": "650"
+    "precio": "695"
   },
   {
     "producto": "Nativo Tinto x 1000ml",
-    "precio": "860"
+    "precio": "1,120"
   },
   {
     "producto": "Speed x 270ml",
-    "precio": "410"
+    "precio": "470"
   },
   {
     "producto": "Yerba Chamigo x 500gr",
@@ -37,10 +37,10 @@
   },
   {
     "producto": "Pila Duracell AA",
-    "precio": "410"
+    "precio": "530"
   },
   {
     "producto": "Toro Tinto x 1000ml",
-    "precio": "970"
+    "precio": "1,320"
   }
 ]
