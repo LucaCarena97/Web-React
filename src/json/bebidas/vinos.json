@@ -101,7 +101,7 @@
   },
   {
     "producto": "DAMAJUANA LA IRIDE Malbec x 4750ml",
-    "precio": "4,950.00"
+    "precio": "5,500.00"
   },
   {
     "producto": "DILEMA DAY Malbec x 750ml",
@@ -173,7 +173,7 @@
   },
   {
     "producto": "ETCHART PRIVADO Torrontes x 750ml",
-    "precio": "1,300.00"
+    "precio": "-"
   },
   {
     "producto": "ETNIA Malbec x 750ml",
@@ -209,7 +209,7 @@
   },
   {
     "producto": "FINCA LAS MORAS Malbec x 750ml",
-    "precio": "1,100.00"
+    "precio": "1,350.00"
   },
   {
     "producto": "FINCA LAS MORAS BLANCO DULCE Malbec x 750ml",
@@ -236,8 +236,8 @@
     "precio": "-"
   },
   {
-    "producto": "LA IRIDE Malbec x 750ml",
-    "precio": "1,200.00"
+    "producto": "LA IRIDE Cobre Malbec x 750ml",
+    "precio": "1,880.00"
   },
   {
     "producto": "LA MASCOTA Malbec x 750ml",
@@ -253,7 +253,7 @@
   },
   {
     "producto": "LOS ARBOLES Malbec x 750ml",
-    "precio": "1,320.00"
+    "precio": "1,430.00"
   },
   {
     "producto": "LOS INTOCABLES Malbec x 750ml",
@@ -273,7 +273,7 @@
   },
   {
     "producto": "N.C. COLECCIÓN PRIVADA Malbec x 750ml",
-    "precio": "2,290.00"
+    "precio": "2,800.00"
   },
   {
     "producto": "NAMPE Malbec x 750ml",
@@ -329,7 +329,7 @@
   },
   {
     "producto": "RUCA Malbec x 750ml",
-    "precio": "1,805.00"
+    "precio": "-"
   },
   {
     "producto": "SAN TELMO Malbec x 750ml",
@@ -373,11 +373,11 @@
   },
   {
     "producto": "TORO TINTO Tetra x 1000ml",
-    "precio": "1,320.00"
+    "precio": "1,210.00"
   },
   {
     "producto": "TORO BLANCO Tetra x 1000ml",
-    "precio": "1,320.00"
+    "precio": "-"
   },
   {
     "producto": "TORO Clasico Tinto x 750ml",
@@ -389,7 +389,7 @@
   },
   {
     "producto": "TRAPICHE RESERVA Malbec x 750ml",
-    "precio": "2,710.00"
+    "precio": "-"
   },
   {
     "producto": "TRUMPETER Malbec x 750ml",
@@ -409,6 +409,6 @@
   },
   {
     "producto": "VIÑAS RIOJANAS TINTO Tetra x 1000ml",
-    "precio": "910.00"
+    "precio": "-"
   }
 ]
