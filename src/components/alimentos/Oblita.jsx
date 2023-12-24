@@ -38,7 +38,7 @@ export function Oblita() {
       <section className="flex justify-center select-none animate__animated animate__zoomIn products">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
-            <tr className="border-2 border-blue-400 text-lg bg-red-300 boton-color">
+            <tr className="border-2 border-blue-500 text-lg bg-red-300 boton-color">
               <th className="w-screen text-center px-2">Productos</th>
               <th className="w-24 text-center px-2">Precios</th>
             </tr>

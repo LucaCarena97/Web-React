@@ -38,7 +38,7 @@ export function Cigarrillos() {
       <section className="flex justify-center select-none animate__animated animate__flipInX products">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
-            <tr className="border-2 border-blue-400 text-lg boton-color bg-yellow-500">
+            <tr className="border-2 border-blue-500 text-lg boton-color bg-yellow-500">
               <th className="w-screen text-center px-2">Productos</th>
               <th className="w-24 text-center px-2">Precios</th>
             </tr>
