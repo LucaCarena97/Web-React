@@ -61,7 +61,7 @@
   },
   {
     "producto": "AGUA Sab. LIVRA Naranja x 1,5lts",
-    "precio": "530.00"
+    "precio": "-"
   },
   {
     "producto": "AGUA Sab. LIVRA Pomelo x 1,5lts",
@@ -97,11 +97,11 @@
   },
   {
     "producto": "BAGGIO PRONTO DURAZNO x 1000ml ",
-    "precio": "1,130.00"
+    "precio": "1,150.00"
   },
   {
     "producto": "BAGGIO PRONTO MULTIFRUTA x 1000ml ",
-    "precio": "1,130.00"
+    "precio": "1,150.00"
   },
   {
     "producto": "BAGGIO PRONTO NARANJA x 1000ml ",
@@ -109,11 +109,11 @@
   },
   {
     "producto": "CEPITA DURAZNO x 1000ml ",
-    "precio": "630.00"
+    "precio": "800.00"
   },
   {
     "producto": "CEPITA NARANJA x 1000ml ",
-    "precio": "-"
+    "precio": "800.00"
   },
   {
     "producto": "GATORADE Cool Blue x 500ml ",
