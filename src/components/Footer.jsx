@@ -41,13 +41,17 @@ export function Footer() {
       </section>
 
       <section className="font-quicksand mt-6 create animate__animated animate__backInUp link">
-        <p className="select-none">Hecho por</p>
-        <a
+        <p className="select-none font-bold">Hecho por</p>
+        {/* <a
           href="https://luca-carena.netlify.app/"
           className="url  scale-animation"
         >
           - Luca Carena -
-        </a>
+        </a> */}
+
+        <button className="w-36 h-12 text-white font-semibold bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg shadow-lg hover:scale-105 duration-200 hover:drop-shadow-2xl hover:shadow-[#7dd3fc] hover:cursor-pointer scale-animation">
+          <a href="https://luca-carena.netlify.app/">- Luca Carena -</a>
+        </button>
       </section>
     </footer>
   );

@@ -3,7 +3,7 @@ import { BiSolidDrink } from "react-icons/bi";
 import { BiSolidCookie } from "react-icons/bi";
 import { MdOutlineCleanHands } from "react-icons/md";
 import { BiSolidCategoryAlt } from "react-icons/bi";
-import { TbChristmasTree } from "react-icons/tb";
+// import { TbChristmasTree } from "react-icons/tb";
 
 export function Home() {
   return (
@@ -13,15 +13,15 @@ export function Home() {
       </p>
 
       {/* NUEVO AGREGADO */}
-      <br />
-      <div className="flex items-center justify-center">
+      {/* <br /> */}
+      {/* <div className="flex items-center justify-center">
         <span className="font-quicksand text-2xl select-none text-red-600 flex items-center">
           <TbChristmasTree className="mr-1" /> ¡Felices
         </span>
         <span className="font-quicksand text-2xl select-none text-green-700 flex items-center ml-2">
           Fiestas! <TbChristmasTree className="ml-1" />
         </span>
-      </div>
+      </div> */}
 
       {/* -------------------------------------------------- */}
 
