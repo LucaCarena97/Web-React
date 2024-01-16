@@ -29,7 +29,7 @@
   },
   {
     "producto": "COCA COLA x 2,25lts",
-    "precio": "1,620.00"
+    "precio": "1,630.00"
   },
   {
     "producto": "COCA COLA x 2,5lts",
@@ -61,7 +61,7 @@
   },
   {
     "producto": "FANTA x 2,25lts",
-    "precio": "1,620.00"
+    "precio": "1,630.00"
   },
   {
     "producto": "SPRITE Lata x 310ml",
@@ -89,11 +89,11 @@
   },
   {
     "producto": "SPRITE x 2,25lts",
-    "precio": "1,620.00"
+    "precio": "1,630.00"
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
-    "precio": "600.00"
+    "precio": "-"
   },
   {
     "producto": "7UP x 500ml",
@@ -113,7 +113,7 @@
   },
   {
     "producto": "PEPSI COLA x 1,5lts",
-    "precio": "590.00"
+    "precio": "-"
   },
   {
     "producto": "PEPSI COLA x 2,25lts",
@@ -125,27 +125,27 @@
   },
   {
     "producto": "MIRINDA x 1,5lts",
-    "precio": "450.00"
+    "precio": "-"
   },
   {
     "producto": "PASO DE LOS TOROS POMELO Lata x 269ml",
-    "precio": "290.00"
+    "precio": "370.00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA Lata x 269ml",
-    "precio": "290.00"
+    "precio": "370.00"
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
-    "precio": "970.00"
+    "precio": "1,070.00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
-    "precio": "970.00"
+    "precio": "1,070.00"
   },
   {
     "producto": "H2Oh! CITRUS x 1,5lts",
-    "precio": "-"
+    "precio": "1,050.00"
   },
   {
     "producto": "H2Oh! LIMONETO x 1,5lts",
@@ -153,7 +153,7 @@
   },
   {
     "producto": "H2Oh! NARANCHELO x 1,5lts",
-    "precio": "-"
+    "precio": "1,050.00"
   },
   {
     "producto": "MANAOS COLA x 3lts",
@@ -201,6 +201,6 @@
   },
   {
     "producto": "SODA SIFON SALDAN x 2lts",
-    "precio": "-"
+    "precio": "740.00"
   }
 ]
