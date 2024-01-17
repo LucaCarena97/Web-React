@@ -5,7 +5,9 @@ export function VentanaEmergente({ onAceptar }) {
 
   const handleAceptar = () => {
     if (nombre.trim() !== "") {
-      onAceptar(nombre.trim());
+      const nombreCapitalizado =
+        nombre.trim().charAt(0).toUpperCase() + nombre.trim().slice(1);
+      onAceptar(nombreCapitalizado);
     }
   };
 
