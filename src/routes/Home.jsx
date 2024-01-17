@@ -1,16 +1,43 @@
+import { useState, useEffect } from "react";
+import { VentanaEmergente } from "../components/VentanaEmergente";
 import { Link } from "react-router-dom";
 import { BiSolidDrink } from "react-icons/bi";
 import { BiSolidCookie } from "react-icons/bi";
 import { MdOutlineCleanHands } from "react-icons/md";
 import { BiSolidCategoryAlt } from "react-icons/bi";
+import toast from "react-hot-toast";
 // import { TbChristmasTree } from "react-icons/tb";
 
 export function Home() {
+  const [nombreUsuario, setNombreUsuario] = useState("");
+  const [mostrarVentana, setMostrarVentana] = useState(false);
+
+  const handleAceptarNombre = (nombre) => {
+    setNombreUsuario(nombre);
+    localStorage.setItem("nombreUsuario", nombre);
+    setMostrarVentana(false);
+
+    const mensaje = `¡Bienvenido, ${nombre}!`;
+
+    toast.success(mensaje);
+  };
+
+  useEffect(() => {
+    const nombreGuardado = localStorage.getItem("nombreUsuario");
+
+    if (!nombreGuardado) {
+      setMostrarVentana(true);
+    } else {
+      setNombreUsuario(nombreGuardado);
+    }
+  }, []);
+
   return (
     <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
       <p className="font-quicksand text-3xl select-none custom-scale-animation">
-        Bienvenidos!
+        {nombreUsuario && `¡Bienvenido, ${nombreUsuario}!`}
       </p>
+      {mostrarVentana && <VentanaEmergente onAceptar={handleAceptarNombre} />}
 
       {/* NUEVO AGREGADO */}
       {/* <br /> */}
