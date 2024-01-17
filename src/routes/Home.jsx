@@ -35,7 +35,7 @@ export function Home() {
   return (
     <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
       <p className="font-quicksand text-3xl select-none custom-scale-animation">
-        {nombreUsuario && `¡Bienvenido, ${nombreUsuario}!`}
+        {nombreUsuario && `¡Bienvenido/a, ${nombreUsuario}!`}
       </p>
       {mostrarVentana && <VentanaEmergente onAceptar={handleAceptarNombre} />}
 
