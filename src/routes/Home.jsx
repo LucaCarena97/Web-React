@@ -5,8 +5,6 @@ import { BiSolidDrink } from "react-icons/bi";
 import { BiSolidCookie } from "react-icons/bi";
 import { MdOutlineCleanHands } from "react-icons/md";
 import { BiSolidCategoryAlt } from "react-icons/bi";
-import toast from "react-hot-toast";
-// import { TbChristmasTree } from "react-icons/tb";
 
 export function Home() {
   const [nombreUsuario, setNombreUsuario] = useState("");
@@ -16,10 +14,6 @@ export function Home() {
     setNombreUsuario(nombre);
     localStorage.setItem("nombreUsuario", nombre);
     setMostrarVentana(false);
-
-    const mensaje = `¡Bienvenido, ${nombre}!`;
-
-    toast.success(mensaje);
   };
 
   useEffect(() => {
@@ -31,7 +25,6 @@ export function Home() {
       setNombreUsuario(nombreGuardado);
     }
   }, []);
-
   return (
     <main className="font-quicksand font-semibold text-center text-lg custom-height-80vh">
       <p className="font-quicksand text-3xl select-none custom-scale-animation">
