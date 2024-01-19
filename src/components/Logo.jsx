@@ -10,7 +10,7 @@ export function Logo() {
         <p>Bevande</p>
       </section> */}
 
-      <div className="card">
+      <div className="card select-none font-quicksand font-semibold">
         <p>Le</p>
         <p>Nostre</p>
         <p>Bevande</p>

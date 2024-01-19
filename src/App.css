@@ -163,8 +163,8 @@ html {
 }
 
 .card {
-  width: 100px;
-  height: 100px;
+  width: 85px;
+  height: 85px;
   background-color: #90bef9;
   position: relative;
   display: flex;
@@ -174,15 +174,15 @@ html {
   overflow: hidden;
   border-radius: 20px;
   animation: shadowMove 2s infinite, slideInFromTop 1.3s;
-  border: 2px solid #1c64f2;
+  border: 1px solid #1c64f2;
 }
 
 .card p {
   z-index: 1;
-  margin-left: 1rem;
+  margin-left: 0.7rem;
   color: #1f2937;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 .card::before {
