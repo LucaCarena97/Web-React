@@ -7,7 +7,7 @@ export function AuthComponent({ children }) {
   const [errorMessage, setErrorMessage] = useState("");
 
   const handleLogin = () => {
-    if (password === "LNB23") {
+    if (password === "LNB24") {
       setIsAuthenticated(true);
     } else {
       setErrorMessage("Clave incorrecta");
