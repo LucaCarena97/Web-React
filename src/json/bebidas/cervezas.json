@@ -69,11 +69,11 @@
   },
   {
     "producto": "CÓRDOBA Lata x 500ml",
-    "precio": "690.00"
+    "precio": "-"
   },
   {
     "producto": "CÓRDOBA Retornable x 1000ml",
-    "precio": "1,250.00"
+    "precio": "-"
   },
   {
     "producto": "CORONA Lata x 270ml",
@@ -93,15 +93,19 @@
   },
   {
     "producto": "HEINEKEN Lata x 710ml",
-    "precio": "1,670.00"
+    "precio": "-"
+  },
+  {
+    "producto": "HEINEKEN Lata x 1000ml",
+    "precio": "2.060,00"
   },
   {
     "producto": "PEÑON DEL ÁGUILA Lata x 500ml",
-    "precio": "920.00"
+    "precio": "920,00"
   },
   {
     "producto": "QUILMES Lata x 500ml",
-    "precio": "820.00"
+    "precio": "820,00"
   },
   {
     "producto": "QUILMES IPA Lata x 500ml",
