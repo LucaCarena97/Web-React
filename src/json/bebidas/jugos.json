@@ -8,12 +8,16 @@
     "precio": "-"
   },
   {
+    "producto": "AGUA MINERAL CELLIER x 600ml",
+    "precio": "327,00"
+  },
+  {
     "producto": "AGUA MINERAL NESTLE x 500ml ",
-    "precio": "-"
+    "precio": "370,00"
   },
   {
     "producto": "AGUA MINERAL NESTLE x 1,5lts ",
-    "precio": "470.00"
+    "precio": "550,00"
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 500ml ",
@@ -46,6 +50,18 @@
   {
     "producto": "AGUA Sab. BAGGIO VIDA PERA x 1,5lts ",
     "precio": ""
+  },
+  {
+    "producto": "AGUA Sab. CELLIER PERA x 1,5lts ",
+    "precio": "700,00"
+  },
+  {
+    "producto": "AGUA Sab. CELLIER MANZANA x 1,5lts ",
+    "precio": "700,00"
+  },
+  {
+    "producto": "AGUA Sab. CELLIER NARANJA x 1,5lts ",
+    "precio": "700,00"
   },
   {
     "producto": "AGUA Sab. IVESS MANZANA x 500ml ",
@@ -109,11 +125,11 @@
   },
   {
     "producto": "CEPITA DURAZNO x 1000ml ",
-    "precio": "880.00"
+    "precio": "1.100,00"
   },
   {
     "producto": "CEPITA NARANJA x 1000ml ",
-    "precio": "880.00"
+    "precio": "1.100,00"
   },
   {
     "producto": "GATORADE Cool Blue x 500ml ",
