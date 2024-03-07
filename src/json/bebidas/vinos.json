@@ -289,11 +289,11 @@
   },
   {
     "producto": "NATIVO BLANCO Tetra x 1000ml",
-    "precio": "1,150.00"
+    "precio": "-"
   },
   {
     "producto": "NATIVO TINTO Tetra x 1000ml",
-    "precio": "1,150.00"
+    "precio": "-"
   },
   {
     "producto": "OVEJA BLACK Malbec x 750ml",
@@ -381,15 +381,15 @@
   },
   {
     "producto": "TORO TINTO Tetra x 1000ml",
-    "precio": "1,250.00"
+    "precio": "1.450,00"
   },
   {
     "producto": "TORO BLANCO Tetra x 1000ml",
-    "precio": "1,250.00"
+    "precio": "1.450,00"
   },
   {
     "producto": "TORO Clasico Tinto x 750ml",
-    "precio": "-"
+    "precio": "890,00"
   },
   {
     "producto": "TORO Clasico Tinto x 1,125ml",
