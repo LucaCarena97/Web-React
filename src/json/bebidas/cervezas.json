@@ -13,19 +13,19 @@
   },
   {
     "producto": "ANDES RUBIA Lata x 500ml",
-    "precio": "940,00"
+    "precio": "900,00"
   },
   {
     "producto": "ANDES ROJA Lata x 500ml",
-    "precio": "940,00"
+    "precio": "-"
   },
   {
     "producto": "ANDES IPA Retornable x 340ml",
-    "precio": "530.00"
+    "precio": "-"
   },
   {
     "producto": "ANDES ROJA Retornable x 340ml",
-    "precio": "530.00"
+    "precio": "-"
   },
   {
     "producto": "ANDES RUBIA Retornable x 1000ml",
@@ -33,7 +33,7 @@
   },
   {
     "producto": "ANDES ROJA Retornable x 1000ml",
-    "precio": "1.510,00"
+    "precio": "-"
   },
   {
     "producto": "ANTARES ATLANTICA Lata x 500ml",
@@ -57,7 +57,7 @@
   },
   {
     "producto": "BRAHMA Lata x 500ml",
-    "precio": "820,00"
+    "precio": "800,00"
   },
   {
     "producto": "BRAHMA Dorada Descartable x 710ml",
@@ -69,7 +69,7 @@
   },
   {
     "producto": "BRAHMA Retornable x 1000ml",
-    "precio": "1.620,00"
+    "precio": "1.550,00"
   },
   {
     "producto": "BUDWEISER Retornable x 340ml",
@@ -89,11 +89,11 @@
   },
   {
     "producto": "CORONA x 330ml",
-    "precio": "1.250,00"
+    "precio": "1.330,00"
   },
   {
     "producto": "CORONA x 710ml",
-    "precio": "2.100,00"
+    "precio": "2.250,00"
   },
   {
     "producto": "HEINEKEN Lata x 500ml",
@@ -105,11 +105,11 @@
   },
   {
     "producto": "HEINEKEN Lata x 1000ml",
-    "precio": "2.300,00"
+    "precio": "2.200,00"
   },
   {
     "producto": "PEÑON DEL ÁGUILA Lata x 500ml",
-    "precio": "-"
+    "precio": "900,00"
   },
   {
     "producto": "QUILMES Lata x 500ml",

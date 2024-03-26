@@ -5,7 +5,7 @@
   },
   {
     "producto": "COCA COLA Retornable x 1,25lts",
-    "precio": "980,00"
+    "precio": "990,00"
   },
   {
     "producto": "COCA COLA Retornable x 2lts",
@@ -17,7 +17,7 @@
   },
   {
     "producto": "COCA COLA x 500ml",
-    "precio": "620,00"
+    "precio": "630,00"
   },
   {
     "producto": "COCA COLA x 1000ml",
@@ -41,7 +41,7 @@
   },
   {
     "producto": "FANTA Retornable x 1,25lts",
-    "precio": "980,00"
+    "precio": "990,00"
   },
   {
     "producto": "FANTA Retornable x 2lts",
@@ -53,7 +53,7 @@
   },
   {
     "producto": "FANTA x 500ml",
-    "precio": "620,00"
+    "precio": "630,00"
   },
   {
     "producto": "FANTA x 1,5lts",
@@ -69,7 +69,7 @@
   },
   {
     "producto": "SPRITE Retornable x 1,25lts",
-    "precio": "980,00"
+    "precio": "990,00"
   },
   {
     "producto": "SPRITE Retornable x 2lts",
@@ -81,7 +81,7 @@
   },
   {
     "producto": "SPRITE x 500ml",
-    "precio": "620,00"
+    "precio": "630,00"
   },
   {
     "producto": "SPRITE x 1,5lts",
@@ -93,7 +93,7 @@
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
-    "precio": "-"
+    "precio": "1.400,00"
   },
   {
     "producto": "7UP x 500ml",
@@ -129,11 +129,11 @@
   },
   {
     "producto": "PASO DE LOS TOROS POMELO Lata x 269ml",
-    "precio": "370.00"
+    "precio": "420.00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA Lata x 269ml",
-    "precio": "370.00"
+    "precio": "420.00"
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
@@ -193,18 +193,18 @@
   },
   {
     "producto": "SODA RUMIPAL x 1,5lts",
-    "precio": "-"
-  },
-  {
-    "producto": "SODA SIFÓN CELLIER",
-    "precio": "-"
+    "precio": "600,00"
   },
   {
     "producto": "SODA SIFÓN RUMIPAL x 2lts",
-    "precio": "958.00"
+    "precio": "958,00"
   },
   {
     "producto": "SODA SIFÓN SALDAN x 2lts",
-    "precio": "860.00"
+    "precio": "930,00"
+  },
+  {
+    "producto": "SODA SIFÓN TORASSO x 2lts",
+    "precio": "760,00"
   }
 ]
