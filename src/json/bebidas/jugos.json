@@ -69,7 +69,7 @@
   },
   {
     "producto": "AGUA Sab. CELLIER POMELO x 1,5lts ",
-    "precio": "760,00"
+    "precio": "-"
   },
   {
     "producto": "AGUA Sab. IVESS MANZANA x 500ml ",
@@ -154,6 +154,22 @@
   {
     "producto": "GATORADE Uva x 500ml ",
     "precio": "860,00"
+  },
+  {
+    "producto": "GATORADE Cool Blue x 750ml ",
+    "precio": "900,00"
+  },
+  {
+    "producto": "GATORADE Frutas Tropicales x 750ml ",
+    "precio": "900,00"
+  },
+  {
+    "producto": "GATORADE Manzana x 750ml ",
+    "precio": "900,00"
+  },
+  {
+    "producto": "GATORADE Uva x 750ml ",
+    "precio": "-"
   },
   {
     "producto": "SALDAN Jugo Concentrado x 1500ml ",
