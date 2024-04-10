@@ -1,5 +1,78 @@
 [
   {
+    "producto": "CUNNINGTON COLA x 1,5lts",
+    "precio": "890,00"
+  },
+  {
+    "producto": "CUNNINGTON COLA x 2,25lts",
+    "precio": "990,00"
+  },
+  {
+    "producto": "CUNNINGTON COLA x 3lts",
+    "precio": "1.270,00"
+  },
+  {
+    "producto": "CUNNINGTON LIMA LIMÓN x 1,5lts",
+    "precio": "890,00"
+  },
+  {
+    "producto": "CUNNINGTON LIMA LIMÓN x 2,25lts",
+    "precio": "990,00"
+  },
+  {
+    "producto": "CUNNINGTON LIMA LIMÓN x 3lts",
+    "precio": "1.270,00"
+  },
+  {
+    "producto": "CUNNINGTON MANZANA x 1,5lts",
+    "precio": "890,00"
+  },
+  {
+    "producto": "CUNNINGTON MANZANA x 2,25lts",
+    "precio": "990,00"
+  },
+  {
+    "producto": "CUNNINGTON MANZANA x 3lts",
+    "precio": "1.270,00"
+  },
+  {
+    "producto": "CUNNINGTON NARANJA x 1,5lts",
+    "precio": "890,00"
+  },
+  {
+    "producto": "CUNNINGTON NARANJA x 2,25lts",
+    "precio": "990,00"
+  },
+  {
+    "producto": "CUNNINGTON NARANJA x 3lts",
+    "precio": "1.270,00"
+  },
+  {
+    "producto": "CUNNINGTON POMELO x 1,5lts",
+    "precio": "890,00"
+  },
+  {
+    "producto": "CUNNINGTON POMELO x 2,25lts",
+    "precio": "990,00"
+  },
+  {
+    "producto": "CUNNINGTON POMELO x 3lts",
+    "precio": "1.270,00"
+  },
+  {
+    "producto": "CUNNINGTON INDIAN TONIC x 1,5lts",
+    "precio": "890,00"
+  },
+  {
+    "producto": "CUNNINGTON INDIAN TONIC x 2,25lts",
+    "precio": "990,00"
+  },
+  {
+    "producto": "CUNNINGTON INDIAN TONIC x 3lts",
+    "precio": "1.270,00"
+  },
+
+  {
     "producto": "COCA COLA Lata x 310ml",
     "precio": "510,00"
   },
@@ -17,7 +90,7 @@
   },
   {
     "producto": "COCA COLA x 500ml",
-    "precio": "630,00"
+    "precio": "640,00"
   },
   {
     "producto": "COCA COLA x 1000ml",
@@ -25,7 +98,7 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "1.560,00"
+    "precio": "1.610,00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
@@ -53,11 +126,11 @@
   },
   {
     "producto": "FANTA x 500ml",
-    "precio": "630,00"
+    "precio": "640,00"
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "1.560,00"
+    "precio": "1.610,00"
   },
   {
     "producto": "FANTA x 2,25lts",
@@ -81,11 +154,11 @@
   },
   {
     "producto": "SPRITE x 500ml",
-    "precio": "630,00"
+    "precio": "640,00"
   },
   {
     "producto": "SPRITE x 1,5lts",
-    "precio": "1.560,00"
+    "precio": "1.610,00"
   },
   {
     "producto": "SPRITE x 2,25lts",
