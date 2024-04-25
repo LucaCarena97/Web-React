@@ -1,10 +1,14 @@
 [
   {
-    "producto": "YATASTO Entera x 1lts",
-    "precio": "-"
+    "producto": "BAGGIO LATTE Entera x 1lts",
+    "precio": "1.150,00"
   },
   {
     "producto": "SUIPACHENSE Entera x 1lts",
+    "precio": "-"
+  },
+  {
+    "producto": "YATASTO Entera x 1lts",
     "precio": "-"
   }
 ]

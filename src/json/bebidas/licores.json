@@ -1,7 +1,11 @@
 [
   {
+    "producto": "ANIS 8 Hermanos x 750ml",
+    "precio": "5.350,00"
+  },
+  {
     "producto": "BAILEYS Irish Cream x 750ml",
-    "precio": "19,300.00"
+    "precio": "20.900,00"
   },
   {
     "producto": "JAGERMEISTER x 700ml",
@@ -9,15 +13,15 @@
   },
   {
     "producto": "LEGUI x 700ml",
-    "precio": "2,420.00"
+    "precio": "2.690,00"
   },
   {
     "producto": "PIÑA COLADA AMERICAN CLUB x 750ml",
-    "precio": "4.000,00"
+    "precio": "4.300,00"
   },
   {
     "producto": "SHERIDAN´S X 750ml",
-    "precio": "19,900.00"
+    "precio": "27.000,00"
   },
   {
     "producto": "TIA MARIA COFFEE x 700ml",

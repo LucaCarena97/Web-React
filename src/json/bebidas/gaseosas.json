@@ -71,7 +71,6 @@
     "producto": "CUNNINGTON INDIAN TONIC x 3lts",
     "precio": "1.270,00"
   },
-
   {
     "producto": "COCA COLA Lata x 310ml",
     "precio": "510,00"
@@ -90,7 +89,7 @@
   },
   {
     "producto": "COCA COLA x 500ml",
-    "precio": "640,00"
+    "precio": "650,00"
   },
   {
     "producto": "COCA COLA x 1000ml",
@@ -98,7 +97,7 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "1.610,00"
+    "precio": "1.630,00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
@@ -126,11 +125,11 @@
   },
   {
     "producto": "FANTA x 500ml",
-    "precio": "640,00"
+    "precio": "650,00"
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "1.610,00"
+    "precio": "1.630,00"
   },
   {
     "producto": "FANTA x 2,25lts",
@@ -154,11 +153,11 @@
   },
   {
     "producto": "SPRITE x 500ml",
-    "precio": "640,00"
+    "precio": "650,00"
   },
   {
     "producto": "SPRITE x 1,5lts",
-    "precio": "1.610,00"
+    "precio": "1.630,00"
   },
   {
     "producto": "SPRITE x 2,25lts",
