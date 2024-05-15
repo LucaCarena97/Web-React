@@ -188,6 +188,10 @@
     "precio": "-"
   },
   {
+    "producto": "PEPSI COLA x 2lts",
+    "precio": "1.790,00"
+  },
+  {
     "producto": "PEPSI COLA x 2,25lts",
     "precio": "-"
   },
@@ -209,11 +213,11 @@
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
-    "precio": "1.530,00"
+    "precio": "1.630,00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
-    "precio": "1.530,00"
+    "precio": "1.630,00"
   },
   {
     "producto": "H2Oh! CITRUS x 1,5lts",

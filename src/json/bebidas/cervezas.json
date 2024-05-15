@@ -13,11 +13,11 @@
   },
   {
     "producto": "ANDES RUBIA Lata x 500ml",
-    "precio": "990,00"
+    "precio": "1.060,00,00"
   },
   {
     "producto": "ANDES ROJA Lata x 500ml",
-    "precio": "990,00"
+    "precio": "1.060,00,00"
   },
   {
     "producto": "ANDES IPA Retornable x 340ml",
@@ -29,15 +29,15 @@
   },
   {
     "producto": "ANDES RUBIA Retornable x 1000ml",
-    "precio": "1.810,00"
+    "precio": "1.950,00"
   },
   {
     "producto": "ANDES ROJA Retornable x 1000ml",
-    "precio": "1.810,00"
+    "precio": "1.950,00"
   },
   {
     "producto": "ANDES NEGRA Retornable x 1000ml",
-    "precio": "1.810,00"
+    "precio": "1.950,00"
   },
   {
     "producto": "ANTARES ATLANTICA Lata x 500ml",
@@ -85,7 +85,7 @@
   },
   {
     "producto": "CÓRDOBA Retornable x 1000ml",
-    "precio": "1.400,00"
+    "precio": "1.550,00"
   },
   {
     "producto": "CORONA Lata x 270ml",
@@ -117,11 +117,15 @@
   },
   {
     "producto": "QUILMES Lata x 500ml",
-    "precio": "810,00"
+    "precio": "900,00"
   },
   {
     "producto": "QUILMES IPA Lata x 500ml",
     "precio": "-"
+  },
+  {
+    "producto": "QUILMES STOUT Lata x 500ml",
+    "precio": "1.050,00"
   },
   {
     "producto": "QUILMES Sin Alcohol Lata x 500ml",
