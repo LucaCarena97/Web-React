@@ -77,11 +77,11 @@
   },
   {
     "producto": "COCA COLA Retornable x 1,25lts",
-    "precio": "1.150,00"
+    "precio": "1.200,00"
   },
   {
     "producto": "COCA COLA Retornable x 2lts",
-    "precio": "1,480.00"
+    "precio": "1,550.00"
   },
   {
     "producto": "COCA COLA Retornable x 350ml",
@@ -97,11 +97,11 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "1.750,00"
+    "precio": "1.800,00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
-    "precio": "2.200,00"
+    "precio": "2.330,00"
   },
   {
     "producto": "COCA COLA x 2,5lts",
@@ -113,11 +113,11 @@
   },
   {
     "producto": "FANTA Retornable x 1,25lts",
-    "precio": "1.150,00"
+    "precio": "1.200,00"
   },
   {
     "producto": "FANTA Retornable x 2lts",
-    "precio": "1,480.00"
+    "precio": "1,550.00"
   },
   {
     "producto": "FANTA Retornable x 350ml",
@@ -129,11 +129,11 @@
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "1.750,00"
+    "precio": "1.800,00"
   },
   {
     "producto": "FANTA x 2,25lts",
-    "precio": "2.200,00"
+    "precio": "2.330,00"
   },
   {
     "producto": "SPRITE Lata x 310ml",
@@ -141,11 +141,11 @@
   },
   {
     "producto": "SPRITE Retornable x 1,25lts",
-    "precio": "1.150,00"
+    "precio": "1.200,00"
   },
   {
     "producto": "SPRITE Retornable x 2lts",
-    "precio": "1,480.00"
+    "precio": "1,550.00"
   },
   {
     "producto": "SPRITE Retornable x 350ml",
@@ -157,11 +157,11 @@
   },
   {
     "producto": "SPRITE x 1,5lts",
-    "precio": "1.750,00"
+    "precio": "1.800,00"
   },
   {
     "producto": "SPRITE x 2,25lts",
-    "precio": "2.200,00"
+    "precio": "2.330,00"
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
@@ -213,15 +213,27 @@
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
-    "precio": "1.630,00"
+    "precio": "1.710,00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
-    "precio": "1.630,00"
+    "precio": "1.710,00"
+  },
+  {
+    "producto": "H2Oh! MANZANA x 500ml",
+    "precio": "440,00"
+  },
+  {
+    "producto": "H2Oh! LIMONETO x 500ml",
+    "precio": "440,00"
+  },
+  {
+    "producto": "H2Oh! POMELO x 500ml",
+    "precio": "440,00"
   },
   {
     "producto": "H2Oh! CITRUS x 1,5lts",
-    "precio": "1.590,00"
+    "precio": "1.600,00"
   },
   {
     "producto": "H2Oh! LIMONETO x 1,5lts",

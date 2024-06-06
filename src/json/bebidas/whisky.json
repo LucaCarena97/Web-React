@@ -9,7 +9,7 @@
   },
   {
     "producto": "J&B x 750ml",
-    "precio": "9,320.00"
+    "precio": "10.700,00"
   },
   {
     "producto": "JAMESON x 750ml",
@@ -25,15 +25,19 @@
   },
   {
     "producto": "JW RED LABEL x 1000ml",
-    "precio": "24,000.00"
+    "precio": "26,000.00"
   },
   {
     "producto": "JW BLACK LABEL x 750ml",
     "precio": "36,800.00"
   },
   {
+    "producto": "JW BLACK LABEL x 1000ml",
+    "precio": "46.000,00"
+  },
+  {
     "producto": "JW DOUBLE BLACK LABEL x 750ml",
-    "precio": "42,500.00"
+    "precio": "46.000,00"
   },
   {
     "producto": "JW SWING ESCOCES x 750ml",
@@ -45,6 +49,6 @@
   },
   {
     "producto": "WHITE HORSE x 750ml",
-    "precio": "7,350.00"
+    "precio": "7,450.00"
   }
 ]

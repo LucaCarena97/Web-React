@@ -25,7 +25,7 @@
   },
   {
     "producto": "ALMA MORA Malbec x 750ml",
-    "precio": "3.200,00"
+    "precio": "2.800,00"
   },
   {
     "producto": "ALMA MORA Blend x 750ml",
@@ -33,15 +33,15 @@
   },
   {
     "producto": "ALMA MORA Blanco Dulce x 750ml",
-    "precio": "3.200,00"
+    "precio": "2.800,00"
   },
   {
     "producto": "ALMA MORA Cabernet x 750ml",
-    "precio": "3.200,00"
+    "precio": "2.800,00"
   },
   {
     "producto": "ALMA MORA Chardonnay x 750ml",
-    "precio": "3.200,00"
+    "precio": "2.800,00"
   },
   {
     "producto": "ALMA MORA RESERVA Malbec x 750ml",
@@ -81,27 +81,27 @@
   },
   {
     "producto": "DADA N°1 x 750ml",
-    "precio": "3.100,00"
+    "precio": "2.700,00"
   },
   {
     "producto": "DADA N°2 x 750ml",
-    "precio": "3.100,00"
+    "precio": "2.700,00"
   },
   {
     "producto": "DADA N°3 x 750ml",
-    "precio": "3.100,00"
+    "precio": "2.700,00"
   },
   {
     "producto": "DADA N°391 Art Malbec x 750ml",
-    "precio": "3.100,00"
+    "precio": "2.700,00"
   },
   {
     "producto": "DADA N°391 Art White x 750ml",
-    "precio": "3.100,00"
+    "precio": "2.700,00"
   },
   {
     "producto": "DADA N°8 x 750ml",
-    "precio": "3.100,00"
+    "precio": "2.700,00"
   },
   {
     "producto": "DAMAJUANA LA IRIDE Malbec x 4750ml",
@@ -124,8 +124,12 @@
     "precio": "-"
   },
   {
+    "producto": "DOLORES N.C. Malbec x 750ml",
+    "precio": "3.190,00"
+  },
+  {
     "producto": "DON DAVID Malbec x 750ml",
-    "precio": "4.490,00"
+    "precio": "4.150,00"
   },
   {
     "producto": "DON DAVID RESERVA Malbec x 750ml",
@@ -189,15 +193,15 @@
   },
   {
     "producto": "ESTANCIA MENDOZA Cab/Mal x 750ml",
-    "precio": "1.650,00"
+    "precio": "1.950,00"
   },
   {
     "producto": "ESTANCIA MENDOZA Char/Chen x 750ml",
-    "precio": "1.650,00"
+    "precio": "1.950,00"
   },
   {
     "producto": "ESTANCIA MENDOZA Mer/Mal x 750ml",
-    "precio": "1.650,00"
+    "precio": "1.950,00"
   },
   {
     "producto": "ES POR ACÁ, ES POR AHÍ Malbec x 750ml",
@@ -229,7 +233,7 @@
   },
   {
     "producto": "FOND DE CAVE Malbec x 750ml",
-    "precio": "4.350,00"
+    "precio": "4.100,00"
   },
   {
     "producto": "FOND DE CAVE RESERVA Malbec x 750ml",
@@ -309,7 +313,7 @@
   },
   {
     "producto": "PAZ Malbec x 750ml",
-    "precio": "-"
+    "precio": "5.300,00"
   },
   {
     "producto": "PARECE PERO NO LO ES Malbec x 750ml",
@@ -357,7 +361,7 @@
   },
   {
     "producto": "SANTA JULIA Malbec x 750ml",
-    "precio": "2,350.00"
+    "precio": "2,250.00"
   },
   {
     "producto": "SANTA JULIA Sauvignon Blanc x 750ml",
@@ -365,11 +369,11 @@
   },
   {
     "producto": "SANTA JULIA CHENIN DULCE x 750ml",
-    "precio": "3,190.00"
+    "precio": "3.200,00"
   },
   {
     "producto": "SANTA JULIA TINTO DULCE x 750ml",
-    "precio": "-"
+    "precio": "3.200,00"
   },
   {
     "producto": "SIN PALABRAS Malbec x 750ml",
