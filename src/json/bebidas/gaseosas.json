@@ -97,11 +97,11 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "1.800,00"
+    "precio": "1.850,00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
-    "precio": "2.330,00"
+    "precio": "2.400,00"
   },
   {
     "producto": "COCA COLA x 2,5lts",
@@ -129,11 +129,11 @@
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "1.800,00"
+    "precio": "1.850,00"
   },
   {
     "producto": "FANTA x 2,25lts",
-    "precio": "2.330,00"
+    "precio": "2.400,00"
   },
   {
     "producto": "SPRITE Lata x 310ml",
@@ -157,11 +157,11 @@
   },
   {
     "producto": "SPRITE x 1,5lts",
-    "precio": "1.800,00"
+    "precio": "1.850,00"
   },
   {
     "producto": "SPRITE x 2,25lts",
-    "precio": "2.330,00"
+    "precio": "2.400,00"
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
@@ -169,11 +169,11 @@
   },
   {
     "producto": "7UP x 500ml",
-    "precio": "540.00"
+    "precio": "660,00"
   },
   {
     "producto": "7UP x 1,5lts",
-    "precio": "-"
+    "precio": "1.610,00"
   },
   {
     "producto": "7UP x 2,25lts",
@@ -181,7 +181,7 @@
   },
   {
     "producto": "PEPSI COLA x 500ml",
-    "precio": "540.00"
+    "precio": "660,00"
   },
   {
     "producto": "PEPSI COLA x 1,5lts",
@@ -189,7 +189,7 @@
   },
   {
     "producto": "PEPSI COLA x 2lts",
-    "precio": "1.790,00"
+    "precio": "1.750,00"
   },
   {
     "producto": "PEPSI COLA x 2,25lts",
@@ -197,7 +197,7 @@
   },
   {
     "producto": "MIRINDA x 500ml",
-    "precio": "540.00"
+    "precio": "660,00"
   },
   {
     "producto": "MIRINDA x 1,5lts",
@@ -205,19 +205,19 @@
   },
   {
     "producto": "PASO DE LOS TOROS POMELO Lata x 269ml",
-    "precio": "430.00"
+    "precio": "460.00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA Lata x 269ml",
-    "precio": "430.00"
+    "precio": "460.00"
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
-    "precio": "1.710,00"
+    "precio": "1.800,00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
-    "precio": "1.710,00"
+    "precio": "1.800,00"
   },
   {
     "producto": "H2Oh! MANZANA x 500ml",
