@@ -208,12 +208,12 @@
     "precio": "3.250,00"
   },
   {
-    "producto": "FLICHMAN Estate Malbec x 750 ml",
-    "precio": "1,390.00"
+    "producto": "FLICHMAN Estate Malbec x 750ml",
+    "precio": "-"
   },
   {
     "producto": "FLICHMAN RESERVA Malbec x 750ml",
-    "precio": "-"
+    "precio": "4.100,00"
   },
   {
     "producto": "FINCA LA LINDA Malbec 750ml",
@@ -421,7 +421,7 @@
   },
   {
     "producto": "VASCO VIEJO Tinto x 750ml",
-    "precio": "-"
+    "precio": "1.970,00"
   },
   {
     "producto": "VIÑAS RIOJANAS BLANCO Tetra x 1000ml",
