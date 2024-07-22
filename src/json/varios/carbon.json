@@ -1,10 +1,14 @@
 [
   {
     "producto": "CARBÓN FOGATA x 3kg",
-    "precio": "1.450,00"
+    "precio": "1.590,00"
   },
   {
     "producto": "LEÑA x 3kg",
-    "precio": "1.250,00"
+    "precio": "-"
+  },
+  {
+    "producto": "LEÑA x 10kg",
+    "precio": "1.780,00"
   }
 ]
