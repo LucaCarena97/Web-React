@@ -81,11 +81,11 @@
   },
   {
     "producto": "CÓRDOBA Lata x 500ml",
-    "precio": "990,00"
+    "precio": "1.080,00"
   },
   {
     "producto": "CÓRDOBA Retornable x 1000ml",
-    "precio": "1.680,00"
+    "precio": "1.720,00"
   },
   {
     "producto": "CORONA Lata x 270ml",
@@ -150,6 +150,10 @@
   {
     "producto": "SCHNEIDER Rubia Lata x 473ml ",
     "precio": "-"
+  },
+  {
+    "producto": "SCHNEIDER Retornable x 1000ml ",
+    "precio": "2.050,00"
   },
   {
     "producto": "STELLA ARTOIS RUBIA Lata x 270ml",
