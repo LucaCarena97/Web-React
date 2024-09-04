@@ -4,12 +4,10 @@ import { Logo } from "./Logo";
 
 export function Navbar() {
   const [darkMode, setDarkMode] = useState(false);
-
   const toggleDarkMode = () => {
     setDarkMode(!darkMode);
     document.documentElement.classList.toggle("dark");
   };
-
   return (
     <header className="flex justify-between items-center p-10 ">
       <Logo />
