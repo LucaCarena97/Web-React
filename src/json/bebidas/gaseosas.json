@@ -225,23 +225,23 @@
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
-    "precio": "1.950,00"
+    "precio": "2.050,00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
-    "precio": "1.950,00"
+    "precio": "2.050,00"
   },
   {
     "producto": "H2Oh! MANZANA x 500ml",
-    "precio": "670,00"
+    "precio": "690,00"
   },
   {
     "producto": "H2Oh! LIMONETO x 500ml",
-    "precio": "670,00"
+    "precio": "690,00"
   },
   {
     "producto": "H2Oh! POMELO x 500ml",
-    "precio": "670,00"
+    "precio": "690,00"
   },
   {
     "producto": "H2Oh! CITRUS x 1,5lts",
@@ -308,7 +308,11 @@
     "precio": "-"
   },
   {
+    "producto": "SODA TORASSO x 2,25lts",
+    "precio": "650,00"
+  },
+  {
     "producto": "SODA SIFÓN TORASSO x 2lts",
-    "precio": "796,00"
+    "precio": "920,00"
   }
 ]
