@@ -261,11 +261,11 @@
   },
   {
     "producto": "DOBLE COLA x 3lts",
-    "precio": "1.512,00"
+    "precio": "1.610,00"
   },
   {
     "producto": "PRITTY x 500ml",
-    "precio": "606,00"
+    "precio": "605,00"
   },
   {
     "producto": "PRITTY x 1lts",
@@ -273,15 +273,15 @@
   },
   {
     "producto": "PRITTY x 1,5lts",
-    "precio": "1.060,00"
+    "precio": "1.190,00"
   },
   {
     "producto": "PRITTY x 2,25lts",
-    "precio": "1.528,00"
+    "precio": "1.620,00"
   },
   {
     "producto": "PRITTY x 3lts",
-    "precio": "1.876,00"
+    "precio": "1.970,00"
   },
   {
     "producto": "RUMIPAL POMELO x 1,5lts",
@@ -297,7 +297,7 @@
   },
   {
     "producto": "SODA RUMIPAL x 1,5lts",
-    "precio": "-"
+    "precio": "640,00"
   },
   {
     "producto": "SODA SIFÓN RUMIPAL x 2lts",
@@ -305,7 +305,7 @@
   },
   {
     "producto": "SODA SIFÓN SALDAN x 2lts",
-    "precio": "920,00"
+    "precio": "950,00"
   },
   {
     "producto": "SODA TORASSO x 2,25lts",
@@ -313,6 +313,6 @@
   },
   {
     "producto": "SODA SIFÓN TORASSO x 2lts",
-    "precio": "920,00"
+    "precio": "-"
   }
 ]
