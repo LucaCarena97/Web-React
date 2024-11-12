@@ -42,6 +42,7 @@ import { Kukinas } from "./components/alimentos/Kukinas";
 import { Higiene } from "./routes/Higiene";
 import { Papel } from "./components/higiene/Papel";
 import { CuidadoPersonal } from "./components/higiene/CuidadoPersonal";
+import { Limpieza } from "./components/higiene/Limpieza";
 // IMPORTACIONES  VARIOS
 import { Varios } from "./routes/Varios";
 import { Duracell } from "./components/varios/Duracell";
@@ -101,6 +102,7 @@ function App() {
         <Route path="/higiene" element={<Higiene />} />
         <Route path="/higiene/papel" element={<Papel />} />
         <Route path="/higiene/cuidado-personal" element={<CuidadoPersonal />} />
+        <Route path="/higiene/limpieza" element={<Limpieza />} />
         {/* VARIOS */}
         <Route path="/varios" element={<Varios />} />
         <Route path="/varios/duracell" element={<Duracell />} />

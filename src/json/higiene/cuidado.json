@@ -1,6 +1,14 @@
 [
   {
+    "producto": "PLUSBELLE Shampoo x 1Lts",
+    "precio": "2.050,00"
+  },
+  {
+    "producto": "PLUSBELLE Acondicionador x 1Lts",
+    "precio": "2.050,00"
+  },
+  {
     "producto": "PRIME x 1un",
-    "precio": "2.070,00"
+    "precio": "-"
   }
 ]

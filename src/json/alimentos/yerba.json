@@ -1,11 +1,11 @@
 [
   {
     "producto": "CHAMIGO x 500gr",
-    "precio": "1.250,00"
+    "precio": "1.320,00"
   },
   {
     "producto": "CHAMIGO x 1kgr",
-    "precio": "2.440,00"
+    "precio": "-"
   },
   {
     "producto": "LA HOJA x 500gr",
@@ -21,6 +21,10 @@
   },
   {
     "producto": "PLAYADITO x 1kgr",
-    "precio": "3.580,00"
+    "precio": "3.620,00"
+  },
+  {
+    "producto": "ROMANCE Clásica x 500gr",
+    "precio": "1.420,00"
   }
 ]

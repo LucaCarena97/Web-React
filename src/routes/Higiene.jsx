@@ -2,6 +2,7 @@ import { Menu } from "../components/botones/Menu";
 import { Link } from "react-router-dom";
 import { FaToiletPaper } from "react-icons/fa";
 import { MdBathroom } from "react-icons/md";
+import { MdCleaningServices } from "react-icons/md";
 
 export function Higiene() {
   return (
@@ -21,6 +22,12 @@ export function Higiene() {
           to={"/higiene/papel"}
         >
           <FaToiletPaper className="mr-2" /> Papel/Pañuelos
+        </Link>
+        <Link
+          className="bg-blue-300 border-blue-400 border-4 text-lg py-2 w-48 rounded hover:bg-blue-200 mb-2 text-center flex items-center justify-center"
+          to={"/higiene/limpieza"}
+        >
+          <MdCleaningServices className="mr-2" /> Limpieza
         </Link>
       </section>
     </main>

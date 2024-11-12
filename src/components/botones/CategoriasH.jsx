@@ -48,6 +48,12 @@ export function CategoriasH() {
           >
             Rollo/Pañuelos
           </Link>
+          <Link
+            className="block py-2  hover:bg-blue-300 rounded"
+            to={"/higiene/limpieza"}
+          >
+            Limpieza
+          </Link>
         </div>
       )}
     </section>

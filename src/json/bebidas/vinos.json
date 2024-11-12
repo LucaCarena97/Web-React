@@ -56,6 +56,10 @@
     "precio": "3.300,00"
   },
   {
+    "producto": "CASILLERO DEL DIABLO Malbec x 750ml",
+    "precio": "4.050,00"
+  },
+  {
     "producto": "CHACABUCO CHENIN DULCE x 750ml",
     "precio": "-"
   },
@@ -129,7 +133,7 @@
   },
   {
     "producto": "DON DAVID Malbec x 750ml",
-    "precio": "4.150,00"
+    "precio": "-"
   },
   {
     "producto": "DON DAVID RESERVA Malbec x 750ml",
@@ -137,7 +141,7 @@
   },
   {
     "producto": "DON VALENTIN Lacrado Tinto x 750ml",
-    "precio": "2.900,00"
+    "precio": "-"
   },
   {
     "producto": "EL BAUTISMO Malbec x 750ml",
@@ -264,16 +268,24 @@
     "precio": "5,750.00"
   },
   {
-    "producto": "LAS PERDICES Malbec Partridge 750ml",
-    "precio": "4.330,00"
+    "producto": "LAS PERDICES Torrontes x 750ml",
+    "precio": "5.050,00"
   },
   {
-    "producto": "LAS PERDICES Malbec Bag In Box x 3lts",
-    "precio": "-"
+    "producto": "LAS PERDICES Malbec Partridge x 750ml",
+    "precio": "3.720,00"
+  },
+  {
+    "producto": "LAS PERDICES Partridge Bag In Box x 3lts",
+    "precio": "11.170,00"
   },
   {
     "producto": "LATITUD 33 Malbec x 750ml",
-    "precio": "3.900,00"
+    "precio": "4.420,00"
+  },
+  {
+    "producto": "LATITUD 33 Chardonnay x 750ml",
+    "precio": "4.420,00"
   },
   {
     "producto": "LOS ARBOLES Chardonnay x 750ml",
@@ -293,7 +305,7 @@
   },
   {
     "producto": "LUIGUI BOSCA Malbec x 750ml",
-    "precio": "8.100,00"
+    "precio": "8.590,00"
   },
   {
     "producto": "MISTERIO Malbec x 750ml",
@@ -397,7 +409,7 @@
   },
   {
     "producto": "SAINT FELICIEN Malbec x 750ml",
-    "precio": "-"
+    "precio": "7.260,00"
   },
   {
     "producto": "TERMIDOR BLANCO Tetra x 1000ml",
@@ -425,6 +437,10 @@
   },
   {
     "producto": "TRAPICHE RESERVA Malbec x 750ml",
+    "precio": "-"
+  },
+  {
+    "producto": "TRIVENTO Malbec x 750ml",
     "precio": "-"
   },
   {
