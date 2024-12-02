@@ -5,7 +5,7 @@
   },
   {
     "producto": "ALAMOS Malbec x 750ml",
-    "precio": "-"
+    "precio": "9.720,00"
   },
   {
     "producto": "ALARIS Malbec x 750ml",
@@ -57,7 +57,7 @@
   },
   {
     "producto": "CASILLERO DEL DIABLO Malbec x 750ml",
-    "precio": "4.050,00"
+    "precio": "5.330,00"
   },
   {
     "producto": "CHACABUCO CHENIN DULCE x 750ml",
@@ -65,7 +65,7 @@
   },
   {
     "producto": "CORDERO CON PIEL DE LOBO Malbec x 750ml",
-    "precio": "3.340,00"
+    "precio": "3.520,00"
   },
   {
     "producto": "CROTTA Moscato x 930ml",
@@ -85,27 +85,27 @@
   },
   {
     "producto": "DADA N°1 x 750ml",
-    "precio": "3.060,00"
+    "precio": "3.550,00"
   },
   {
     "producto": "DADA N°2 x 750ml",
-    "precio": "3.060,00"
+    "precio": "3.550,00"
   },
   {
     "producto": "DADA N°3 x 750ml",
-    "precio": "-"
+    "precio": "3.550,00"
   },
   {
     "producto": "DADA N°391 Art Malbec x 750ml",
-    "precio": "3.060,00"
+    "precio": "3.550,00"
   },
   {
     "producto": "DADA N°391 Art White x 750ml",
-    "precio": "3.060,00"
+    "precio": "3.550,00"
   },
   {
     "producto": "DADA N°8 x 750ml",
-    "precio": "3.060,00"
+    "precio": "3.550,00"
   },
   {
     "producto": "DAMAJUANA LA IRIDE Malbec x 4750ml",
@@ -117,15 +117,15 @@
   },
   {
     "producto": "DILEMA Blanco Dulce x 750ml",
-    "precio": "2.820,00"
+    "precio": "2.990,00"
   },
   {
     "producto": "DILEMA Tinto Dulce x 750ml",
-    "precio": "-"
+    "precio": "2.990,00"
   },
   {
     "producto": "DILEMA Rosado Dulce x 750ml",
-    "precio": "-"
+    "precio": "2.990,00"
   },
   {
     "producto": "DOLORES N.C. Malbec x 750ml",
@@ -221,7 +221,7 @@
   },
   {
     "producto": "FLICHMAN RESERVA Malbec x 750ml",
-    "precio": "4.100,00"
+    "precio": "10.080,00"
   },
   {
     "producto": "FINCA LA LINDA Malbec 750ml",
@@ -277,7 +277,7 @@
   },
   {
     "producto": "LAS PERDICES Partridge Bag In Box x 3lts",
-    "precio": "11.170,00"
+    "precio": "16.310,00"
   },
   {
     "producto": "LATITUD 33 Malbec x 750ml",
@@ -309,7 +309,11 @@
   },
   {
     "producto": "MISTERIO Malbec x 750ml",
-    "precio": "2.740,00"
+    "precio": "2.550,00"
+  },
+  {
+    "producto": "MISTERIO Chardonnay x 750ml",
+    "precio": "2.550,00"
   },
   {
     "producto": "MOTOCICLISTA Malbec x 750ml",
@@ -349,7 +353,7 @@
   },
   {
     "producto": "PERRO CALLEJERO x 750ml",
-    "precio": "-"
+    "precio": "6.710,00"
   },
   {
     "producto": "PISPI BLEND TINTAS x 750ml",
@@ -357,7 +361,7 @@
   },
   {
     "producto": "PORTILLO Malbec x 750ml",
-    "precio": "4.190,00"
+    "precio": "4.150,00"
   },
   {
     "producto": "PROFUGO Especias Cabernet Sauvignon x 750ml",
@@ -385,23 +389,23 @@
   },
   {
     "producto": "SANTA JULIA Chardonnay x 750ml",
-    "precio": "3,300.00"
+    "precio": "3,770.00"
   },
   {
     "producto": "SANTA JULIA Malbec x 750ml",
-    "precio": "3,300.00"
+    "precio": "3,770.00"
   },
   {
     "producto": "SANTA JULIA Sauvignon Blanc x 750ml",
-    "precio": "3,300.00"
+    "precio": "3,770.00"
   },
   {
     "producto": "SANTA JULIA CHENIN DULCE x 750ml",
-    "precio": "4.220,00"
+    "precio": "4.820,00"
   },
   {
     "producto": "SANTA JULIA TINTO DULCE x 750ml",
-    "precio": "4.220,00"
+    "precio": "4.820,00"
   },
   {
     "producto": "SIN PALABRAS Malbec x 750ml",
@@ -421,11 +425,11 @@
   },
   {
     "producto": "TORO TINTO Tetra x 1000ml",
-    "precio": "1.720,00"
+    "precio": "1.730,00"
   },
   {
     "producto": "TORO BLANCO Tetra x 1000ml",
-    "precio": "1.720,00"
+    "precio": "1.730,00"
   },
   {
     "producto": "TORO Clasico Tinto x 750ml",
@@ -450,6 +454,10 @@
   {
     "producto": "TRUMPETER RESERVA Malbec x 750ml",
     "precio": "-"
+  },
+  {
+    "producto": "UXMAL Malbec x 750ml",
+    "precio": "7.660,00"
   },
   {
     "producto": "VASCO VIEJO Tinto x 750ml",
