@@ -17,7 +17,7 @@
   },
   {
     "producto": "AGUA MINERAL NESTLE x 1,5lts ",
-    "precio": "1.020,00"
+    "precio": "1.460,00"
   },
   {
     "producto": "AGUA MINERAL NIHUIL x 600ml ",
@@ -26,6 +26,10 @@
   {
     "producto": "AGUA MINERAL RUMIPAL x 500ml ",
     "precio": "-"
+  },
+  {
+    "producto": "AGUA MINERAL RUMIPAL x 2,25lts ",
+    "precio": "665,00"
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 6lts ",
@@ -89,19 +93,19 @@
   },
   {
     "producto": "AGUA Sab. LIVRA Naranja x 1,5lts",
-    "precio": "850,00"
+    "precio": "890,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Pomelo x 1,5lts",
-    "precio": "850,00"
+    "precio": "890,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Pera x 1,5lts",
-    "precio": "850,00"
+    "precio": "890,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Manzana x 1,5lts",
-    "precio": "850,00"
+    "precio": "890,00"
   },
   {
     "producto": "AGUA Sab. SIERRAS DE LOS PADRES x 500ml",
@@ -145,19 +149,19 @@
   },
   {
     "producto": "GATORADE Cool Blue x 500ml",
-    "precio": "1.410,00"
+    "precio": "1.590,00"
   },
   {
     "producto": "GATORADE Frutas Tropicales x 500ml",
-    "precio": "1.410,00"
+    "precio": "1.590,00"
   },
   {
     "producto": "GATORADE Manzana x 500ml",
-    "precio": "1.410,00"
+    "precio": "1.590,00"
   },
   {
     "producto": "GATORADE Uva x 500ml",
-    "precio": "1.410,00"
+    "precio": "1.590,00"
   },
   {
     "producto": "GATORADE Cool Blue x 750ml",
@@ -185,7 +189,7 @@
   },
   {
     "producto": "TERMA Cuyano x 1,35lts",
-    "precio": "1.270,00"
+    "precio": "1.300,00"
   },
   {
     "producto": "TERMA Limón x 1,35lts",
@@ -197,6 +201,6 @@
   },
   {
     "producto": "TERMA Serrano x 1,35lts",
-    "precio": "1.270,00"
+    "precio": "1.300,00"
   }
 ]
