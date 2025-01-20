@@ -17,7 +17,7 @@
   },
   {
     "producto": "AGUA MINERAL NESTLE x 1,5lts ",
-    "precio": "1.460,00"
+    "precio": "1.250,00"
   },
   {
     "producto": "AGUA MINERAL NIHUIL x 600ml ",
@@ -29,7 +29,7 @@
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 2,25lts ",
-    "precio": "665,00"
+    "precio": "680,00"
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 6lts ",
@@ -38,6 +38,10 @@
   {
     "producto": "AGUA MINERAL IVESS x 500ml ",
     "precio": "-"
+  },
+  {
+    "producto": "AGUA Sab. AQUARIUS x 500ml ",
+    "precio": "950,00"
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA LIMONE x 1,5lts ",
@@ -141,11 +145,11 @@
   },
   {
     "producto": "CEPITA DURAZNO x 1000ml",
-    "precio": "1.350,00"
+    "precio": "1.620,00"
   },
   {
     "producto": "CEPITA NARANJA x 1000ml",
-    "precio": "1.350,00"
+    "precio": "1.620,00"
   },
   {
     "producto": "GATORADE Cool Blue x 500ml",

@@ -81,19 +81,19 @@
   },
   {
     "producto": "COCA COLA Lata x 354ml",
-    "precio": "690,00"
+    "precio": "710,00"
+  },
+  {
+    "producto": "COCA COLA Retornable x 350ml",
+    "precio": "750,00"
   },
   {
     "producto": "COCA COLA Retornable x 1,25lts",
-    "precio": "1.590,00"
+    "precio": "1.620,00"
   },
   {
     "producto": "COCA COLA Retornable x 2lts",
     "precio": "2.100,00"
-  },
-  {
-    "producto": "COCA COLA Retornable x 350ml",
-    "precio": "690,00"
   },
   {
     "producto": "COCA COLA x 500ml",
@@ -105,7 +105,7 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "2.120,00"
+    "precio": "2.150,00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
@@ -117,19 +117,19 @@
   },
   {
     "producto": "FANTA Lata x 354ml",
-    "precio": "690,00"
+    "precio": "710,00"
+  },
+  {
+    "producto": "FANTA Retornable x 350ml",
+    "precio": "750,00"
   },
   {
     "producto": "FANTA Retornable x 1,25lts",
-    "precio": "1.590,00"
+    "precio": "1.620,00"
   },
   {
     "producto": "FANTA Retornable x 2lts",
     "precio": "2.100,00"
-  },
-  {
-    "producto": "FANTA Retornable x 350ml",
-    "precio": "690,00"
   },
   {
     "producto": "FANTA x 500ml",
@@ -137,7 +137,7 @@
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "2.120,00"
+    "precio": "2.150,00"
   },
   {
     "producto": "FANTA x 2,25lts",
@@ -145,19 +145,19 @@
   },
   {
     "producto": "SPRITE Lata x 354ml",
-    "precio": "690,00"
+    "precio": "710,00"
+  },
+  {
+    "producto": "SPRITE Retornable x 350ml",
+    "precio": "750,00"
   },
   {
     "producto": "SPRITE Retornable x 1,25lts",
-    "precio": "1.590,00"
+    "precio": "1.620,00"
   },
   {
     "producto": "SPRITE Retornable x 2lts",
     "precio": "2.100,00"
-  },
-  {
-    "producto": "SPRITE Retornable x 350ml",
-    "precio": "690,00"
   },
   {
     "producto": "SPRITE x 500ml",
@@ -165,7 +165,7 @@
   },
   {
     "producto": "SPRITE x 1,5lts",
-    "precio": "2.120,00"
+    "precio": "2.150,00"
   },
   {
     "producto": "SPRITE x 2,25lts",
@@ -261,7 +261,7 @@
   },
   {
     "producto": "DOBLE COLA x 3lts",
-    "precio": "1.610,00"
+    "precio": "1.590,00"
   },
   {
     "producto": "PRITTY x 500ml",
@@ -273,11 +273,11 @@
   },
   {
     "producto": "PRITTY x 1,5lts",
-    "precio": "1.190,00"
+    "precio": "1.550,00"
   },
   {
     "producto": "PRITTY x 2,25lts",
-    "precio": "1.620,00"
+    "precio": "1.970,00"
   },
   {
     "producto": "PRITTY x 3lts",
@@ -297,7 +297,7 @@
   },
   {
     "producto": "SODA RUMIPAL x 1,5lts",
-    "precio": "650,00"
+    "precio": "620,00"
   },
   {
     "producto": "SODA RUMIPAL x 2,25lts",
@@ -309,7 +309,7 @@
   },
   {
     "producto": "SODA SIFÓN SALDAN x 2lts",
-    "precio": "950,00"
+    "precio": "890,00"
   },
   {
     "producto": "SODA TORASSO x 2,25lts",
