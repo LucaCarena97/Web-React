@@ -152,40 +152,24 @@
     "precio": "1.620,00"
   },
   {
-    "producto": "GATORADE Cool Blue x 500ml",
+    "producto": "GATORADE Sab. x 500ml",
     "precio": "1.590,00"
   },
   {
-    "producto": "GATORADE Frutas Tropicales x 500ml",
-    "precio": "1.590,00"
-  },
-  {
-    "producto": "GATORADE Manzana x 500ml",
-    "precio": "1.590,00"
-  },
-  {
-    "producto": "GATORADE Uva x 500ml",
-    "precio": "1.590,00"
-  },
-  {
-    "producto": "GATORADE Cool Blue x 750ml",
+    "producto": "GATORADE Sab. x 750ml",
     "precio": "-"
   },
   {
-    "producto": "GATORADE Frutas Tropicales x 750ml",
-    "precio": "-"
-  },
-  {
-    "producto": "GATORADE Manzana x 750ml",
-    "precio": "-"
-  },
-  {
-    "producto": "GATORADE Uva x 750ml",
+    "producto": "GATORADE Sab. x 1,25lts",
     "precio": "-"
   },
   {
     "producto": "POWERADE Sab. x 500ml",
-    "precio": "1.150,00"
+    "precio": "1.240,00"
+  },
+  {
+    "producto": "POWERADE Sab. x 995ml",
+    "precio": "1.900,00"
   },
   {
     "producto": "SALDAN Jugo Concentrado x 1,5lts",
