@@ -97,19 +97,19 @@
   },
   {
     "producto": "AGUA Sab. LIVRA Naranja x 1,5lts",
-    "precio": "890,00"
+    "precio": "950,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Pomelo x 1,5lts",
-    "precio": "890,00"
+    "precio": "950,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Pera x 1,5lts",
-    "precio": "890,00"
+    "precio": "950,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Manzana x 1,5lts",
-    "precio": "890,00"
+    "precio": "950,00"
   },
   {
     "producto": "AGUA Sab. SIERRAS DE LOS PADRES x 500ml",
@@ -145,11 +145,19 @@
   },
   {
     "producto": "CEPITA DURAZNO x 1000ml",
-    "precio": "1.620,00"
+    "precio": "1.670,00"
   },
   {
     "producto": "CEPITA NARANJA x 1000ml",
-    "precio": "1.620,00"
+    "precio": "1.670,00"
+  },
+  {
+    "producto": "CEPITA DURAZNO x 1500ml",
+    "precio": "2.130,00"
+  },
+  {
+    "producto": "CEPITA NARANJA x 1500ml",
+    "precio": "2.130,00"
   },
   {
     "producto": "GATORADE Sab. x 500ml",
@@ -173,7 +181,7 @@
   },
   {
     "producto": "SALDAN Jugo Concentrado x 1,5lts",
-    "precio": "1.190,00"
+    "precio": "1.405,00"
   },
   {
     "producto": "TERMA Cuyano x 1,35lts",

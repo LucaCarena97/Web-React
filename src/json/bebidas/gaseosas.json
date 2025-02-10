@@ -73,31 +73,31 @@
   },
   {
     "producto": "COCA COLA Mini Lata x 220ml",
-    "precio": "530,00"
+    "precio": "650,00"
   },
   {
     "producto": "COCA COLA Vidrio x 237ml",
-    "precio": "530,00"
+    "precio": "680,00"
   },
   {
     "producto": "COCA COLA Lata x 354ml",
-    "precio": "710,00"
+    "precio": "820,00"
   },
   {
     "producto": "COCA COLA Retornable x 350ml",
-    "precio": "750,00"
+    "precio": "730,00"
   },
   {
     "producto": "COCA COLA Retornable x 1,25lts",
-    "precio": "1.620,00"
+    "precio": "1.720,00"
   },
   {
     "producto": "COCA COLA Retornable x 2lts",
-    "precio": "2.100,00"
+    "precio": "2.250,00"
   },
   {
     "producto": "COCA COLA x 500ml",
-    "precio": "820,00"
+    "precio": "970,00"
   },
   {
     "producto": "COCA COLA x 1000ml",
@@ -105,11 +105,11 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "2.150,00"
+    "precio": "2.400,00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
-    "precio": "2.920,00"
+    "precio": "3.200,00"
   },
   {
     "producto": "COCA COLA x 2,5lts",
@@ -117,59 +117,59 @@
   },
   {
     "producto": "FANTA Lata x 354ml",
-    "precio": "710,00"
+    "precio": "820,00"
   },
   {
     "producto": "FANTA Retornable x 350ml",
-    "precio": "750,00"
+    "precio": "730,00"
   },
   {
     "producto": "FANTA Retornable x 1,25lts",
-    "precio": "1.620,00"
+    "precio": "1.720,00"
   },
   {
     "producto": "FANTA Retornable x 2lts",
-    "precio": "2.100,00"
+    "precio": "2.250,00"
   },
   {
     "producto": "FANTA x 500ml",
-    "precio": "820,00"
+    "precio": "970,00"
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "2.150,00"
+    "precio": "2.400,00"
   },
   {
     "producto": "FANTA x 2,25lts",
-    "precio": "2.920,00"
+    "precio": "3.200,00"
   },
   {
     "producto": "SPRITE Lata x 354ml",
-    "precio": "710,00"
-  },
-  {
-    "producto": "SPRITE Retornable x 350ml",
-    "precio": "750,00"
-  },
-  {
-    "producto": "SPRITE Retornable x 1,25lts",
-    "precio": "1.620,00"
-  },
-  {
-    "producto": "SPRITE Retornable x 2lts",
-    "precio": "2.100,00"
-  },
-  {
-    "producto": "SPRITE x 500ml",
     "precio": "820,00"
   },
   {
+    "producto": "SPRITE Retornable x 350ml",
+    "precio": "730,00"
+  },
+  {
+    "producto": "SPRITE Retornable x 1,25lts",
+    "precio": "1.720,00"
+  },
+  {
+    "producto": "SPRITE Retornable x 2lts",
+    "precio": "2.250,00"
+  },
+  {
+    "producto": "SPRITE x 500ml",
+    "precio": "970,00"
+  },
+  {
     "producto": "SPRITE x 1,5lts",
-    "precio": "2.150,00"
+    "precio": "2.400,00"
   },
   {
     "producto": "SPRITE x 2,25lts",
-    "precio": "2.920,00"
+    "precio": "3.200,00"
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
@@ -261,11 +261,11 @@
   },
   {
     "producto": "DOBLE COLA x 3lts",
-    "precio": "1.590,00"
+    "precio": "1.610,00"
   },
   {
     "producto": "PRITTY x 500ml",
-    "precio": "605,00"
+    "precio": "690,00"
   },
   {
     "producto": "PRITTY x 1lts",
@@ -273,15 +273,15 @@
   },
   {
     "producto": "PRITTY x 1,5lts",
-    "precio": "1.550,00"
+    "precio": "1.230,00"
   },
   {
     "producto": "PRITTY x 2,25lts",
-    "precio": "1.970,00"
+    "precio": "1.650,00"
   },
   {
     "producto": "PRITTY x 3lts",
-    "precio": "1.970,00"
+    "precio": "2.050,00"
   },
   {
     "producto": "RUMIPAL POMELO x 1,5lts",
@@ -309,7 +309,7 @@
   },
   {
     "producto": "SODA SIFÓN SALDAN x 2lts",
-    "precio": "890,00"
+    "precio": "1.040,00"
   },
   {
     "producto": "SODA TORASSO x 2,25lts",

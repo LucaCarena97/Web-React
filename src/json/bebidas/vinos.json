@@ -5,23 +5,23 @@
   },
   {
     "producto": "ALAMOS Malbec x 750ml",
-    "precio": "9.720,00"
+    "precio": "5.420,00"
   },
   {
     "producto": "ALARIS Malbec x 750ml",
-    "precio": "2.700,00"
+    "precio": "2.950,00"
   },
   {
     "producto": "ALARIS Chardonnay x 750ml",
-    "precio": "2.700,00"
+    "precio": "2.950,00"
   },
   {
     "producto": "ALARIS Dulce Cosecha Natural x 750ml",
-    "precio": "2.700,00"
+    "precio": "2.950,00"
   },
   {
     "producto": "ALARIS Dulce Cosecha Rosé x 750ml",
-    "precio": "2.700,00"
+    "precio": "2.950,00"
   },
   {
     "producto": "ALMA MORA Malbec x 750ml",
@@ -49,6 +49,10 @@
   },
   {
     "producto": "BALBO MAGNUM Tinto x 1125ml",
+    "precio": "2.250,00"
+  },
+  {
+    "producto": "BALBO MAGNUM Blanco x 1125ml",
     "precio": "2.200,00"
   },
   {
@@ -145,7 +149,7 @@
   },
   {
     "producto": "DON VALENTIN Lacrado Tinto x 750ml",
-    "precio": "-"
+    "precio": "2.410,00"
   },
   {
     "producto": "EL BAUTISMO Malbec x 750ml",
@@ -252,6 +256,10 @@
     "precio": "7.190,00"
   },
   {
+    "producto": "FOND DE CAVE GRAN RESERVA Malbec x 750ml",
+    "precio": "12.950,00"
+  },
+  {
     "producto": "GUANACO x 750ml",
     "precio": "-"
   },
@@ -337,7 +345,7 @@
   },
   {
     "producto": "NAMPE Malbec x 750ml",
-    "precio": "2.050,00"
+    "precio": "1.980,00"
   },
   {
     "producto": "NATIVO BLANCO Tetra x 1000ml",
@@ -365,7 +373,7 @@
   },
   {
     "producto": "PISPI BLEND TINTAS x 750ml",
-    "precio": "-"
+    "precio": "5.610,00"
   },
   {
     "producto": "PORTILLO Malbec x 750ml",
@@ -409,11 +417,11 @@
   },
   {
     "producto": "SANTA JULIA CHENIN DULCE x 750ml",
-    "precio": "4.650,00"
+    "precio": "4.450,00"
   },
   {
     "producto": "SANTA JULIA TINTO DULCE x 750ml",
-    "precio": "4.650,00"
+    "precio": "4.450,00"
   },
   {
     "producto": "SIN PALABRAS Malbec x 750ml",
@@ -437,7 +445,7 @@
   },
   {
     "producto": "TORO BLANCO Tetra x 1000ml",
-    "precio": "1.630,00"
+    "precio": "1.180,00"
   },
   {
     "producto": "TORO Clasico Tinto x 750ml",
@@ -445,7 +453,7 @@
   },
   {
     "producto": "TORO Clasico Tinto x 1,125ml",
-    "precio": "-"
+    "precio": "1.550,00"
   },
   {
     "producto": "TRAPICHE RESERVA Malbec x 750ml",
