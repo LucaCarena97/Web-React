@@ -20,6 +20,9 @@ import { SiGitea } from "react-icons/si";
 import { FaCocktail } from "react-icons/fa";
 import { MdOutlineSoupKitchen } from "react-icons/md";
 import { PiCookieFill } from "react-icons/pi";
+import { FaJarWheat } from "react-icons/fa6";
+import { LiaCookieBiteSolid } from "react-icons/lia";
+import { TbSalt } from "react-icons/tb";
 
 export function Alimentos() {
   return (
@@ -53,10 +56,22 @@ export function Alimentos() {
           <GiCoffeeBeans className="mr-2" /> Café
         </Link>
         <Link
+          className="bg-violet-200 border-violet-200-300 border-4 py-2 w-48 rounded hover:bg-violet-300 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/dulcor"}
+        >
+          <FaJarWheat className="mr-2" /> Dulcor
+        </Link>
+        <Link
           className="bg-yellow-100 border-yellow-300 border-4 py-2 w-48 rounded hover:bg-yellow-200 mb-2 text-center flex items-center justify-center"
           to={"/alimentos/durazno"}
         >
           <GiPeach className="mr-2" /> Durazno
+        </Link>
+        <Link
+          className="bg-red-300 border-gray-100 border-4 py-2 w-48 rounded hover:bg-red-400 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/donsatur"}
+        >
+          <LiaCookieBiteSolid className="mr-2" /> Don Satur
         </Link>
         <Link
           className="bg-red-400 border-red-500 border-4 py-2 w-48 rounded hover:bg-red-300 mb-2 text-center flex items-center justify-center"
@@ -146,6 +161,12 @@ export function Alimentos() {
           to={"/alimentos/yerba"}
         >
           <GiPaperBagFolded className="mr-2" /> Yerba
+        </Link>
+        <Link
+          className="bg-gray-100 border-gray-400 border-4 py-2 w-48 rounded hover:bg-gray-300 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/sal"}
+        >
+          <TbSalt className="mr-2" /> Sal
         </Link>
       </section>
     </main>

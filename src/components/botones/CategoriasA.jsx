@@ -68,9 +68,22 @@ export function CategoriasA() {
 
             <Link
               className="block py-2 px-2 hover:bg-blue-300 rounded"
+              to={"/alimentos/dulcor"}
+            >
+              Dulcor
+            </Link>
+
+            <Link
+              className="block py-2 px-2 hover:bg-blue-300 rounded"
               to={"/alimentos/durazno"}
             >
               Durazno
+            </Link>
+            <Link
+              className="block py-2 px-2 hover:bg-blue-300 rounded"
+              to={"/alimentos/donsatur"}
+            >
+              Don Satur
             </Link>
 
             <Link
@@ -162,6 +175,12 @@ export function CategoriasA() {
               to={"/alimentos/yerba"}
             >
               Yerba
+            </Link>
+            <Link
+              className="block py-2 px-2 hover:bg-blue-300 rounded"
+              to={"/alimentos/sal"}
+            >
+              Sal
             </Link>
           </div>
         </div>

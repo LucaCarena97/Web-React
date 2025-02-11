@@ -10,5 +10,13 @@
   {
     "producto": "PRIME x 1un",
     "precio": "1.530,00"
+  },
+  {
+    "producto": "LADYSOFT Normal",
+    "precio": "990,00"
+  },
+  {
+    "producto": "LADYSOFT Nocturna",
+    "precio": "990,00"
   }
 ]
