@@ -13,11 +13,11 @@
   },
   {
     "producto": "ANDES RUBIA Lata x 500ml",
-    "precio": "1.800,00"
+    "precio": "1.830,00"
   },
   {
     "producto": "ANDES ROJA Lata x 500ml",
-    "precio": "1.800,00"
+    "precio": "1.830,00"
   },
   {
     "producto": "ANDES IPA Retornable x 340ml",
@@ -28,12 +28,16 @@
     "precio": "-"
   },
   {
+    "producto": "ANDES IPA Retornable x 1000ml",
+    "precio": "3.100,00"
+  },
+  {
     "producto": "ANDES RUBIA Retornable x 1000ml",
-    "precio": "3.050,00"
+    "precio": "3.100,00"
   },
   {
     "producto": "ANDES ROJA Retornable x 1000ml",
-    "precio": "3.050,00"
+    "precio": "3.100,00"
   },
   {
     "producto": "ANDES NEGRA Retornable x 1000ml",
@@ -61,7 +65,7 @@
   },
   {
     "producto": "BRAHMA Lata x 500ml",
-    "precio": "1.350,00"
+    "precio": "1.360,00"
   },
   {
     "producto": "BRAHMA Dorada Descartable x 710ml",
@@ -125,7 +129,7 @@
   },
   {
     "producto": "QUILMES Lata x 500ml",
-    "precio": "1.260,00"
+    "precio": "1.250,00"
   },
   {
     "producto": "QUILMES IPA Lata x 500ml",
@@ -173,7 +177,7 @@
   },
   {
     "producto": "STELLA ARTOIS RUBIA Lata x 500ml",
-    "precio": "2.400,00"
+    "precio": "2.200,00"
   },
   {
     "producto": "STELLA ARTOIS Retornable RUBIA x 1000ml",
