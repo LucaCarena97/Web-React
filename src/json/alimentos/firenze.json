@@ -1,27 +1,47 @@
 [
   {
     "producto": "GALLETAS Choco Pamela x 230gr",
-    "precio": "949.00"
+    "precio": "1.075,00"
   },
   {
     "producto": "GALLETAS Mini Pamela CHIPS x 180gr",
-    "precio": "715.00"
+    "precio": "1.010,00"
   },
   {
     "producto": "GALLETAS Mini Pamela COCO x 180gr",
-    "precio": "715.00"
+    "precio": "803,00"
   },
   {
     "producto": "GALLETAS Mini Pamela LIMÓN x 180gr",
-    "precio": "715.00"
+    "precio": "803,00"
   },
   {
     "producto": "GALLETAS Mini Pamela MANTECA x 180gr",
-    "precio": "715.00"
+    "precio": "803,00"
   },
   {
     "producto": "GALLETAS Mini Pamela SCONES x 180gr",
-    "precio": "715.00"
+    "precio": "803,00"
+  },
+  {
+    "producto": "GALLETAS AVENA Y COCO x 180gr",
+    "precio": "1.010,00"
+  },
+  {
+    "producto": "GALLETAS AVENA Y PASAS x 180gr",
+    "precio": "1.010,00"
+  },
+  {
+    "producto": "GALLETAS AVENA Y CHIPS x 180gr",
+    "precio": "1.010,00"
+  },
+  {
+    "producto": "GALLETAS Rellenas VAINILLA",
+    "precio": "560,00"
+  },
+  {
+    "producto": "GALLETAS Rellenas CHOCOLATE",
+    "precio": "560,00"
   },
   {
     "producto": "GRISINES Finos BLANCOS x 200gr",
@@ -33,15 +53,15 @@
   },
   {
     "producto": "MADALENAS Dulce de Leche x 250gr",
-    "precio": "1.488,00"
+    "precio": "1.605,00"
   },
   {
     "producto": "MADALENAS Marmolada x 250gr",
-    "precio": "1.488,00"
+    "precio": "1.605,00"
   },
   {
     "producto": "MADALENAS Vainilla x 250gr",
-    "precio": "1.488,00"
+    "precio": "1.605,00"
   },
   {
     "producto": "PAN DULCE Matero CHIPS CHOCOLATE x 350gr",
@@ -61,6 +81,6 @@
   },
   {
     "producto": "TOSTADAS con Gluten x 920gr",
-    "precio": "-"
+    "precio": "5.290,00"
   }
 ]

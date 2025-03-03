@@ -1,83 +1,11 @@
 [
   {
-    "producto": "CUNNINGTON COLA x 1,5lts",
-    "precio": "890,00"
-  },
-  {
-    "producto": "CUNNINGTON COLA x 2,25lts",
-    "precio": "990,00"
-  },
-  {
-    "producto": "CUNNINGTON COLA x 3lts",
-    "precio": "1.270,00"
-  },
-  {
-    "producto": "CUNNINGTON LIMA LIMÓN x 1,5lts",
-    "precio": "890,00"
-  },
-  {
-    "producto": "CUNNINGTON LIMA LIMÓN x 2,25lts",
-    "precio": "990,00"
-  },
-  {
-    "producto": "CUNNINGTON LIMA LIMÓN x 3lts",
-    "precio": "1.270,00"
-  },
-  {
-    "producto": "CUNNINGTON MANZANA x 1,5lts",
-    "precio": "890,00"
-  },
-  {
-    "producto": "CUNNINGTON MANZANA x 2,25lts",
-    "precio": "990,00"
-  },
-  {
-    "producto": "CUNNINGTON MANZANA x 3lts",
-    "precio": "1.270,00"
-  },
-  {
-    "producto": "CUNNINGTON NARANJA x 1,5lts",
-    "precio": "890,00"
-  },
-  {
-    "producto": "CUNNINGTON NARANJA x 2,25lts",
-    "precio": "990,00"
-  },
-  {
-    "producto": "CUNNINGTON NARANJA x 3lts",
-    "precio": "1.270,00"
-  },
-  {
-    "producto": "CUNNINGTON POMELO x 1,5lts",
-    "precio": "890,00"
-  },
-  {
-    "producto": "CUNNINGTON POMELO x 2,25lts",
-    "precio": "990,00"
-  },
-  {
-    "producto": "CUNNINGTON POMELO x 3lts",
-    "precio": "1.270,00"
-  },
-  {
-    "producto": "CUNNINGTON INDIAN TONIC x 1,5lts",
-    "precio": "890,00"
-  },
-  {
-    "producto": "CUNNINGTON INDIAN TONIC x 2,25lts",
-    "precio": "990,00"
-  },
-  {
-    "producto": "CUNNINGTON INDIAN TONIC x 3lts",
-    "precio": "1.270,00"
-  },
-  {
     "producto": "COCA COLA Mini Lata x 220ml",
     "precio": "650,00"
   },
   {
     "producto": "COCA COLA Vidrio x 237ml",
-    "precio": "680,00"
+    "precio": "650,00"
   },
   {
     "producto": "COCA COLA Lata x 354ml",
@@ -93,11 +21,11 @@
   },
   {
     "producto": "COCA COLA Retornable x 2lts",
-    "precio": "2.250,00"
+    "precio": "2.350,00"
   },
   {
     "producto": "COCA COLA x 500ml",
-    "precio": "970,00"
+    "precio": "880,00"
   },
   {
     "producto": "COCA COLA x 1000ml",
@@ -105,7 +33,7 @@
   },
   {
     "producto": "COCA COLA x 1,5lts",
-    "precio": "2.400,00"
+    "precio": "2.440,00"
   },
   {
     "producto": "COCA COLA x 2,25lts",
@@ -129,15 +57,15 @@
   },
   {
     "producto": "FANTA Retornable x 2lts",
-    "precio": "2.250,00"
+    "precio": "2.350,00"
   },
   {
     "producto": "FANTA x 500ml",
-    "precio": "970,00"
+    "precio": "880,00"
   },
   {
     "producto": "FANTA x 1,5lts",
-    "precio": "2.400,00"
+    "precio": "2.440,00"
   },
   {
     "producto": "FANTA x 2,25lts",
@@ -157,15 +85,15 @@
   },
   {
     "producto": "SPRITE Retornable x 2lts",
-    "precio": "2.250,00"
+    "precio": "2.350,00"
   },
   {
     "producto": "SPRITE x 500ml",
-    "precio": "970,00"
+    "precio": "880,00"
   },
   {
     "producto": "SPRITE x 1,5lts",
-    "precio": "2.400,00"
+    "precio": "2.440,00"
   },
   {
     "producto": "SPRITE x 2,25lts",
