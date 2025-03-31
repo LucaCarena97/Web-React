@@ -35,9 +35,9 @@ import { Harina } from "./components/alimentos/Harina";
 import { Durazno } from "./components/alimentos/Durazno";
 import { Triturado } from "./components/alimentos/Triturado";
 import { Pulpa } from "./components/alimentos/Pulpa";
-import { Oblita } from "./components/alimentos/Oblita";
+// import { Oblita } from "./components/alimentos/Oblita";
 import { Alicante } from "./components/alimentos/Alicante";
-import { Kukinas } from "./components/alimentos/Kukinas";
+// import { Kukinas } from "./components/alimentos/Kukinas";
 // IMPORTACIONES  HIGIENE
 import { Higiene } from "./routes/Higiene";
 import { Papel } from "./components/higiene/Papel";
@@ -59,6 +59,7 @@ import "tailwindcss/tailwind.css";
 import { Sal } from "./components/alimentos/Sal";
 import { Dulcor } from "./components/alimentos/Dulcor";
 import { DonSatur } from "./components/alimentos/DonSatur";
+import { Vanoli } from "./components/alimentos/Vanoli";
 
 function App() {
   return (
@@ -98,9 +99,9 @@ function App() {
         <Route path="/alimentos/durazno" element={<Durazno />} />
         <Route path="/alimentos/triturado" element={<Triturado />} />
         <Route path="/alimentos/pulpa" element={<Pulpa />} />
-        <Route path="/alimentos/oblita" element={<Oblita />} />
+        <Route path="/alimentos/vanoli" element={<Vanoli />} />
         <Route path="/alimentos/alicante" element={<Alicante />} />
-        <Route path="/alimentos/kukinas" element={<Kukinas />} />
+        {/* <Route path="/alimentos/kukinas" element={<Kukinas />} /> */}
         <Route path="/alimentos/sal" element={<Sal />} />
         <Route path="/alimentos/dulcor" element={<Dulcor />} />
         <Route path="/alimentos/donsatur" element={<DonSatur />} />

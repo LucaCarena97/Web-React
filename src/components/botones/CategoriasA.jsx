@@ -121,12 +121,12 @@ export function CategoriasA() {
               Jugo Limón
             </Link>
 
-            <Link
+            {/* <Link
               className="block py-2 px-2 hover:bg-blue-300 rounded"
               to={"/alimentos/kukinas"}
             >
               Kukinas
-            </Link>
+            </Link> */}
 
             <Link
               className="block py-2 px-2 hover:bg-blue-300 rounded"
@@ -140,13 +140,6 @@ export function CategoriasA() {
               to={"/alimentos/mate-cocido"}
             >
               Mate Cocido/Té
-            </Link>
-
-            <Link
-              className="block py-2 px-2 hover:bg-blue-300 rounded"
-              to={"/alimentos/oblita"}
-            >
-              Oblita
             </Link>
 
             <Link
@@ -170,6 +163,12 @@ export function CategoriasA() {
               Tomate Triturado
             </Link>
 
+            <Link
+              className="block py-2 px-2 hover:bg-blue-300 rounded"
+              to={"/alimentos/vanoli"}
+            >
+              Vanoli
+            </Link>
             <Link
               className="block py-2 px-2 hover:bg-blue-300 rounded"
               to={"/alimentos/yerba"}

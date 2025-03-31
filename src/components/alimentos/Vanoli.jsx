@@ -1,17 +1,17 @@
 import { Menu } from "../botones/Menu";
-import oblita from "../../json/alimentos/oblita.json";
+import vanoli from "../../json/alimentos/vanoli.json";
 import { CategoriasA } from "../botones/CategoriasA";
 import { WhatsApp } from "../botones/WhatsApp";
 import { useState } from "react";
 
-export function Oblita() {
+export function Vanoli() {
   const [busqueda, setBusqueda] = useState("");
 
   const handleSearch = (event) => {
     setBusqueda(event.target.value);
   };
 
-  const filtro = oblita.filter((item) =>
+  const filtro = vanoli.filter((item) =>
     item.producto.toLowerCase().includes(busqueda.toLowerCase())
   );
 
@@ -38,7 +38,7 @@ export function Oblita() {
       <section className="flex justify-center select-none animate__animated animate__zoomIn products">
         <table className="table-fixed mt-5 border-2 border-blue-300">
           <thead>
-            <tr className="border-2 border-blue-500 text-lg bg-red-300 boton-color">
+            <tr className="border-2 border-red-500 text-lg bg-green-300 boton-color">
               <th className="w-screen text-center px-2">Productos</th>
               <th className="w-24 text-center px-2">Precios</th>
             </tr>

@@ -19,7 +19,8 @@ import { LuCandy } from "react-icons/lu";
 import { SiGitea } from "react-icons/si";
 import { FaCocktail } from "react-icons/fa";
 import { MdOutlineSoupKitchen } from "react-icons/md";
-import { PiCookieFill } from "react-icons/pi";
+// import { PiCookieFill } from "react-icons/pi";
+import { GiPickle } from "react-icons/gi";
 import { FaJarWheat } from "react-icons/fa6";
 import { LiaCookieBiteSolid } from "react-icons/lia";
 import { TbSalt } from "react-icons/tb";
@@ -107,12 +108,12 @@ export function Alimentos() {
         >
           <GiLemon className="mr-2" /> Jugo Limón
         </Link>
-        <Link
+        {/* <Link
           className="bg-red-300 border-blue-400 border-4 py-2 w-48 rounded hover:bg-red-400 mb-2 text-center flex items-center justify-center"
           to={"/alimentos/kukinas"}
         >
           <PiCookieFill className="mr-2" /> Kukinas
-        </Link>
+        </Link> */}
 
         <Link
           className="bg-pink-50 border-blue-200 border-4 py-2 w-48 rounded hover:bg-pink-100 mb-2 text-center flex items-center justify-center"
@@ -127,13 +128,6 @@ export function Alimentos() {
           to={"/alimentos/mate-cocido"}
         >
           <SiGitea className="mr-2" /> Mate Cocido/Té
-        </Link>
-
-        <Link
-          className="bg-red-400 border-red-500 border-4 py-2 w-48 rounded hover:bg-red-300 mb-2 text-center flex items-center justify-center"
-          to={"/alimentos/oblita"}
-        >
-          <GiBookPile className="mr-2" /> Oblita
         </Link>
 
         <Link
@@ -155,6 +149,13 @@ export function Alimentos() {
           to={"/alimentos/triturado"}
         >
           <GiTomato className="mr-2" /> Tomate triturado
+        </Link>
+
+        <Link
+          className="bg-green-500 border-red-500 border-4 py-2 w-48 rounded hover:bg-green-400  mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/vanoli"}
+        >
+          <GiPickle className="mr-2" /> Vanoli
         </Link>
         <Link
           className="bg-green-300 border-green-400 border-4 py-2 w-48 rounded hover:bg-green-200 mb-2 text-center flex items-center justify-center"
