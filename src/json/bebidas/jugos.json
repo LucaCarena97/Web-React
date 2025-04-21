@@ -117,31 +117,31 @@
   },
   {
     "producto": "BAGGIO PRONTO DURAZNO x 200ml",
-    "precio": "410,00"
+    "precio": "420,00"
   },
   {
     "producto": "BAGGIO PRONTO MANZANA x 200ml",
-    "precio": "410,00"
+    "precio": "420,00"
   },
   {
     "producto": "BAGGIO PRONTO MULTIFRUTA x 200ml",
-    "precio": "410,00"
+    "precio": "420,00"
   },
   {
     "producto": "BAGGIO PRONTO NARANJA x 200ml",
-    "precio": "410,00"
+    "precio": "420,00"
   },
   {
     "producto": "BAGGIO PRONTO DURAZNO x 1000ml",
-    "precio": "1.250,00"
+    "precio": "1.300,00"
   },
   {
     "producto": "BAGGIO PRONTO MULTIFRUTA x 1000ml",
-    "precio": "1.250,00"
+    "precio": "1.300,00"
   },
   {
     "producto": "BAGGIO PRONTO NARANJA x 1000ml",
-    "precio": "1.250,00"
+    "precio": "1.300,00"
   },
   {
     "producto": "CEPITA DURAZNO x 1000ml",
@@ -161,7 +161,7 @@
   },
   {
     "producto": "GATORADE Sab. x 500ml",
-    "precio": "1.590,00"
+    "precio": "1.470,00"
   },
   {
     "producto": "GATORADE Sab. x 750ml",
@@ -170,6 +170,10 @@
   {
     "producto": "GATORADE Sab. x 1,25lts",
     "precio": "-"
+  },
+  {
+    "producto": "Granadina CUSENIER x 750ml",
+    "precio": "3.850,00"
   },
   {
     "producto": "POWERADE Sab. x 500ml",
