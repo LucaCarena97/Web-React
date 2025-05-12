@@ -1,15 +1,15 @@
 [
   {
     "producto": "APEROL x 750ml",
-    "precio": "7.800,00"
+    "precio": "8.200,00"
   },
   {
     "producto": "CAMPARI x 750ml",
-    "precio": "7.700,00"
+    "precio": "10.200,00"
   },
   {
     "producto": "CINZANO ROSSO x 950ml",
-    "precio": "6.500,00"
+    "precio": "5.390,00"
   },
   {
     "producto": "CARPANO ROSSO x 950ml",
@@ -64,6 +64,10 @@
     "precio": "4.710,00"
   },
   {
+    "producto": "GANCIA x 1250ml",
+    "precio": "5.270,00"
+  },
+  {
     "producto": "GANCIA Hibiscus x 750ml",
     "precio": "-"
   },
@@ -73,7 +77,7 @@
   },
   {
     "producto": "MARTINI BIANCO x 1000ml",
-    "precio": "5.560,00"
+    "precio": "5.240,00"
   },
   {
     "producto": "MINGO Hard Seltzer LIMÓN x 355ml",
