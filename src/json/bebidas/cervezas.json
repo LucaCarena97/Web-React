@@ -40,40 +40,16 @@
     "precio": "3.100,00"
   },
   {
-    "producto": "ANDES NEGRA Retornable x 1000ml",
-    "precio": "-"
-  },
-  {
-    "producto": "ANTARES ATLANTICA Lata x 500ml",
-    "precio": "-"
-  },
-  {
-    "producto": "ANTARES HONEY BEER Lata x 500ml",
-    "precio": "-"
-  },
-  {
-    "producto": "ANTARES IPA Lata x 500ml",
-    "precio": "-"
-  },
-  {
-    "producto": "ANTARES KOLSCH Lata x 500ml",
-    "precio": "-"
-  },
-  {
-    "producto": "ANTARES SCOTCH Lata x 500ml",
-    "precio": "-"
-  },
-  {
     "producto": "BRAHMA Lata x 500ml",
-    "precio": "1.380,00"
+    "precio": "1.350,00"
   },
   {
     "producto": "BRAHMA Dorada Descartable x 710ml",
-    "precio": "1.650,00"
+    "precio": "-"
   },
   {
     "producto": "BRAHMA Retornable x 340ml",
-    "precio": "850,00"
+    "precio": "900,00"
   },
   {
     "producto": "BRAHMA Retornable x 1000ml",
@@ -93,7 +69,7 @@
   },
   {
     "producto": "CÓRDOBA Retornable x 1000ml",
-    "precio": "2.270,00"
+    "precio": "2.370,00"
   },
   {
     "producto": "CORONA Lata x 270ml",
@@ -105,7 +81,7 @@
   },
   {
     "producto": "CORONA x 710ml",
-    "precio": "3.610,00"
+    "precio": "3.700,00"
   },
   {
     "producto": "HEINEKEN Lata x 500ml",
@@ -121,7 +97,7 @@
   },
   {
     "producto": "HEINEKEN Retornable x 1000ml",
-    "precio": "-"
+    "precio": "3.900,00"
   },
   {
     "producto": "PEÑON DEL ÁGUILA Lata x 500ml",
@@ -141,11 +117,11 @@
   },
   {
     "producto": "QUILMES Sin Alcohol Lata x 500ml",
-    "precio": "1.050,00"
+    "precio": "-"
   },
   {
     "producto": "QUILMES Retornable x 340ml",
-    "precio": "790.00"
+    "precio": "-"
   },
   {
     "producto": "QUILMES Retornable Stout x 340ml",

@@ -8,12 +8,8 @@
     "precio": "-"
   },
   {
-    "producto": "AGUA MINERAL CELLIER x 600ml",
-    "precio": "-"
-  },
-  {
     "producto": "AGUA MINERAL NESTLE x 500ml ",
-    "precio": "370,00"
+    "precio": "-"
   },
   {
     "producto": "AGUA MINERAL NESTLE x 1,5lts ",
@@ -29,7 +25,7 @@
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 2,25lts ",
-    "precio": "680,00"
+    "precio": "690,00"
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 6lts ",
@@ -64,22 +60,6 @@
     "precio": ""
   },
   {
-    "producto": "AGUA Sab. CELLIER MANZANA x 1,5lts ",
-    "precio": "-"
-  },
-  {
-    "producto": "AGUA Sab. CELLIER NARANJA x 1,5lts ",
-    "precio": "-"
-  },
-  {
-    "producto": "AGUA Sab. CELLIER PERA x 1,5lts ",
-    "precio": "-"
-  },
-  {
-    "producto": "AGUA Sab. CELLIER POMELO x 1,5lts ",
-    "precio": "-"
-  },
-  {
     "producto": "AGUA Sab. IVESS MANZANA x 500ml ",
     "precio": "-"
   },
@@ -97,19 +77,19 @@
   },
   {
     "producto": "AGUA Sab. LIVRA Naranja x 1,5lts",
-    "precio": "960,00"
+    "precio": "970,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Pomelo x 1,5lts",
-    "precio": "960,00"
+    "precio": "970,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Pera x 1,5lts",
-    "precio": "960,00"
+    "precio": "970,00"
   },
   {
     "producto": "AGUA Sab. LIVRA Manzana x 1,5lts",
-    "precio": "960,00"
+    "precio": "970,00"
   },
   {
     "producto": "AGUA Sab. SIERRAS DE LOS PADRES x 500ml",
@@ -161,7 +141,7 @@
   },
   {
     "producto": "GATORADE Sab. x 500ml",
-    "precio": "1.470,00"
+    "precio": "1.800,00"
   },
   {
     "producto": "GATORADE Sab. x 750ml",
@@ -177,7 +157,7 @@
   },
   {
     "producto": "POWERADE Sab. x 500ml",
-    "precio": "1.350,00"
+    "precio": "1.390,00"
   },
   {
     "producto": "POWERADE Sab. x 995ml",

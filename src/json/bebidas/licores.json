@@ -9,11 +9,11 @@
   },
   {
     "producto": "BARTENDERS Melocotón  x 1lt",
-    "precio": "3.080,00"
+    "precio": "3.420,00"
   },
   {
     "producto": "JAGERMEISTER x 700ml",
-    "precio": "-"
+    "precio": "28.000,00"
   },
   {
     "producto": "LEGUI x 700ml",
@@ -61,7 +61,7 @@
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL COÑAC x 700ml",
-    "precio": "3.710,00"
+    "precio": "4.020,00"
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL DULCE DE LECHE x 700ml",
@@ -69,18 +69,22 @@
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL RON x 700ml",
-    "precio": "-"
+    "precio": "4.020,00"
   },
   {
     "producto": "TRES PLUMAS CHOCOLATE x 700ml",
-    "precio": "3.710,00"
+    "precio": "4.020,00"
   },
   {
     "producto": "TRES PLUMAS DULCE DE LECHE x 700ml",
-    "precio": "3.710,00"
+    "precio": "4.020,00"
+  },
+  {
+    "producto": "TRES PLUMAS DULCE DE LECHE ALMENDRA x 700ml",
+    "precio": "4.020,00"
   },
   {
     "producto": "TRES PLUMAS HUEVO x 700ml",
-    "precio": "3.710,00"
+    "precio": "4.020,00"
   }
 ]
