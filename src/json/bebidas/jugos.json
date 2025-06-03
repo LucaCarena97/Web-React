@@ -21,7 +21,7 @@
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 500ml ",
-    "precio": "-"
+    "precio": "360,00"
   },
   {
     "producto": "AGUA MINERAL RUMIPAL x 2,25lts ",
@@ -45,15 +45,15 @@
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA MANZANA x 1,5lts ",
-    "precio": ""
+    "precio": "990,00"
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA NARANJA x 1,5lts ",
-    "precio": ""
+    "precio": "990,00"
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA POMELO x 1,5lts ",
-    "precio": ""
+    "precio": "990,00"
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA PERA x 1,5lts ",
@@ -92,36 +92,32 @@
     "precio": "970,00"
   },
   {
-    "producto": "AGUA Sab. SIERRAS DE LOS PADRES x 500ml",
-    "precio": "-"
-  },
-  {
     "producto": "BAGGIO PRONTO DURAZNO x 200ml",
-    "precio": "420,00"
+    "precio": "360,00"
   },
   {
     "producto": "BAGGIO PRONTO MANZANA x 200ml",
-    "precio": "420,00"
+    "precio": "-"
   },
   {
     "producto": "BAGGIO PRONTO MULTIFRUTA x 200ml",
-    "precio": "420,00"
+    "precio": "360,00"
   },
   {
     "producto": "BAGGIO PRONTO NARANJA x 200ml",
-    "precio": "420,00"
+    "precio": "360,00"
   },
   {
     "producto": "BAGGIO PRONTO DURAZNO x 1000ml",
-    "precio": "1.300,00"
+    "precio": "1.250,00"
   },
   {
     "producto": "BAGGIO PRONTO MULTIFRUTA x 1000ml",
-    "precio": "1.300,00"
+    "precio": "1.250,00"
   },
   {
     "producto": "BAGGIO PRONTO NARANJA x 1000ml",
-    "precio": "1.300,00"
+    "precio": "1.250,00"
   },
   {
     "producto": "CEPITA DURAZNO x 1000ml",
