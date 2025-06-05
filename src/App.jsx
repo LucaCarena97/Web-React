@@ -35,6 +35,7 @@ import { Harina } from "./components/alimentos/Harina";
 import { Durazno } from "./components/alimentos/Durazno";
 import { Triturado } from "./components/alimentos/Triturado";
 import { Pulpa } from "./components/alimentos/Pulpa";
+import { Arroz } from "./components/alimentos/Arroz";
 // import { Oblita } from "./components/alimentos/Oblita";
 import { Alicante } from "./components/alimentos/Alicante";
 // import { Kukinas } from "./components/alimentos/Kukinas";
@@ -105,6 +106,7 @@ function App() {
         <Route path="/alimentos/sal" element={<Sal />} />
         <Route path="/alimentos/dulcor" element={<Dulcor />} />
         <Route path="/alimentos/donsatur" element={<DonSatur />} />
+        <Route path="/alimentos/arroz" element={<Arroz />} />
         {/* HIGIENE */}
         <Route path="/higiene" element={<Higiene />} />
         <Route path="/higiene/papel" element={<Papel />} />

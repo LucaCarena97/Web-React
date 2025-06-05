@@ -12,8 +12,8 @@ import {
   GiFrenchFries,
   GiTomato,
   GiPaperBagFolded,
-  GiBookPile,
 } from "react-icons/gi";
+import { BiBowlRice } from "react-icons/bi";
 import { BiSolidBowlRice } from "react-icons/bi";
 import { LuCandy } from "react-icons/lu";
 import { SiGitea } from "react-icons/si";
@@ -43,6 +43,12 @@ export function Alimentos() {
           to={"/alimentos/azucar"}
         >
           <GiPowderBag className="mr-2" /> Azúcar
+        </Link>
+        <Link
+          className="bg-gray-100 border-gray-400 border-4 py-2 w-48 rounded hover:bg-gray-300 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/arroz"}
+        >
+          <BiBowlRice className="mr-2" /> Arroz
         </Link>
         <Link
           className="bg-green-600 border-green-300 border-4 py-2 w-48 rounded hover:bg-green-500 mb-2 text-center flex items-center justify-center"
