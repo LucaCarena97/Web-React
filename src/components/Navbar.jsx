@@ -1,13 +1,23 @@
 import { FiSun, FiMoon } from "react-icons/fi";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Logo } from "./Logo";
 
 export function Navbar() {
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(() => {
+    return localStorage.getItem("darkMode") === "true";
+  });
+
   const toggleDarkMode = () => {
-    setDarkMode(!darkMode);
-    document.documentElement.classList.toggle("dark");
+    const newDarkMode = !darkMode;
+    setDarkMode(newDarkMode);
+    document.documentElement.classList.toggle("dark", newDarkMode);
+    localStorage.setItem("darkMode", newDarkMode.toString());
   };
+
+  useEffect(() => {
+    document.documentElement.classList.toggle("dark", darkMode);
+  }, []);
+
   return (
     <header className="flex justify-between items-center p-10 ">
       <Logo />

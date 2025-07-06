@@ -1,10 +1,22 @@
 [
   {
+    "producto": "ACEITUNAS Negras x 150gr",
+    "precio": "780,00"
+  },
+  {
+    "producto": "ACEITUNAS Verdes x 150gr",
+    "precio": "550,00"
+  },
+  {
     "producto": "ACEITUNAS Rellenas x 150gr",
-    "precio": "667,00"
+    "precio": "-"
   },
   {
     "producto": "PICKLES MIXTOS en Vinagre x 150gr",
     "precio": "841,00"
+  },
+  {
+    "producto": "PEPINILLOS x 300gr",
+    "precio": "1.490,00"
   }
 ]

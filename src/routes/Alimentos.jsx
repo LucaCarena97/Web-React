@@ -24,6 +24,7 @@ import { GiPickle } from "react-icons/gi";
 import { FaJarWheat } from "react-icons/fa6";
 import { LiaCookieBiteSolid } from "react-icons/lia";
 import { TbSalt } from "react-icons/tb";
+import { GiNoodles } from "react-icons/gi";
 
 export function Alimentos() {
   return (
@@ -79,6 +80,12 @@ export function Alimentos() {
           to={"/alimentos/donsatur"}
         >
           <LiaCookieBiteSolid className="mr-2" /> Don Satur
+        </Link>
+        <Link
+          className="bg-gray-100 border-yellow-100 border-4 py-2 w-48 rounded hover:bg-slate-200 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/fideos"}
+        >
+          <GiNoodles className="mr-2" /> Fideos
         </Link>
         <Link
           className="bg-red-400 border-red-500 border-4 py-2 w-48 rounded hover:bg-red-300 mb-2 text-center flex items-center justify-center"

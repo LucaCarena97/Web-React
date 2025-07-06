@@ -39,6 +39,7 @@ import { Arroz } from "./components/alimentos/Arroz";
 // import { Oblita } from "./components/alimentos/Oblita";
 import { Alicante } from "./components/alimentos/Alicante";
 // import { Kukinas } from "./components/alimentos/Kukinas";
+import { Fideos } from "./components/alimentos/Fideos";
 // IMPORTACIONES  HIGIENE
 import { Higiene } from "./routes/Higiene";
 import { Papel } from "./components/higiene/Papel";
@@ -107,6 +108,7 @@ function App() {
         <Route path="/alimentos/dulcor" element={<Dulcor />} />
         <Route path="/alimentos/donsatur" element={<DonSatur />} />
         <Route path="/alimentos/arroz" element={<Arroz />} />
+        <Route path="/alimentos/fideos" element={<Fideos />} />
         {/* HIGIENE */}
         <Route path="/higiene" element={<Higiene />} />
         <Route path="/higiene/papel" element={<Papel />} />

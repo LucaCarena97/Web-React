@@ -1,7 +1,11 @@
 [
   {
     "producto": "AIMÉ Malbec x 750ml",
-    "precio": "-"
+    "precio": "4.280,00"
+  },
+  {
+    "producto": "AIMÉ Dulce x 750ml",
+    "precio": "4.280,00"
   },
   {
     "producto": "ALAMOS Malbec x 750ml",
@@ -9,23 +13,23 @@
   },
   {
     "producto": "ALARIS Malbec x 750ml",
-    "precio": "3.190,00"
+    "precio": "3.150,00"
   },
   {
     "producto": "ALARIS Chardonnay x 750ml",
-    "precio": "3.190,00"
+    "precio": "-"
   },
   {
     "producto": "ALARIS Dulce Cosecha Natural x 750ml",
-    "precio": "3.190,00"
+    "precio": "-"
   },
   {
     "producto": "ALARIS Dulce Cosecha Rosé x 750ml",
-    "precio": "3.190,00"
+    "precio": "-"
   },
   {
     "producto": "ALMA MORA Malbec x 750ml",
-    "precio": "4.210,00"
+    "precio": "4.350,00"
   },
   {
     "producto": "ALMA MORA Blend x 750ml",
@@ -33,7 +37,7 @@
   },
   {
     "producto": "ALMA MORA Blanco Dulce x 750ml",
-    "precio": "4.210,00"
+    "precio": "4.350,00"
   },
   {
     "producto": "ALMA MORA Cabernet x 750ml",
@@ -41,7 +45,7 @@
   },
   {
     "producto": "ALMA MORA Chardonnay x 750ml",
-    "precio": "4.210,00"
+    "precio": "-"
   },
   {
     "producto": "ALMA MORA RESERVA Malbec x 750ml",
@@ -53,7 +57,7 @@
   },
   {
     "producto": "BALBO MAGNUM Blanco x 1125ml",
-    "precio": "2.200,00"
+    "precio": "-"
   },
   {
     "producto": "BENJAMIN Malbec x 750ml",
@@ -65,7 +69,7 @@
   },
   {
     "producto": "CHACABUCO Malbec x 750ml",
-    "precio": "2.550,00"
+    "precio": "2.720,00"
   },
   {
     "producto": "CHACABUCO CHENIN DULCE x 750ml",
@@ -73,7 +77,7 @@
   },
   {
     "producto": "CORDERO CON PIEL DE LOBO Malbec x 750ml",
-    "precio": "3.850,00"
+    "precio": "3.610,00"
   },
   {
     "producto": "CROTTA Moscato x 930ml",
@@ -197,11 +201,19 @@
   },
   {
     "producto": "ELEMENTOS Malbec x 750ml",
-    "precio": "3.690,00"
+    "precio": "3.660,00"
   },
   {
     "producto": "ELEMENTOS Torrontes x 750ml",
-    "precio": "3.690,00"
+    "precio": "3.660,00"
+  },
+  {
+    "producto": "EMILIA Malbec x 750ml",
+    "precio": "5.120,00"
+  },
+  {
+    "producto": "EMILIA Chardonnay x 750ml",
+    "precio": "5.120,00"
   },
   {
     "producto": "ETCHART PRIVADO Torrontes x 750ml",
@@ -213,15 +225,15 @@
   },
   {
     "producto": "ESTANCIA MENDOZA Cab/Mal x 750ml",
-    "precio": "2.350,00"
+    "precio": "2.390,00"
   },
   {
     "producto": "ESTANCIA MENDOZA Char/Chen x 750ml",
-    "precio": "2.350,00"
+    "precio": "-"
   },
   {
     "producto": "ESTANCIA MENDOZA Mer/Mal x 750ml",
-    "precio": "2.350,00"
+    "precio": "-"
   },
   {
     "producto": "ES POR ACÁ, ES POR AHÍ Malbec x 750ml",
@@ -297,7 +309,7 @@
   },
   {
     "producto": "LAS PERDICES Malbec Partridge x 750ml",
-    "precio": "4.330,00"
+    "precio": "4.450,00"
   },
   {
     "producto": "LAS PERDICES Partridge Bag In Box x 3lts",
@@ -366,6 +378,10 @@
   {
     "producto": "NATIVO TINTO Tetra x 1000ml",
     "precio": "1.670,00"
+  },
+  {
+    "producto": "NORTON SELECT Malbec x 750ml",
+    "precio": "5.410,00"
   },
   {
     "producto": "OVEJA BLACK Malbec x 750ml",
@@ -457,19 +473,23 @@
   },
   {
     "producto": "TORO TINTO Tetra x 1000ml",
-    "precio": "1.780,00"
+    "precio": "1.700,00"
   },
   {
     "producto": "TORO BLANCO Tetra x 1000ml",
-    "precio": "1.780,00"
+    "precio": "1.700,00"
   },
   {
-    "producto": "TORO Clasico Tinto x 750ml",
+    "producto": "TORO Tinto Vidrio x 750ml",
     "precio": "1.420,00"
   },
   {
-    "producto": "TORO Clasico Tinto x 1,125ml",
-    "precio": "1.550,00"
+    "producto": "TORO Tinto Vidrio x 1000ml",
+    "precio": "1.770,00"
+  },
+  {
+    "producto": "TORO Tinto Vidrio x 1,125ml",
+    "precio": "-"
   },
   {
     "producto": "TRAPICHE RESERVA Malbec x 750ml",

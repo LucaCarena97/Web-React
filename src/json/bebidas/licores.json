@@ -12,12 +12,24 @@
     "precio": "3.420,00"
   },
   {
+    "producto": "DERNA CHOCOLATE x 200ml",
+    "precio": "1.240,00"
+  },
+  {
+    "producto": "DERNA DULCE DE LECHE x 200ml",
+    "precio": "1.240,00"
+  },
+  {
+    "producto": "DERNA CAFÉ AL COÑAC x 200ml",
+    "precio": "1.240,00"
+  },
+  {
     "producto": "JAGERMEISTER x 700ml",
     "precio": "28.000,00"
   },
   {
     "producto": "LEGUI x 700ml",
-    "precio": "3.600,00"
+    "precio": "3.730,00"
   },
   {
     "producto": "PETERS Melocoton x 700ml",
@@ -39,21 +51,26 @@
     "producto": "TIA MARIA CREAM x 700ml",
     "precio": "8.900,00"
   },
+
   {
     "producto": "TRES PLUMAS CAFÉ AL COÑAC x 200ml",
-    "precio": "1.470,00"
+    "precio": "1.530,00"
   },
   {
     "producto": "TRES PLUMAS CHOCOLATE x 200ml",
-    "precio": "1.470,00"
+    "precio": "1.530,00"
   },
   {
     "producto": "TRES PLUMAS COÑAC x 200ml",
-    "precio": "1.470,00"
+    "precio": "1.530,00"
   },
   {
     "producto": "TRES PLUMAS DULCE DE LECHE x 200ml",
     "precio": "-"
+  },
+  {
+    "producto": "TRES PLUMAS BANANA x 700ml",
+    "precio": "5.200,00"
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL CHOCOLATE x 700ml",
@@ -61,7 +78,7 @@
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL COÑAC x 700ml",
-    "precio": "4.020,00"
+    "precio": "5.200,00"
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL DULCE DE LECHE x 700ml",
@@ -69,22 +86,22 @@
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL RON x 700ml",
-    "precio": "4.020,00"
+    "precio": "-"
   },
   {
     "producto": "TRES PLUMAS CHOCOLATE x 700ml",
-    "precio": "4.020,00"
+    "precio": "5.200,00"
   },
   {
     "producto": "TRES PLUMAS DULCE DE LECHE x 700ml",
-    "precio": "4.020,00"
+    "precio": "5.200,00"
   },
   {
     "producto": "TRES PLUMAS DULCE DE LECHE ALMENDRA x 700ml",
-    "precio": "4.020,00"
+    "precio": "5.200,00"
   },
   {
     "producto": "TRES PLUMAS HUEVO x 700ml",
-    "precio": "4.020,00"
+    "precio": "5.200,00"
   }
 ]

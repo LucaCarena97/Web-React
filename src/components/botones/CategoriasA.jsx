@@ -92,6 +92,12 @@ export function CategoriasA() {
             >
               Don Satur
             </Link>
+            <Link
+              className="block py-2 px-2 hover:bg-blue-300 rounded"
+              to={"/alimentos/fideos"}
+            >
+              Fideos
+            </Link>
 
             <Link
               className="block py-2 px-2 hover:bg-blue-300 rounded"
