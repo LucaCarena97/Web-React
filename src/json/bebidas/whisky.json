@@ -1,11 +1,15 @@
 [
   {
     "producto": "BLENDERS x 200ml",
-    "precio": "2.220,00"
+    "precio": "2.320,00"
+  },
+  {
+    "producto": "BLENDERS x 750ml",
+    "precio": "6.520,00"
   },
   {
     "producto": "BLENDERS x 1000ml",
-    "precio": "9.300,00"
+    "precio": "8.250,00"
   },
   {
     "producto": "GLENMORANGIE 10 Years x 700ml",
@@ -17,7 +21,7 @@
   },
   {
     "producto": "JAMESON x 750ml",
-    "precio": "22.600,00"
+    "precio": "28.600,00"
   },
   {
     "producto": "JW RED LABEL x 375ml",

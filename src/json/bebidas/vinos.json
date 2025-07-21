@@ -348,6 +348,14 @@
     "precio": "11.990,00"
   },
   {
+    "producto": "MANOJO DE UVAS Tinto Tetra x 1000ml",
+    "precio": "1.570,00"
+  },
+  {
+    "producto": "MANOJO DE UVAS Blanco Tetra x 1000ml",
+    "precio": "1.350,00"
+  },
+  {
     "producto": "MISTERIO Malbec x 750ml",
     "precio": "3.100,00"
   },
@@ -372,11 +380,11 @@
     "precio": "2.200,00"
   },
   {
-    "producto": "NATIVO BLANCO Tetra x 1000ml",
+    "producto": "NATIVO Blanco Tetra x 1000ml",
     "precio": "1.630,00"
   },
   {
-    "producto": "NATIVO TINTO Tetra x 1000ml",
+    "producto": "NATIVO Tinto Tetra x 1000ml",
     "precio": "1.670,00"
   },
   {
@@ -493,7 +501,7 @@
   },
   {
     "producto": "TRAPICHE RESERVA Malbec x 750ml",
-    "precio": "5.700,00"
+    "precio": "-"
   },
   {
     "producto": "TRIVENTO Malbec x 750ml",
