@@ -20,14 +20,6 @@
     "precio": "-"
   },
   {
-    "producto": "ALARIS Dulce Cosecha Natural x 750ml",
-    "precio": "-"
-  },
-  {
-    "producto": "ALARIS Dulce Cosecha Rosé x 750ml",
-    "precio": "-"
-  },
-  {
     "producto": "ALMA MORA Malbec x 750ml",
     "precio": "4.470,00"
   },
@@ -161,7 +153,7 @@
   },
   {
     "producto": "EL BAUTISMO Malbec x 750ml",
-    "precio": "3.100,00"
+    "precio": "-"
   },
   {
     "producto": "EL BAUTISMO BLEND TINTAS x 750ml",
@@ -190,10 +182,6 @@
   {
     "producto": "EL NAUFRAGO x 750ml",
     "precio": "2.740,00"
-  },
-  {
-    "producto": "EL REGRESO Semillon & Chenin 750ml",
-    "precio": "-"
   },
   {
     "producto": "EL ULTIMO RIE MEJOR BLEND x 750ml",
@@ -273,7 +261,7 @@
   },
   {
     "producto": "FOND DE CAVE GRAN RESERVA Malbec x 750ml",
-    "precio": "12.950,00"
+    "precio": "-"
   },
   {
     "producto": "GUANACO x 750ml",
@@ -457,7 +445,7 @@
   },
   {
     "producto": "SANTA JULIA CHENIN DULCE x 750ml",
-    "precio": "5.700,00"
+    "precio": "5.500,00"
   },
   {
     "producto": "SANTA JULIA TINTO DULCE x 750ml",
@@ -522,13 +510,5 @@
   {
     "producto": "VASCO VIEJO Tinto x 750ml",
     "precio": "1.970,00"
-  },
-  {
-    "producto": "VIÑAS RIOJANAS BLANCO Tetra x 1000ml",
-    "precio": "-"
-  },
-  {
-    "producto": "VIÑAS RIOJANAS TINTO Tetra x 1000ml",
-    "precio": "-"
   }
 ]

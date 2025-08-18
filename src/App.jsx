@@ -49,7 +49,7 @@ import { Limpieza } from "./components/higiene/Limpieza";
 import { Varios } from "./routes/Varios";
 import { Duracell } from "./components/varios/Duracell";
 import { Cigarrillos } from "./components/varios/Cigarrillos";
-import { Carbon } from "./components/varios/Carbon";
+// import { Carbon } from "./components/varios/Carbon";
 import { Bolsas } from "./components/varios/Bolsas";
 import { ToastContainer } from "react-toastify";
 // import { AuthComponent } from "./routes/AuthComponent";
@@ -118,7 +118,7 @@ function App() {
         <Route path="/varios" element={<Varios />} />
         <Route path="/varios/duracell" element={<Duracell />} />
         <Route path="/varios/cigarrillos" element={<Cigarrillos />} />
-        <Route path="/varios/carbon-leña" element={<Carbon />} />
+        {/* <Route path="/varios/carbon-leña" element={<Carbon />} /> */}
         <Route path="/varios/bolsas" element={<Bolsas />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

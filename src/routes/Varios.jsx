@@ -1,6 +1,6 @@
 import { Menu } from "../components/botones/Menu";
 import { Link } from "react-router-dom";
-import { GiFire, GiCigarette, GiBatteries } from "react-icons/gi";
+import { GiCigarette, GiBatteries } from "react-icons/gi";
 import { BsBagFill } from "react-icons/bs";
 
 export function Varios() {
@@ -16,12 +16,12 @@ export function Varios() {
         >
           <BsBagFill className="mr-2" /> Bolsas Residuos
         </Link>
-        <Link
+        {/* <Link
           className="bg-gray-400 border-gray-500 border-4 text-lg py-2 w-48 rounded hover:bg-gray-300 mb-2 text-center flex items-center justify-center"
           to={"/varios/carbon-leña"}
         >
           <GiFire className="mr-2" /> Carbón/Leña
-        </Link>
+        </Link> */}
 
         <Link
           className="bg-yellow-500 border-yellow-600 border-4 text-lg py-2 w-48 rounded hover:bg-yellow-400 mb-2 text-center flex items-center justify-center"

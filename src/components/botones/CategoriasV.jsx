@@ -42,12 +42,12 @@ export function CategoriasV() {
           >
             Bolsas Residuos
           </Link>
-          <Link
+          {/* <Link
             className="block py-2 px-2 hover:bg-blue-300 rounded"
             to={"/varios/carbon-leña"}
           >
             Carbón/Leña
-          </Link>
+          </Link> */}
           <Link
             className="block py-2 px-2 hover:bg-blue-300 rounded"
             to={"/varios/cigarrillos"}
