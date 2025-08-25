@@ -25,6 +25,7 @@ import { FaJarWheat } from "react-icons/fa6";
 import { LiaCookieBiteSolid } from "react-icons/lia";
 import { TbSalt } from "react-icons/tb";
 import { GiNoodles } from "react-icons/gi";
+import { SiCakephp } from "react-icons/si";
 
 export function Alimentos() {
   return (
@@ -50,6 +51,12 @@ export function Alimentos() {
           to={"/alimentos/arroz"}
         >
           <BiBowlRice className="mr-2" /> Arroz
+        </Link>
+        <Link
+          className="bg-yellow-800 border-yellow-500 border-4 py-2 w-48 rounded hover:bg-yellow-700 mb-2 text-center flex items-center justify-center"
+          to={"/alimentos/alfajor"}
+        >
+          <SiCakephp className="mr-2" /> Alfajor
         </Link>
         <Link
           className="bg-green-600 border-green-300 border-4 py-2 w-48 rounded hover:bg-green-500 mb-2 text-center flex items-center justify-center"
