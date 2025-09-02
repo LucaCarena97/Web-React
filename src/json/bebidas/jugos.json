@@ -8,6 +8,10 @@
     "precio": "-"
   },
   {
+    "producto": "AGUA MINERAL MAGNA x 1,5lts",
+    "precio": "770,00"
+  },
+  {
     "producto": "AGUA MINERAL NESTLE x 500ml ",
     "precio": "-"
   },
@@ -45,15 +49,15 @@
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA MANZANA x 1,5lts ",
-    "precio": "990,00"
+    "precio": "-"
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA NARANJA x 1,5lts ",
-    "precio": "990,00"
+    "precio": "-"
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA POMELO x 1,5lts ",
-    "precio": "990,00"
+    "precio": "-"
   },
   {
     "producto": "AGUA Sab. BAGGIO VIDA PERA x 1,5lts ",
@@ -93,7 +97,7 @@
   },
   {
     "producto": "BAGGIO PRONTO DURAZNO x 200ml",
-    "precio": "360,00"
+    "precio": "410,00"
   },
   {
     "producto": "BAGGIO PRONTO MANZANA x 200ml",
@@ -101,23 +105,23 @@
   },
   {
     "producto": "BAGGIO PRONTO MULTIFRUTA x 200ml",
-    "precio": "360,00"
+    "precio": "410,00"
   },
   {
     "producto": "BAGGIO PRONTO NARANJA x 200ml",
-    "precio": "360,00"
+    "precio": "410,00"
   },
   {
     "producto": "BAGGIO PRONTO DURAZNO x 1000ml",
-    "precio": "1.250,00"
+    "precio": "1.310,00"
   },
   {
     "producto": "BAGGIO PRONTO MULTIFRUTA x 1000ml",
-    "precio": "1.250,00"
+    "precio": "1.310,00"
   },
   {
     "producto": "BAGGIO PRONTO NARANJA x 1000ml",
-    "precio": "1.250,00"
+    "precio": "1.310,00"
   },
   {
     "producto": "CEPITA DURAZNO x 1000ml",
@@ -137,7 +141,7 @@
   },
   {
     "producto": "GATORADE Sab. x 500ml",
-    "precio": "1.680,00"
+    "precio": "1.770,00"
   },
   {
     "producto": "GATORADE Sab. x 750ml",
