@@ -65,11 +65,11 @@
   },
   {
     "producto": "GANCIA x 950ml",
-    "precio": "5.450,00"
+    "precio": "5.810,00"
   },
   {
     "producto": "GANCIA x 1250ml",
-    "precio": "5.880,00"
+    "precio": "6.100,00"
   },
   {
     "producto": "GANCIA Hibiscus x 750ml",
@@ -82,21 +82,5 @@
   {
     "producto": "MARTINI BIANCO x 1000ml",
     "precio": "5.720,00"
-  },
-  {
-    "producto": "MINGO Hard Seltzer LIMÓN x 355ml",
-    "precio": "-"
-  },
-  {
-    "producto": "MINGO Hard Seltzer LIMÓN x 750ml",
-    "precio": "-"
-  },
-  {
-    "producto": "MINGO Hard Seltzer POMELO x 355ml",
-    "precio": "-"
-  },
-  {
-    "producto": "MINGO Hard Seltzer POMELO x 750ml",
-    "precio": "-"
   }
 ]
