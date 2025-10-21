@@ -1,11 +1,11 @@
 [
   {
     "producto": "CHANDON Delice x 750ml",
-    "precio": "14.900,00"
+    "precio": "12.700,00"
   },
   {
     "producto": "CHANDON Extra Brut x 750ml",
-    "precio": "14.900,00"
+    "precio": "12.700,00"
   },
   {
     "producto": "DADA N°7 Sweet x 750ml",
@@ -29,7 +29,7 @@
   },
   {
     "producto": "MERCIER Extra Brut x 750ml",
-    "precio": "6.870,00"
+    "precio": "7.050,00"
   },
   {
     "producto": "NAVARRO CORREAS Extra Brut Spark x 750ml",
@@ -53,14 +53,14 @@
   },
   {
     "producto": "SUTER Dulce x 750ml",
-    "precio": "3.050,00"
+    "precio": "-"
   },
   {
     "producto": "SUTER Extra Brut x 750ml",
-    "precio": "3.050,00"
+    "precio": "-"
   },
   {
     "producto": "SIDRA LA FARRUCA x 710ml",
-    "precio": "1.300,00"
+    "precio": "-"
   }
 ]
