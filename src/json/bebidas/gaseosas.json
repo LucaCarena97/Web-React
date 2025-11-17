@@ -37,7 +37,7 @@
   },
   {
     "producto": "COCA COLA x 2,25lts",
-    "precio": "3.690,00"
+    "precio": "3.800,00"
   },
   {
     "producto": "COCA COLA x 2,5lts",
@@ -69,7 +69,7 @@
   },
   {
     "producto": "FANTA x 2,25lts",
-    "precio": "3.690,00"
+    "precio": "3.800,00"
   },
   {
     "producto": "SPRITE Lata x 354ml",
@@ -97,7 +97,7 @@
   },
   {
     "producto": "SPRITE x 2,25lts",
-    "precio": "3.690,00"
+    "precio": "3.800,00"
   },
   {
     "producto": "SCHWEPPES TóNICA x 1,5lts",
@@ -110,6 +110,10 @@
   {
     "producto": "7UP x 1,5lts",
     "precio": "2.360,00"
+  },
+  {
+    "producto": "7UP x 2lts Ret.",
+    "precio": "2.050,00"
   },
   {
     "producto": "7UP x 2,25lts",
@@ -153,11 +157,11 @@
   },
   {
     "producto": "PASO DE LOS TOROS POMELO x 1,5lts",
-    "precio": "2.350,00"
+    "precio": "2.630,00"
   },
   {
     "producto": "PASO DE LOS TOROS TóNICA x 1,5lts",
-    "precio": "2.350,00"
+    "precio": "2.630,00"
   },
   {
     "producto": "H2Oh! MANZANA x 500ml",
@@ -193,7 +197,7 @@
   },
   {
     "producto": "DOBLE COLA x 3lts",
-    "precio": "1.790,00"
+    "precio": "1.590,00"
   },
   {
     "producto": "PRITTY x 500ml",
