@@ -1,11 +1,11 @@
 [
   {
     "producto": "CHANDON Delice x 750ml",
-    "precio": "13.100,00"
+    "precio": "13.600,00"
   },
   {
     "producto": "CHANDON Extra Brut x 750ml",
-    "precio": "13.100,00"
+    "precio": "13.600,00"
   },
   {
     "producto": "DADA N°7 Sweet x 750ml",
@@ -62,5 +62,9 @@
   {
     "producto": "SIDRA LA FARRUCA x 710ml",
     "precio": "1.980,00"
+  },
+  {
+    "producto": "SIDRA LA VICTORIA x 720ml",
+    "precio": "2.260,00"
   }
 ]
