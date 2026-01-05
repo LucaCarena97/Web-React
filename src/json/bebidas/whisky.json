@@ -1,15 +1,15 @@
 [
   {
     "producto": "BLENDERS x 200ml",
-    "precio": "2.320,00"
+    "precio": "3.100,00"
   },
   {
     "producto": "BLENDERS x 750ml",
-    "precio": "6.700,00"
+    "precio": "7.300,00"
   },
   {
     "producto": "BLENDERS x 1000ml",
-    "precio": "7.900,00"
+    "precio": "8.450,00"
   },
   {
     "producto": "FINEST BALLANTINES  x 700ml",
@@ -57,7 +57,7 @@
   },
   {
     "producto": "THE FAMOUS GROUSE x 750ml",
-    "precio": "26.100,00"
+    "precio": "-"
   },
   {
     "producto": "VAT69 x 700ml",
@@ -65,6 +65,6 @@
   },
   {
     "producto": "WHITE HORSE x 750ml",
-    "precio": "13.600,00"
+    "precio": "15.600,00"
   }
 ]
