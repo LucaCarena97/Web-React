@@ -1,7 +1,7 @@
 [
   {
     "producto": "APEROL x 750ml",
-    "precio": "8.800,00"
+    "precio": "8.950,00"
   },
   {
     "producto": "CAMPARI x 750ml",
@@ -33,7 +33,7 @@
   },
   {
     "producto": "FERNET BRANCA x 450ml",
-    "precio": "8.700,00"
+    "precio": "9.250,00"
   },
   {
     "producto": "FERNET BRANCA x 750ml",
@@ -58,6 +58,10 @@
   {
     "producto": "GANCIA Lata x 473ml",
     "precio": "2.400,00"
+  },
+  {
+    "producto": "GANCIA Lata Sin Alcohol x 473ml",
+    "precio": "1.530,00"
   },
   {
     "producto": "GANCIA x 450ml",
