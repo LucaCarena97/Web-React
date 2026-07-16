@@ -33,11 +33,11 @@
   },
   {
     "producto": "FERNET BRANCA x 450ml",
-    "precio": "9.300,00"
+    "precio": "9.800,00"
   },
   {
     "producto": "FERNET BRANCA x 750ml",
-    "precio": "13.450,00"
+    "precio": "14.550,00"
   },
   {
     "producto": "BRANCA MENTA x 450ml",
@@ -45,7 +45,7 @@
   },
   {
     "producto": "BRANCA MENTA x 750ml",
-    "precio": "12.000,00"
+    "precio": "14.550,00"
   },
   {
     "producto": "BRANCA MENTA Receta Italiana x 750ml",
@@ -69,11 +69,11 @@
   },
   {
     "producto": "GANCIA x 950ml",
-    "precio": "6.310,00"
+    "precio": "6.210,00"
   },
   {
     "producto": "GANCIA x 1250ml",
-    "precio": "6.600,00"
+    "precio": "-"
   },
   {
     "producto": "GANCIA Hibiscus x 750ml",
@@ -81,10 +81,10 @@
   },
   {
     "producto": "HESPERIDINA x 1000ml",
-    "precio": "13.000,00"
+    "precio": "13.950,00"
   },
   {
     "producto": "MARTINI BIANCO x 1000ml",
-    "precio": "6.600,00"
+    "precio": "7.150,00"
   }
 ]
