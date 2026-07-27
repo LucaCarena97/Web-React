@@ -5,7 +5,7 @@
   },
   {
     "producto": "BAILEYS Irish Cream x 750ml",
-    "precio": "23.200,00"
+    "precio": "27.500,00"
   },
   {
     "producto": "BARTENDERS Melocotón  x 1lt",
@@ -29,7 +29,7 @@
   },
   {
     "producto": "LEGUI x 700ml",
-    "precio": "4.700,00"
+    "precio": "5.050,00"
   },
   {
     "producto": "PETERS Melocoton x 700ml",
@@ -70,7 +70,7 @@
   },
   {
     "producto": "TRES PLUMAS BANANA x 700ml",
-    "precio": "5.200,00"
+    "precio": "-"
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL CHOCOLATE x 700ml",
@@ -78,7 +78,7 @@
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL COÑAC x 700ml",
-    "precio": "5.200,00"
+    "precio": "6.200,00"
   },
   {
     "producto": "TRES PLUMAS CAFÉ AL DULCE DE LECHE x 700ml",
@@ -90,18 +90,18 @@
   },
   {
     "producto": "TRES PLUMAS CHOCOLATE x 700ml",
-    "precio": "5.200,00"
+    "precio": "6.200,00"
   },
   {
     "producto": "TRES PLUMAS DULCE DE LECHE x 700ml",
-    "precio": "5.200,00"
+    "precio": "6.200,00"
   },
   {
     "producto": "TRES PLUMAS DULCE DE LECHE ALMENDRA x 700ml",
-    "precio": "5.200,00"
+    "precio": "-"
   },
   {
     "producto": "TRES PLUMAS HUEVO x 700ml",
-    "precio": "5.200,00"
+    "precio": "-"
   }
 ]
