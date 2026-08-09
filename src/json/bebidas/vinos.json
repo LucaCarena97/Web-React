@@ -13,7 +13,7 @@
   },
   {
     "producto": "ALARIS Malbec x 750ml",
-    "precio": "3.150,00"
+    "precio": "3.420,00"
   },
   {
     "producto": "ALARIS Chardonnay x 750ml",
@@ -145,11 +145,15 @@
   },
   {
     "producto": "DON VALENTIN Lacrado Tinto x 750ml",
-    "precio": "2.410,00"
+    "precio": "3.410,00"
+  },
+  {
+    "producto": "D.V. CATENA Malb/Malb x 750ml",
+    "precio": "18.100,00"
   },
   {
     "producto": "D.V. CATENA Cab/Malb x 750ml",
-    "precio": "12.310,00"
+    "precio": "12.950,00"
   },
   {
     "producto": "EL BAUTISMO Malbec x 750ml",
@@ -189,11 +193,11 @@
   },
   {
     "producto": "ELEMENTOS Malbec x 750ml",
-    "precio": "3.660,00"
+    "precio": "4.400,00"
   },
   {
     "producto": "ELEMENTOS Torrontes x 750ml",
-    "precio": "3.660,00"
+    "precio": "4.400,00"
   },
   {
     "producto": "EMILIA Malbec x 750ml",
@@ -369,11 +373,11 @@
   },
   {
     "producto": "NATIVO Blanco Tetra x 1000ml",
-    "precio": "1.490,00"
+    "precio": "1.750,00"
   },
   {
     "producto": "NATIVO Tinto Tetra x 1000ml",
-    "precio": "1.490,00"
+    "precio": "1.750,00"
   },
   {
     "producto": "NORTON SELECT Malbec x 750ml",
@@ -432,6 +436,10 @@
     "precio": "-"
   },
   {
+    "producto": "SANTA JULIA Lata x 269ml",
+    "precio": "-"
+  },
+  {
     "producto": "SANTA JULIA Chardonnay x 750ml",
     "precio": "4.330,00"
   },
@@ -458,6 +466,14 @@
   {
     "producto": "SAINT FELICIEN Malbec x 750ml",
     "precio": "9.910,00"
+  },
+  {
+    "producto": "SALENTEIN Reserva Malbec x 750ml",
+    "precio": "9.260,00"
+  },
+  {
+    "producto": "SALENTEIN Brut Nature x 750ml",
+    "precio": "12.390,00"
   },
   {
     "producto": "TERMIDOR BLANCO Tetra x 1000ml",
@@ -497,7 +513,7 @@
   },
   {
     "producto": "TRUMPETER Malbec x 750ml",
-    "precio": "6.950,00"
+    "precio": "8.200,00"
   },
   {
     "producto": "TRUMPETER RESERVA Malbec x 750ml",

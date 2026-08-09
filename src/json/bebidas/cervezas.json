@@ -65,7 +65,7 @@
   },
   {
     "producto": "BRAHMA Retornable x 1000ml",
-    "precio": "3.330,00"
+    "precio": "3.210,00"
   },
   {
     "producto": "BUDWEISER Retornable x 340ml",
@@ -77,11 +77,11 @@
   },
   {
     "producto": "CÓRDOBA Lata x 500ml",
-    "precio": "1.260,00"
+    "precio": "1.410,00"
   },
   {
     "producto": "CÓRDOBA Retornable x 1000ml",
-    "precio": "2.550,00"
+    "precio": "2.460,00"
   },
   {
     "producto": "CORONA Lata x 270ml",
@@ -89,11 +89,15 @@
   },
   {
     "producto": "CORONA x 330ml",
-    "precio": "2.420,00"
+    "precio": "2.880,00"
+  },
+  {
+    "producto": "CORONA Sin Alcohol x 330ml",
+    "precio": "2.800,00"
   },
   {
     "producto": "CORONA x 710ml",
-    "precio": "3.910,00"
+    "precio": "4.790,00"
   },
   {
     "producto": "HEINEKEN Lata x 500ml",
@@ -145,7 +149,7 @@
   },
   {
     "producto": "QUILMES Retornable x 1000ml",
-    "precio": "3.300,00"
+    "precio": "3.210,00"
   },
   {
     "producto": "SCHNEIDER Rubia Lata x 473ml ",
@@ -169,7 +173,7 @@
   },
   {
     "producto": "STELLA ARTOIS RUBIA Lata x 500ml",
-    "precio": "2.490,00"
+    "precio": "2.800,00"
   },
   {
     "producto": "STELLA ARTOIS Retornable RUBIA x 1000ml",
