@@ -1,7 +1,11 @@
 [
   {
+    "producto": "CHANDON Aperifit x 750ml",
+    "precio": "15.900,00"
+  },
+  {
     "producto": "CHANDON Delice x 750ml",
-    "precio": "14.900,00"
+    "precio": "15.900,00"
   },
   {
     "producto": "CHANDON Extra Brut x 750ml",
@@ -29,7 +33,7 @@
   },
   {
     "producto": "MERCIER Extra Brut x 750ml",
-    "precio": "8.300,00"
+    "precio": "9.100,00"
   },
   {
     "producto": "NAVARRO CORREAS Extra Brut Spark x 750ml",

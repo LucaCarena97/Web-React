@@ -172,6 +172,10 @@
     "precio": "-"
   },
   {
+    "producto": "ESPERANDO DE CALLIA Malbec x 750ml",
+    "precio": "3.860,00"
+  },
+  {
     "producto": "EL GORDO MOTONETA x 750ml",
     "precio": "3.210,00"
   },
@@ -241,11 +245,11 @@
   },
   {
     "producto": "FINCA LA LINDA Malbec 750ml",
-    "precio": "7.590,00"
+    "precio": "9.200,00"
   },
   {
     "producto": "FINCA LA LINDA Chardonay 750ml",
-    "precio": "7.590,00"
+    "precio": "9.200,00"
   },
   {
     "producto": "FINCA LAS MORAS Malbec x 750ml",
@@ -266,6 +270,10 @@
   {
     "producto": "FOND DE CAVE GRAN RESERVA Malbec x 750ml",
     "precio": "-"
+  },
+  {
+    "producto": "FINJAMOS DEMENCIA Malbec x 750ml",
+    "precio": "3.990,00"
   },
   {
     "producto": "GUANACO x 750ml",
@@ -309,11 +317,11 @@
   },
   {
     "producto": "LATITUD 33 Malbec x 750ml",
-    "precio": "5.250,00"
+    "precio": "5.690,00"
   },
   {
     "producto": "LATITUD 33 Chardonnay x 750ml",
-    "precio": "5.250,00"
+    "precio": "5.690,00"
   },
   {
     "producto": "LOS ARBOLES Chardonnay x 750ml",
@@ -349,11 +357,11 @@
   },
   {
     "producto": "MISTERIO Malbec x 750ml",
-    "precio": "3.600,00"
+    "precio": "2.410,00"
   },
   {
     "producto": "MISTERIO Chardonnay x 750ml",
-    "precio": "3.600,00"
+    "precio": "-"
   },
   {
     "producto": "MOTOCICLISTA Malbec x 750ml",
@@ -373,11 +381,11 @@
   },
   {
     "producto": "NATIVO Blanco Tetra x 1000ml",
-    "precio": "1.750,00"
+    "precio": "1.690,00"
   },
   {
     "producto": "NATIVO Tinto Tetra x 1000ml",
-    "precio": "1.750,00"
+    "precio": "1.690,00"
   },
   {
     "producto": "NORTON SELECT Malbec x 750ml",
@@ -409,7 +417,7 @@
   },
   {
     "producto": "PORTILLO Malbec x 750ml",
-    "precio": "4.150,00"
+    "precio": "4.790,00"
   },
   {
     "producto": "PROFUGO Especias Cabernet Sauvignon x 750ml",
@@ -513,7 +521,7 @@
   },
   {
     "producto": "TRUMPETER Malbec x 750ml",
-    "precio": "8.200,00"
+    "precio": "7.900,00"
   },
   {
     "producto": "TRUMPETER RESERVA Malbec x 750ml",

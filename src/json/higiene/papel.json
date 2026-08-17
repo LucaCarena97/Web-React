@@ -1,11 +1,11 @@
 [
   {
     "producto": "ELEGANTE Cocina 50 paños x 3un",
-    "precio": "1.690,00"
+    "precio": "-"
   },
   {
     "producto": "ELEGANTE Higiénico 30mts x 4un",
-    "precio": "1.380,00"
+    "precio": "-"
   },
   {
     "producto": "ELEGANTE Higiénico 30mts x 6un",
@@ -26,6 +26,14 @@
   {
     "producto": "HIGIENOL Premium Higiénico 30mts x 4un",
     "precio": "-"
+  },
+  {
+    "producto": "SUIZA Cocina x 200",
+    "precio": "1.490,00"
+  },
+  {
+    "producto": "SUIZA Higiénico x 4un",
+    "precio": "1.330,00"
   },
   {
     "producto": "SUSSEX x3 Clásico",
