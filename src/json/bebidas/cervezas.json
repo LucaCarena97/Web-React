@@ -112,6 +112,14 @@
     "precio": "4.690,00"
   },
   {
+    "producto": "Grolsch x 473ml",
+    "precio": "2.990,00"
+  },
+  {
+    "producto": "HEINEKEN x 330ml",
+    "precio": "3.100,00"
+  },
+  {
     "producto": "HEINEKEN Lata x 500ml",
     "precio": "2.880,00"
   },
@@ -126,6 +134,10 @@
   {
     "producto": "HEINEKEN Retornable x 1000ml",
     "precio": "5.050,00"
+  },
+  {
+    "producto": "MILLER x 330ml",
+    "precio": "2.590,00"
   },
   {
     "producto": "PEÑON DEL ÁGUILA Lata x 500ml",
